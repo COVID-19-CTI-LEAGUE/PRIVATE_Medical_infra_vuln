@@ -2,18 +2,35 @@
 Repo for Channel #2-medical-infra-vuln-stream
 
 
+<TLP:AMBER>
+
 
 ## info
 
 enriched and by_country_separated list of IPs,
 taken from the stream #2-medical-infra-vuln-stream
 
-what it does:
+what you find here:
 
-- take all the infos from the vuln-stream (daily summary, 
-  with an hourly update_schedule)
+
+- lists from vulnerable hosts, attributed to medical/hospital-orgs, based on keywords in their hostnames or network-info
+- the lists are separated by country and generated for each day
+- these are not IOCs
+
+
+
+target_audience:
+
+- nat-certs
+- health-certs
+- telcos
+
+
+how the data is compiled:
+
+- take all the infos from the vuln-stream,w hich is an excerpt from shodan-scans 
 - separate the IPs by country for easy managemend for nat-certs (relies on geoip, which might be incorrect from time to time)
-- store a daily summary in each country's folder VULNS_TREAM_FIREHOSE/[Country_Code]/VSF-[CN]-[DATE].csv
+- store a daily summary in each country's folder VULN_STREAM_FIREHOSE/[Country_Code]/VSF-[CN]-[DATE].csv
 
 
 
