@@ -1,0 +1,9 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.18.195.186;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8443, 3389, 8087];2020-03-28 02:14:59;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+178.18.196.142;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 1434, 3389];2020-03-28 12:50:29;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+178.18.199.124;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9090, 80, 25, 1433, 8090, 443, 3389];2020-03-28 19:19:58;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+185.122.200.98;43260;{'CVE-2020-0796': 'MS SMBv3 RCE'};[3389, 5357, 445];2020-03-28 15:56:16;Makdos Bilisim Teknolojileri San. Tic. Ltd. Sti.
+185.122.201.11;43260;{'CVE-2020-0796': 'MS SMBv3 RCE'};[3389, 445];2020-03-28 13:24:51;Makdos Bilisim Teknolojileri San. Tic. Ltd. Sti.
+185.122.201.5;43260;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 8123, 3306, 445, 80, 21, 5432, 443, 3389, 7071];2020-03-28 21:11:08;Makdos Bilisim Teknolojileri San. Tic. Ltd. Sti.
+185.134.185.109;205725;{'CVE-2020-0796': 'MS SMBv3 RCE'};[2000, 139, 445];2020-03-28 12:50:07;Selcuk Ecza Deposu Ticaret ve Sanayi Anonim Sirket
+185.195.48.180;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-28 16:42:09;Alfa Iletisim Hizmetleri Pazarlama Ticaret A.s.

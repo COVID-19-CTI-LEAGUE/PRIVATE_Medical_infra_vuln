@@ -1,0 +1,19 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.18.196.142;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 1434, 3389];2020-03-26 18:26:41;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+178.18.197.77;43391;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 389, 80, 3306, 587, 110, 143, 8880, 21, 25, 1433, 8443, 3389, 53];2020-03-26 10:10:42;Netdirekt A.S.
+178.18.197.78;43391;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8880, 8080, 389, 3306, 587, 110, 143, 80, 53, 25, 1433, 3389, 21];2020-03-26 02:34:52;Netdirekt A.S.
+178.18.205.222;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 587, 110, 143, 8080, 21, 1433, 25, 1434, 3389, 53];2020-03-26 09:48:58;Vargonen Network
+185.115.211.248;25145;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 22];2020-03-26 03:42:20;Teknotel Telekomunikasyon Sanayi Ve Ticaret A.s.
+185.122.200.55;43260;{'MS17-010': 'MS17-010'};[8000, 8880, 5985, 137, 3306, 110, 143, 80, 53, 25, 8443, 3389, 445, 21];2020-03-26 02:47:08;Makdos Bilisim Teknolojileri San. Tic. Ltd. Sti.
+185.122.203.149;43260;{'CVE-2020-0796': 'MS SMBv3 RCE'};[3389, 445, 5357];2020-03-26 12:31:51;Makdos Bilisim Teknolojileri San. Tic. Ltd. Sti.
+185.122.203.220;43260;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445];2020-03-26 08:08:21;Makdos Bilisim Teknolojileri San. Tic. Ltd. Sti.
+185.132.126.226;42926;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[445, 3389];2020-03-26 00:18:17;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+185.48.213.104;34984;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-26 13:07:53;Turkcell Superonline
+185.93.69.29;42926;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445, 3389];2020-03-26 16:32:07;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+195.155.97.54;199484;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8800, 993, 8443, 4040, 587, 143, 80, 465, 995, 119, 25, 443, 636, 3389];2020-03-26 14:53:55;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+212.15.8.113;15924;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-03-26 01:50:49;Vodafone Net Iletisim Hizmetleri Anonim Sirketi
+31.186.29.110;199484;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8880, 3306, 110, 143, 80, 8401, 21, 1433, 8443, 3389, 53];2020-03-26 09:02:00;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+31.186.8.176;199484;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 139, 80, 2259, 25, 3389];2020-03-26 14:09:26;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+37.75.13.46;199484;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 445, 3389];2020-03-26 02:54:22;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+88.247.84.59;9121;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[902, 80, 5555, 53, 443, 3389];2020-03-26 14:00:30;Turk Telekom
+93.115.10.205;42926;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389, 445];2020-03-26 02:41:50;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.

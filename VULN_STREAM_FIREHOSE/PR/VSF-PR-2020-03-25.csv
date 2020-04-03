@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+200.5.3.12;23534;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 9443, 8008, 5801, 5900, 5901, 3389, 8080, 443, 8009, 8888, 25, 8443, 445, 1311];2020-03-25 00:38:49;Puerto Rico Medical Services Administration

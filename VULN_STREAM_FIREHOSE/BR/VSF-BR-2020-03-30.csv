@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+128.201.175.193;266643;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 8291, 53, 3389];2020-03-30 16:22:00;Netfy Telecomunicacoes
+168.228.69.199;53059;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3388];2020-03-30 07:04:20;Outcenter Network Services
+177.159.127.227;18881;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 4444, 3389, 22, 5357];2020-03-30 08:01:55;Vivo
+186.195.86.66;263072;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-30 08:15:36;BD Fibra Telecom Ltda - EPP
+187.95.27.33;53081;{'CVE-2020-0796': 'MS SMBv3 RCE'};[1723, 8291, 445];2020-03-30 20:32:48;Netjacarei Telecon Ltda
+189.39.123.254;28310;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 9443, 5800, 8009, 5900, 8080, 443, 2012, 3389];2020-03-30 21:15:25;Smart Telecomunicações E Serviços Eirelli Epp
+200.205.21.202;10429;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[2000, 80, 443];2020-03-30 10:40:30;Vivo

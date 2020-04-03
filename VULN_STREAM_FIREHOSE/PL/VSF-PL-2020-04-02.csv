@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+91.227.64.108;200750;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-04-02 13:47:44;Klikom.net Sp.z o.o.

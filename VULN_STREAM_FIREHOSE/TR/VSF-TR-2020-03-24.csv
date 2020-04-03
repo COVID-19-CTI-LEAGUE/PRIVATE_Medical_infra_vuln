@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.157.13.186;42807;{'MS17-010': 'MS17-010'};[3389, 111, 445, 5357];2020-03-24 19:27:04;Aerotek Bilisim Sanayi ve Ticaret AS
+178.18.196.82;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 587, 110, 143, 8880, 21, 25, 8090, 3389, 53];2020-03-24 21:57:35;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+178.18.197.78;43391;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8880, 8080, 389, 3306, 587, 110, 143, 80, 53, 25, 1433, 3389, 21];2020-03-24 13:31:04;Netdirekt A.S.
+185.122.201.92;43260;{'CVE-2020-0796': 'MS SMBv3 RCE'};[3389, 5357, 445];2020-03-24 22:56:30;Makdos Bilisim Teknolojileri San. Tic. Ltd. Sti.
+185.77.2.185;51540;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 2000, 443, 22];2020-03-24 22:07:44;Fikri DAL
+24.133.176.189;47524;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 28267, 28996, 7, 104, 29995, 13, 111, 80, 17, 5138, 19, 29394, 29562, 3260, 3389, 1311];2020-03-24 21:36:15;Turksat
+46.45.159.228;42926;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-03-24 17:05:29;Radore Veri Merkezi Hizmetleri A.S.

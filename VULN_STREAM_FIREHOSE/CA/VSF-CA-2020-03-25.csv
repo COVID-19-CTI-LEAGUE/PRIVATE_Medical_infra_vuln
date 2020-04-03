@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+142.112.96.195;577;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 81, 82, 3389];2020-03-25 09:13:13;Bell Canada
+142.134.175.6;855;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-03-25 00:20:46;Bell Canada
+199.246.162.26;577;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-25 14:13:33;St. Michael's Hospital
+207.245.204.130;15290;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5009, 8443, 3389];2020-03-25 14:06:41;Allstream Corp.
+76.69.84.102;577;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5900, 3389];2020-03-25 10:44:08;Bell Canada
+76.75.129.195;21992;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-03-25 13:40:46;eHealth Ontario

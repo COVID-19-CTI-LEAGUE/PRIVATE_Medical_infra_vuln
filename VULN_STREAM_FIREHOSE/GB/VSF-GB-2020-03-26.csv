@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+109.169.32.176;20860;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-03-26 03:05:38;Iomart Hosting Limited
+185.17.180.180;21396;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 21];2020-03-26 22:56:08;Nimbus Hosting Ltd.
+185.17.180.246;21396;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 21];2020-03-26 09:29:28;Nimbus Hosting Ltd.
+51.143.168.211;8075;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-03-26 00:22:45;Microsoft Azure

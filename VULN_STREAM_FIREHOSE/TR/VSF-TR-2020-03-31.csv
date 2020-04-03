@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.122.200.10;43260;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5985, 137, 3306, 3389, 80, 53, 445, 21];2020-03-31 05:45:30;Makdos Bilisim Teknolojileri San. Tic. Ltd. Sti.
+185.122.200.247;43260;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 445];2020-03-31 11:41:46;Makdos Bilisim Teknolojileri San. Tic. Ltd. Sti.
+185.122.201.119;43260;{'CVE-2020-0796': 'MS SMBv3 RCE'};[5985, 445, 137];2020-03-31 18:07:00;Makdos Bilisim Teknolojileri San. Tic. Ltd. Sti.
+185.122.201.14;43260;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445];2020-03-31 10:50:25;Makdos Bilisim Teknolojileri San. Tic. Ltd. Sti.
+185.250.241.68;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE'};[3306, 5357, 3389, 80, 21, 443, 445];2020-03-31 00:01:07;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+213.14.7.10;34984;{'CVE-2019-11510': 'PulseSecure VPN RCE', 'CVE-2015-4000': 'CVE-2015-4000', 'CVE-2015-0204': 'CVE-2015-0204'};[443, 500, 1723, 10443];2020-03-31 20:29:38;Turkcell Superonline
+213.155.122.82;8685;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-03-31 20:52:44;Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.

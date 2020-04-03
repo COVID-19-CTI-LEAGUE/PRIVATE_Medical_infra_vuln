@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+116.6.82.178;134772;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443, 22];2020-03-24 21:19:26;China Telecom
+180.167.32.82;4812;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-03-24 21:51:42;China Telecom Shanghai
+202.106.208.34;4808;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443, 22];2020-03-24 17:57:58;China Unicom Beijing
+203.93.17.33;4808;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443, 22];2020-03-24 16:41:00;China Unicom Beijing
+42.159.118.228;58593;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-03-24 15:45:47;Shanghai Blue Cloud Technology Co.,Ltd
+58.213.83.164;4134;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 53, 22];2020-03-24 19:31:55;China Telecom

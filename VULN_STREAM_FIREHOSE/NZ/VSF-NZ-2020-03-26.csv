@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+222.152.48.185;4049;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-03-26 09:22:34;Computer Concepts Limited

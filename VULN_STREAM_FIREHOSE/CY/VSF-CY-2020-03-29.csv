@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+77.92.12.241;43356;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-29 10:03:14;Comtech Ticaret LTD.

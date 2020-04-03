@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+13.67.35.178;8075;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-03-24 19:47:46;Microsoft Azure
+18.138.56.45;3;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-03-24 20:43:54;Amazon.com

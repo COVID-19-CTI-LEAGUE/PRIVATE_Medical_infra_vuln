@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+203.41.227.227;1221;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-03-30 07:37:01;Telstra Internet
+218.214.219.198;9443;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443, 4430, 80, 500, 8443, 1723];2020-03-30 22:06:58;Vocus Communications
+27.121.114.206;55754;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 443, 3389, 53];2020-03-30 20:08:58;Ultima Computer Systems
+59.100.121.35;2764;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-03-30 00:08:17;AAPT Limited
+59.101.59.49;2764;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[465, 587, 3389, 25];2020-03-30 05:57:10;AAPT Limited

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+84.199.36.42;6848;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 161, 443, 22];2020-03-25 04:22:54;Telenet N.V. Business Internet

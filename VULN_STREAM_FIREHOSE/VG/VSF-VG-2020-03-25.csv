@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+66.81.206.248;40034;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-03-25 10:12:15;Confluence Networks

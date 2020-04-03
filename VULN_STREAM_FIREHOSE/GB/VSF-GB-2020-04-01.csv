@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.156.137.20;56444;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-01 14:30:02;Atmoso Limited
+185.17.180.184;21396;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 21];2020-04-01 19:09:11;Nimbus Hosting Ltd.
+51.141.85.230;8075;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[4443, 443, 22];2020-04-01 20:46:03;Microsoft Azure

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+80.227.153.240;15802;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80];2020-03-25 14:59:56;Emirates Integrated Telecommunications Company PJS

@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+194.75.44.146;2856;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 1194, 80, 25, 1723, 3389];2020-03-31 18:47:10;BT
+78.32.243.28;8468;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-03-31 01:40:49;Entanet
+81.134.91.136;2856;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 443, 3389, 4567];2020-03-31 17:50:56;BT
+84.92.213.168;6871;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 443, 3389, 1723];2020-03-31 07:35:19;Plusnet
+88.83.110.81;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 443, 1723, 3389];2020-03-31 11:48:47;Club Communications Ltd

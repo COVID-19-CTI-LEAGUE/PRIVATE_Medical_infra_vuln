@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+151.97.197.109;137;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-31 00:55:28;Universita' degli Studi di Catania
+82.49.253.204;3269;{'CVE-2020-0796': 'MS SMBv3 RCE'};[123, 445];2020-03-31 22:16:12;Telecom Italia
+87.7.74.139;3269;{'MS17-010': 'MS17-010'};[445];2020-03-31 19:53:22;Telecom Italia

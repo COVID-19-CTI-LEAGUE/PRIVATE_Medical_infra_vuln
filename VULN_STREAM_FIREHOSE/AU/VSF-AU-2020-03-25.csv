@@ -1,0 +1,9 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+120.150.191.42;1221;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9000, 1723, 3389];2020-03-25 12:19:06;Telstra Internet
+13.75.217.44;8075;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-03-25 06:47:37;Microsoft Azure
+202.137.206.36;9328;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 554, 443, 21];2020-03-25 18:42:58;Datacom Systems (au) Pty
+203.2.80.224;4739;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-03-25 14:47:30;The Royal Melbourne Hospital
+203.42.42.109;1221;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-03-25 14:03:38;Telstra Internet
+52.156.162.42;8075;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-03-25 19:38:47;Microsoft Azure
+58.108.216.87;4804;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-25 14:22:12;Optus
+59.100.121.35;2764;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-03-25 01:07:16;AAPT Limited

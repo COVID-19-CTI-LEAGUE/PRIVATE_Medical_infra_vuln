@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+104.45.13.73;8075;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-03-25 14:56:00;Microsoft Azure
+13.95.150.238;8075;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-03-25 04:01:45;Microsoft Azure
+40.114.252.238;8075;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-03-25 05:36:48;Microsoft Azure
+51.144.231.90;8075;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443, 22];2020-03-25 08:04:51;Microsoft Azure
+78.41.204.14;62370;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-03-25 13:24:30;Snel.com B.V.

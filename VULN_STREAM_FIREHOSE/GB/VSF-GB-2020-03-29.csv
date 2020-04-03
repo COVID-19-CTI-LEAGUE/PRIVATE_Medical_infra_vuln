@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+195.99.222.119;2856;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-03-29 23:39:31;BT
+212.74.4.125;4589;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 3389];2020-03-29 03:15:19;Interoute Managed Services UK Limited
+78.109.178.200;41230;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 443, 3389];2020-03-29 00:39:43;Ask4 Limited
+81.150.0.245;2856;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 443, 3389, 4567];2020-03-29 10:31:46;BT
+92.207.245.243;31655;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-03-29 13:12:43;Gamma Telecom Limited

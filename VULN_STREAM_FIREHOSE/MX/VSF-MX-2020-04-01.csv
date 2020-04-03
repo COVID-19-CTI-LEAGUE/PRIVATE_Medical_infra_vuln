@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+187.237.103.163;8151;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-01 21:29:29;Telmex

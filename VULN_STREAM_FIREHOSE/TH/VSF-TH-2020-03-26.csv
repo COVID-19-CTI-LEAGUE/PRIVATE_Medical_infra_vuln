@@ -1,0 +1,10 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+110.164.77.44;45629;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8443, 5800, 137, 5900, 8014, 80, 9443, 8888, 443, 3389];2020-03-26 12:26:56;3BB Broadband
+110.78.188.178;131090;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443, 22];2020-03-26 04:52:11;CAT Telecom public company Ltd
+202.6.21.70;24299;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8880, 137, 139, 110, 143, 80, 53, 8443, 3389];2020-03-26 04:32:50;Internet Solution & Service Provider Co.
+203.157.118.4;9835;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 3389, 5357];2020-03-26 15:26:07;Information Technology Office
+203.157.118.51;9835;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3306, 3389];2020-03-26 04:30:05;Information Technology Office
+203.157.133.11;9835;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 21, 3389];2020-03-26 01:21:53;Information Technology Office
+203.157.133.15;9835;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 3389, 21];2020-03-26 01:58:05;Information Technology Office
+203.157.133.2;9835;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[53, 3389];2020-03-26 12:47:05;Information Technology Office
+203.157.202.5;9835;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8888, 3389];2020-03-26 01:16:50;Information Technology Office

@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+104.214.139.148;8075;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-25 06:09:02;Microsoft Azure
+153.153.149.30;4713;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-03-25 08:10:33;NTT
+202.221.204.200;2497;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-03-25 04:03:26;Internet Initiative Japan

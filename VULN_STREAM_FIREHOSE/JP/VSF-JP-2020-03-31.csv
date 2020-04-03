@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+153.149.34.20;4713;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-03-31 07:08:52;Cloudn
+203.137.70.154;4694;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-31 04:47:51;IDC Frontier
+221.253.70.174;17506;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-03-31 08:22:26;ARTERIA Networks Corporation

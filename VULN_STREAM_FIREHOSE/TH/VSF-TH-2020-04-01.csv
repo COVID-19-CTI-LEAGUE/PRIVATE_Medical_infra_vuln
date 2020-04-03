@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+110.164.86.14;135074;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-04-01 19:51:21;Boromarajonani College of Nursing, Bangkok
+119.110.206.234;24218;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 3389, 21];2020-04-01 05:10:27;Symphony Communication
+203.157.118.51;9835;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3306, 3389];2020-04-01 07:48:42;Information Technology Office
+203.157.133.27;9835;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 3389];2020-04-01 02:05:43;Information Technology Office
+203.157.133.41;9835;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 3389];2020-04-01 14:28:09;Information Technology Office
+203.157.216.53;9835;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8000, 8089, 3306, 3389, 8090];2020-04-01 12:51:35;Information Technology Office
+203.157.238.2;9835;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[53, 3389];2020-04-01 11:18:04;Information Technology Office

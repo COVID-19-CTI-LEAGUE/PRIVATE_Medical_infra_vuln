@@ -1,0 +1,12 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.18.196.86;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8880, 3306, 587, 110, 143, 80, 21, 8085, 25, 8090, 8443, 3389, 53];2020-03-30 12:19:11;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+178.18.196.94;50941;{'CVE-2020-0796': 'MS SMBv3 RCE'};[5357, 139, 3389, 445];2020-03-30 15:49:47;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+178.18.199.123;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9090, 80, 25, 1433, 8090, 443, 3389];2020-03-30 13:54:04;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+185.122.203.146;43260;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 445];2020-03-30 00:48:34;Makdos Bilisim Teknolojileri San. Tic. Ltd. Sti.
+185.122.203.168;43260;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445, 3389];2020-03-30 12:43:45;Makdos Bilisim Teknolojileri San. Tic. Ltd. Sti.
+185.250.241.44;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE'};[143, 110, 3389, 80, 465, 53, 25, 8090, 443, 445];2020-03-30 04:17:14;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+185.250.241.51;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE'};[465, 22, 445, 110];2020-03-30 05:55:12;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+185.250.241.57;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-30 00:57:31;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+185.93.69.29;42926;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445, 3389];2020-03-30 13:52:23;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+37.75.10.100;199484;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3306, 23, 80, 53, 22, 25, 1433, 3389, 21];2020-03-30 10:14:42;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+88.229.134.13;9121;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-30 18:00:02;Turk Telekom

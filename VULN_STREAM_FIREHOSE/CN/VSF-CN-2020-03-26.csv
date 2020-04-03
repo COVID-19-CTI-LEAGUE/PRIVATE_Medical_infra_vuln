@@ -1,0 +1,11 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+1.203.162.159;4847;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-03-26 09:45:03;China Telecom Beijing
+103.3.113.84;4837;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 137, 3389];2020-03-26 07:39:52;China Unicom Liaoning
+110.80.154.122;4134;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5000, 10250, 3389, 902, 53];2020-03-26 09:37:49;China Telecom
+203.93.17.33;4808;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443, 22];2020-03-26 06:32:56;China Unicom Beijing
+211.151.130.76;9308;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-03-26 00:24:33;Abitcool(China)
+218.86.56.2;4134;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443, 22];2020-03-26 02:57:06;China Telecom
+220.170.143.133;4134;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-03-26 08:47:09;China Telecom
+220.248.101.53;17621;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[8081, 9090, 4443, 443, 3389];2020-03-26 00:30:29;China Unicom Shanghai
+221.228.77.61;4134;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-03-26 00:29:24;Jiangsu ZhenJiang IDC network
+40.73.98.28;58593;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 22];2020-03-26 01:44:47;Microsoft Azure

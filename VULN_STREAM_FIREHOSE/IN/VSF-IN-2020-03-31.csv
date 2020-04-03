@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.49.241.74;133720;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389, 8443];2020-03-31 03:55:53;Soft Call Cust-o-care Private Limited
+103.76.208.237;24186;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8008, 5000, 3389, 104, 80];2020-03-31 07:15:38;RailTel Corporation Of India Ltd.
+202.149.215.108;17762;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-31 13:05:23;Tata Teleservices (Maharashtra)

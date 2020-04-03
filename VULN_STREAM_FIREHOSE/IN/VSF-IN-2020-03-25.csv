@@ -1,0 +1,10 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+1.186.57.131;45769;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 23, 3389, 25];2020-03-25 18:48:25;D-Vois Broadband Pvt
+103.18.141.230;55705;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80];2020-03-25 13:50:39;I World Tower, DLF CITY
+117.242.180.74;9829;{'MS17-010': 'MS17-010'};[137, 445, 5357];2020-03-25 04:55:28;BSNL
+123.108.50.158;17439;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-03-25 19:26:20;Netmagic Datacenter Mumbai
+14.141.124.3;4755;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 161, 443, 53, 22];2020-03-25 04:28:08;Tata Communications
+14.142.64.28;4755;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-03-25 04:47:37;Tata Communications
+182.19.49.123;55410;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-03-25 03:09:09;Vodafone India
+35.154.72.77;16509;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-25 11:45:11;Amazon.com
+69.90.184.207;13768;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 9001, 9002, 13, 8080, 17, 19, 3306, 443, 8083, 3389];2020-03-25 12:14:14;Cogeco Peer 1

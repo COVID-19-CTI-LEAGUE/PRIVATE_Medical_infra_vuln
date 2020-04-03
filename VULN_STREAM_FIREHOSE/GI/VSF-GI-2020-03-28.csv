@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.208.206.208;8301;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445];2020-03-28 14:08:37;Gibtelecom Ltd.

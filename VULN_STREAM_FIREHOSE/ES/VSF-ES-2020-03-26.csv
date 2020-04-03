@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+193.145.29.19;766;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-03-26 03:09:37;Entidad Publica Empresarial Red.es
+193.146.115.146;766;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-03-26 06:17:58;Vall d'Hebron University Hospital
+213.98.181.106;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 10000, 81, 82, 21, 22, 1723, 3389, 8181];2020-03-26 00:22:58;Telefonica de Espana Static IP
+46.27.250.129;12430;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5060, 3389];2020-03-26 04:55:34;Vodafone Spain
+81.42.201.249;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-03-26 14:27:24;Telefonica de Espana Static IP
+84.78.32.16;12479;{'CVE-2020-0796': 'MS SMBv3 RCE'};[3306, 5357, 445, 8080, 37777, 443, 3389];2020-03-26 22:25:59;Orange Espana

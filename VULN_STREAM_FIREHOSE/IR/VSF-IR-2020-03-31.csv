@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+176.102.242.189;57563;{'MS17-010': 'MS17-010'};[445];2020-03-31 16:43:13;isfahan university of medical sciences & health se
+176.102.248.76;57563;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 123, 3389, 445];2020-03-31 21:43:13;isfahan university of medical sciences & health se

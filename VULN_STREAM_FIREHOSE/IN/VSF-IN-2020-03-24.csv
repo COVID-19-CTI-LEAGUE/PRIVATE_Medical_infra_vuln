@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+117.203.241.100;9829;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 161, 443, 22];2020-03-24 19:47:41;BSNL
+122.180.123.34;24560;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-03-24 15:54:34;Bharti Airtel
+203.92.194.24;17817;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-03-24 18:25:40;Concentrix Daksh Services India Private Limited
+69.90.184.206;13768;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[19, 80, 137, 3306, 9002, 13, 8080, 17, 8083, 21, 9001, 443, 3389];2020-03-24 21:09:36;Cogeco Peer 1

@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+180.12.186.86;4713;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-03-26 07:52:56;NTT
+203.137.70.154;4694;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-26 15:09:46;IDC Frontier
+211.14.170.85;2554;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-26 10:30:54;IDC Frontier

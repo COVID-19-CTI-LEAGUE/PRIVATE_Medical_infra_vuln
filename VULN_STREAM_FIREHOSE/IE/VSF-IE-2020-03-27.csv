@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+87.198.211.150;34245;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-03-27 04:17:43;Magnet Networks Limited

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.231.241.4;133498;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-03-24 23:33:51;De La Salle University

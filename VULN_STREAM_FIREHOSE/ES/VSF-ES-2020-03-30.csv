@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+193.145.29.20;766;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-03-30 18:59:25;Entidad Publica Empresarial Red.es
+77.229.128.145;12430;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-30 06:38:17;Vodafone Spain
+88.2.252.76;3352;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[1194, 443];2020-03-30 22:25:28;Telefonica de Espana Static IP

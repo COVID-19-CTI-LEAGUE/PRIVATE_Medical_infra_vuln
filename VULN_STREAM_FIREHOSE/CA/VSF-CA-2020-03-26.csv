@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+184.69.42.142;6327;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[8080, 80, 10554, 443, 4100];2020-03-26 03:53:54;Shaw Communications
+199.246.162.26;577;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-26 02:04:25;St. Michael's Hospital
+207.164.200.238;577;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-03-26 00:51:08;Bell Canada
+216.168.114.202;11666;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-03-26 02:38:02;Nexicom
+24.68.228.167;6327;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-26 14:46:17;Shaw Communications
+50.101.231.212;577;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-26 12:40:42;Bell Canada
+66.155.28.203;13768;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-03-26 06:36:58;CenturyLink

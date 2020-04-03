@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+113.161.62.92;45899;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 3389];2020-03-24 13:55:37;VNPT
+118.69.38.212;18403;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-03-24 14:09:17;FPT Telecom Company

@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+176.102.242.177;57563;{'MS17-010': 'MS17-010'};[80, 137, 445, 902, 8081];2020-03-26 04:07:17;isfahan university of medical sciences & health se
+176.102.245.187;57563;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445];2020-03-26 13:12:35;isfahan university of medical sciences & health se

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+188.159.215.148;39501;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 3389];2020-03-24 22:00:08;Ngs-adsl Users Shz

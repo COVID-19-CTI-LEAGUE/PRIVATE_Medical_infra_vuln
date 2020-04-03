@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+117.52.175.232;3786;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-03-24 16:34:23;LG DACOM Corporation
+121.169.211.236;4766;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-03-24 19:00:25;Korea Telecom
+183.110.71.5;4766;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-03-24 15:54:34;Korea Telecom
+203.242.32.121;10189;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80];2020-03-24 15:49:53;Hyundai Movex
+221.151.209.188;4766;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-24 20:24:27;Korea Telecom

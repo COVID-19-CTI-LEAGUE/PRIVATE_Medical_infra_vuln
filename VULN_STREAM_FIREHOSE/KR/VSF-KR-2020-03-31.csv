@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+210.116.101.2;17881;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 110, 8080, 53, 25, 1433, 3389];2020-03-31 13:01:47;LG DACOM Corporation
+218.154.168.143;4766;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-31 11:35:55;Korea Telecom

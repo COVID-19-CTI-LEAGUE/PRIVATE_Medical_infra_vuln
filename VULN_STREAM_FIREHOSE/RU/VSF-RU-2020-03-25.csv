@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+217.73.60.55;51219;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-03-25 19:26:34;Closed Joint Stock Company CROC incorporated

@@ -1,0 +1,10 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+119.110.206.234;24218;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 3389, 21];2020-03-27 13:26:43;Symphony Communication
+203.157.111.5;9835;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-03-27 21:13:23;Information Technology Office
+203.157.118.51;9835;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3306, 3389];2020-03-27 05:25:17;Information Technology Office
+203.157.133.2;9835;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[53, 3389];2020-03-27 00:46:37;Information Technology Office
+203.157.133.27;9835;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 3389];2020-03-27 08:02:57;Information Technology Office
+203.157.133.41;9835;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 3389];2020-03-27 16:28:38;Information Technology Office
+203.157.155.9;9835;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3306, 3389];2020-03-27 11:34:02;Information Technology Office
+203.157.216.53;9835;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8000, 8089, 3306, 3389, 8090];2020-03-27 04:12:19;Information Technology Office
+203.157.32.249;9649;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5800, 3306, 5900, 53, 1433, 1434, 3389];2020-03-27 05:08:08;Information Technology Office

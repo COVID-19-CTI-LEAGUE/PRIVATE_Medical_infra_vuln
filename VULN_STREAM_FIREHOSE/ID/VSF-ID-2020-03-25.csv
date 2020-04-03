@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.252.21.194;9794;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 22];2020-03-25 03:43:05;Pusdatin Kemhan Ri
+117.54.6.5;9340;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 53, 22];2020-03-25 11:54:20;INDO Internet, PT
+152.118.76.9;3382;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-03-25 03:20:26;University of Indonesia

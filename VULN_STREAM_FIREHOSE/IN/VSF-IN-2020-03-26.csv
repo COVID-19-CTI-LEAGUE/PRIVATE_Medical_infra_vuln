@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+202.191.187.151;9583;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-03-26 16:13:20;Sify Limited

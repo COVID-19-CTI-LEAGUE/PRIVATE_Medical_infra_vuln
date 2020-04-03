@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+110.78.188.162;131090;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-03-24 20:25:30;CAT Telecom public company Ltd
+182.52.224.13;23969;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389, 23];2020-03-24 18:47:46;TOT
+203.154.231.236;4618;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-03-24 23:25:01;Internet Thailand Company Limited
+203.157.116.41;9835;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-24 14:11:42;Information Technology Office
+203.157.216.53;9835;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8000, 8089, 3306, 3389, 8090];2020-03-24 17:32:10;Information Technology Office
+58.181.206.143;7693;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-03-24 23:59:17;KSC Commercial Internet Co.

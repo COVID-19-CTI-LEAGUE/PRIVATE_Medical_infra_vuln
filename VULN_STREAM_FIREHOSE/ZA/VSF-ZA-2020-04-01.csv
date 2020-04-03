@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+105.185.138.234;37457;{'CVE-2020-0796': 'MS SMBv3 RCE'};[8000, 445];2020-04-01 00:31:29;Telkom Internet
+196.15.252.163;5713;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-01 13:59:30;Telkom SA Limited

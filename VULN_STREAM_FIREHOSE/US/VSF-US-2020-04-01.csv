@@ -1,0 +1,52 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+107.181.30.23;13844;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-04-01 10:22:28;St. John's Riverside Hospital
+12.131.93.29;7018;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-01 15:39:48;AT&T Services
+12.8.127.46;7018;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-04-01 06:40:44;AT&T Services
+150.198.1.67;53352;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-04-01 06:34:27;Henry Ford Health System
+150.198.1.99;53352;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-04-01 04:38:12;Henry Ford Health System
+150.198.209.18;53352;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-04-01 08:10:07;Henry Ford Health System
+150.198.28.10;53352;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-04-01 22:20:15;Henry Ford Health System
+150.198.28.5;53352;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-04-01 14:58:10;Henry Ford Health System
+157.139.225.97;20252;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-01 16:28:21;Joan and Sanford I. Weill Medical College and Grad
+157.139.225.98;20252;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-01 20:43:13;Joan and Sanford I. Weill Medical College and Grad
+162.154.231.85;10796;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-01 08:39:43;Spectrum
+165.234.130.213;6263;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445];2020-04-01 02:54:24;State of North Dakota
+192.58.138.126;36525;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-04-01 15:39:09;Allegiance Health Services
+198.245.192.133;3356;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-04-01 21:17:48;Level 3 Communications
+198.245.215.227;394708;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-01 00:30:23;Horizon Telcom
+198.7.227.68;14325;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-04-01 20:43:20;OSHEAN
+199.171.14.125;27600;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 515, 3389];2020-04-01 23:23:06;Arlington Hospital
+205.152.158.225;33328;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-04-01 15:27:55;Norton Healthcare
+205.152.158.227;33328;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-04-01 09:10:32;Norton Healthcare
+206.123.232.45;22181;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-04-01 16:01:18;Iv Net, Llp
+208.185.225.80;6461;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-04-01 12:53:54;Zayo Bandwidth
+208.185.41.121;6461;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-01 05:49:03;Zayo Bandwidth
+216.176.29.135;30517;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-01 12:58:15;Great Lakes Comnet
+216.255.243.47;30444;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-04-01 07:53:11;Ocala Electric Utility
+24.111.133.26;11232;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2121, 110, 80, 25, 26, 443, 3389];2020-04-01 13:33:14;Midco
+24.116.18.77;11492;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[993, 587, 143, 80, 53, 25, 443, 3389];2020-04-01 04:07:29;Sparklight
+32.211.187.208;46690;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5003, 3388, 7547];2020-04-01 09:58:42;Frontier Communications
+4.31.103.229;3356;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-04-01 17:40:41;Level 3 Communications
+47.206.152.61;5650;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 4567];2020-04-01 14:50:20;Frontier Communications
+47.22.16.106;6128;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-01 09:06:03;Optimum Online
+50.203.160.164;7922;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-04-01 11:22:44;Comcast Business
+50.241.137.205;7922;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-04-01 18:10:07;Comcast Business
+63.134.243.170;14992;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 3389, 53];2020-04-01 15:18:16;Newtek Technology Solutions
+65.121.92.26;32118;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-01 15:58:24;Smart Practice
+66.117.236.107;6181;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-04-01 07:05:59;Fuse Internet Access
+66.139.29.97;7018;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-04-01 15:21:01;AT&T Internet Services
+66.159.61.130;12028;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-04-01 06:43:13;MM Internet
+68.10.51.206;22773;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-04-01 00:37:00;Cox Business
+68.107.170.246;22773;{'CVE-2020-0796': 'MS SMBv3 RCE'};[5357, 445, 3389];2020-04-01 00:30:32;Cox Business
+68.171.157.227;17113;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-01 07:45:57;TierPoint, LLC
+68.171.157.228;17113;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-01 03:57:21;TierPoint, LLC
+68.99.159.47;22773;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-01 15:42:58;Cox Business
+69.7.236.81;17378;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[8008, 443];2020-04-01 23:36:14;TierPoint, LLC
+69.85.30.83;30497;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-04-01 15:00:41;Global Telecom Brokers
+70.167.51.116;22773;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 443, 3389];2020-04-01 01:23:47;Cox Business
+72.18.226.80;14265;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-01 09:06:48;TPx Communications
+74.116.10.126;36524;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-01 05:58:30;Molina Healthcare
+74.202.206.232;3549;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1723, 3389];2020-04-01 20:43:15;Level 3 Communications
+75.100.72.202;4181;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-04-01 17:31:59;TDS Telecom
+8.225.222.38;23347;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-04-01 22:13:08;Hanover Hospital
+96.71.142.9;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9100, 3389];2020-04-01 21:45:32;Comcast Business

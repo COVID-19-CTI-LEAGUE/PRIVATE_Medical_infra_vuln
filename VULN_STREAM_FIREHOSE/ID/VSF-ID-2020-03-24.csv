@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+180.244.45.108;17974;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445];2020-03-24 19:11:24;PT Telkom Indonesia
+219.83.12.99;4795;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-03-24 14:00:02;PT. INDOSAT MEGA MEDIA
+36.92.11.69;unknown;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-03-24 13:39:32;PT Telkom Indonesia

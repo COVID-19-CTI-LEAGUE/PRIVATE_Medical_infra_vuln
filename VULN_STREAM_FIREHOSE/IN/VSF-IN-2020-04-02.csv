@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.240.8.230;133720;{'CVE-2020-0796': 'MS SMBv3 RCE'};[80, 1433, 445];2020-04-02 17:58:35;Soft Call Cust-o-care Private Limited
+103.39.244.167;133720;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-04-02 16:05:49;Soft Call Cust-o-care Private Limited
+113.30.141.102;17447;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 443, 3389, 21];2020-04-02 07:09:47;Net4India
+113.30.141.73;17447;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 21, 1433, 443, 3389, 7070];2020-04-02 00:08:49;Net4India
+182.77.56.67;24560;{'MS17-010': 'MS17-010'};[137, 445];2020-04-02 11:28:36;Airtel Broadband

@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+206.191.17.163;812;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-03-31 13:54:10;Rogers Cable
+38.112.100.199;174;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-03-31 06:04:35;Cogent Communications
+76.75.129.195;21992;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-03-31 01:36:49;eHealth Ontario

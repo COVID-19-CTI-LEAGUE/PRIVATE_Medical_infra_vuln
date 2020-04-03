@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+62.24.127.120;12455;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8008, 8010, 139, 5357, 445, 80, 5555, 25, 443, 3389];2020-03-28 21:42:24;Telkom Kenya Limited

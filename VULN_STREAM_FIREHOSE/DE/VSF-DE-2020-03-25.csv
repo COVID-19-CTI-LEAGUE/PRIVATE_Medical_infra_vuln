@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+159.122.83.69;36351;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-03-25 05:46:26;SoftLayer Technologies
+5.199.139.175;24961;{'CVE-2020-0796': 'MS SMBv3 RCE'};[5357, 445, 3389];2020-03-25 23:05:23;myLoc managed IT AG
+77.72.131.51;197252;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 443, 3389, 445];2020-03-25 11:41:06;Colobridge GmbH
+93.184.191.86;47297;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 5985, 3389, 445];2020-03-25 04:38:11;Telekommunikation Lindau (B) GmbH

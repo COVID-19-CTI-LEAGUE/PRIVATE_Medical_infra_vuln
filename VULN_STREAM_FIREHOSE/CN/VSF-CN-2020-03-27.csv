@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+116.23.92.247;4134;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[21, 3389, 22, 111];2020-03-27 12:08:26;China Telecom
+122.114.89.236;4837;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 3389, 21];2020-03-27 00:06:56;China Unicom Liaoning

@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+216.183.137.28;11727;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[8008, 80, 443];2020-03-29 13:49:07;Bruce Telecom
+38.112.100.199;174;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-03-29 14:59:34;Cogent Communications
+66.241.129.110;23498;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-03-29 14:19:21;Cogecodata

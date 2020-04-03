@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+203.16.41.236;10148;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-03-29 09:48:01;The University of Melbourne, Melbourne, Victoria
+203.41.227.229;1221;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-03-29 22:15:58;Telstra Internet

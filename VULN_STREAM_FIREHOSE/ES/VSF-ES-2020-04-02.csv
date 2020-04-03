@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+2.136.36.41;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 53];2020-04-02 06:29:00;Telefonica de Espana Static IP
+81.42.201.195;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-02 09:15:10;Telefonica de Espana Static IP
+81.42.201.249;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-04-02 23:45:15;Telefonica de Espana Static IP
+88.12.23.228;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-02 00:35:07;Telefonica de Espana Static IP

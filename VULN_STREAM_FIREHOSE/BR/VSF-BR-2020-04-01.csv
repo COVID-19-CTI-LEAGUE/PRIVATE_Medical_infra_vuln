@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.131.13.127;262375;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 137, 445, 80, 21, 7547, 3389];2020-04-01 17:40:40;Data Info Comercio e Servico Ltda.
+189.19.175.140;27699;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-01 17:28:15;Vivo
+200.174.123.153;4230;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 9090, 3389, 445];2020-04-01 06:15:11;Claro S.A.

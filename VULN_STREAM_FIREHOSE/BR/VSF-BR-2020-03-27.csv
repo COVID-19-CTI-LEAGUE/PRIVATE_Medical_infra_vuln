@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+128.201.175.193;266643;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 8291, 53, 3389];2020-03-27 21:23:26;Netfy Telecomunicacoes
+177.158.215.193;18881;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-27 16:49:54;Vivo
+177.5.225.1;8167;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[161, 3389];2020-03-27 16:24:28;Oi Internet
+179.178.45.93;18881;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-27 08:16:00;Vivo
+189.105.72.39;7738;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 3389];2020-03-27 13:16:12;Oi Velox
+200.174.123.153;4230;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 9090, 3389, 445];2020-03-27 21:46:46;Claro S.A.
+200.218.13.195;10362;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 161, 21, 445, 3389];2020-03-27 02:25:11;Ubik Do Brasil Sol Tecnologia Ltda.

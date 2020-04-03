@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+112.104.85.212;4780;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445];2020-03-27 20:19:51;Digital United
+211.76.174.14;18181;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-03-27 08:30:04;National Health Research Institutes
+220.134.237.86;3462;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-03-27 18:30:08;HiNet

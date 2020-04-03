@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+110.45.158.84;3786;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 1723, 3389, 53];2020-03-27 20:41:22;LG DACOM Corporation
+121.168.43.71;4766;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-03-27 04:31:34;Korea Telecom
+218.151.134.221;4793;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-03-27 03:38:59;Hyundai Heavy Industries

@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+115.22.10.197;4766;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[554, 80, 81, 4500, 21, 1194, 25, 3389];2020-03-28 04:32:23;Korea Telecom
+121.169.211.236;4766;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-03-28 01:48:13;Korea Telecom
+147.46.145.24;9488;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-28 03:30:33;Seoul National University
+218.238.95.51;9578;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[8443, 80, 8081, 9443, 4443, 443];2020-03-28 19:27:29;Cheiljedang.Co.Inc.

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+186.159.1.177;27695;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-27 04:13:32;Edatel S.A. E.s.p

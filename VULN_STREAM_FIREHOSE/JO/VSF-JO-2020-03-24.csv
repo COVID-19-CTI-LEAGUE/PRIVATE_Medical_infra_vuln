@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+94.249.63.165;8376;{'CVE-2020-0796': 'MS SMBv3 RCE'};[139, 445];2020-03-24 14:38:34;Jordan Telecom Group (Orange)

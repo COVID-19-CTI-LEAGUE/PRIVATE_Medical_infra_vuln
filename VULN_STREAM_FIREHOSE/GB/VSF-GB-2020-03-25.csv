@@ -1,0 +1,15 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.108.170.21;31631;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-03-25 16:10:26;Telcom Networks Limited
+185.17.183.156;21396;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 21];2020-03-25 02:42:21;Nimbus Hosting Ltd.
+185.38.114.182;41107;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-03-25 20:52:41;Backbone Connect Limited
+194.62.33.22;unknown;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-03-25 13:44:21;Historic Buildings and Monuments Commission for En
+195.162.123.4;31655;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1723, 443, 3389];2020-03-25 07:48:10;Gamma Telecom Holdings Ltd
+195.99.222.119;2856;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-03-25 15:44:26;BT
+206.142.243.144;6640;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-03-25 14:13:23;CenturyLink
+217.114.174.132;15830;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-03-25 19:59:32;Telecitygroup International Limited
+46.231.191.229;31727;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 21, 22, 3389];2020-03-25 17:38:38;Node4 Limited
+46.32.234.70;20738;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8880, 8443, 110, 143, 80, 21, 25, 443, 3389, 53];2020-03-25 02:33:47;Host Europe GmbH
+62.73.176.230;2914;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-03-25 02:23:31;NTT America
+83.231.164.12;2914;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443, 22];2020-03-25 06:56:42;NTT America
+86.181.86.82;2856;{'CVE-2020-0796': 'MS SMBv3 RCE'};[5800, 5357, 80, 4567, 7547, 445];2020-03-25 11:05:11;BT
+94.30.87.34;5413;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445, 3389, 5357];2020-03-25 03:25:21;Daisy Communications Ltd

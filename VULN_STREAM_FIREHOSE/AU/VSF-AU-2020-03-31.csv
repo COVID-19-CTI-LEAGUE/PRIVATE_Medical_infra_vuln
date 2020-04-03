@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+202.137.206.36;9328;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 554, 443, 21];2020-03-31 02:54:59;Datacom Systems (au) Pty
+58.108.216.87;4804;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-31 22:43:20;Optus
+60.242.134.204;7545;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-03-31 11:02:56;TPG Internet

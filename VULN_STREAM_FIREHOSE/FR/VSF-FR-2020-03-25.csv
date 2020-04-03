@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+171.25.208.169;13193;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-03-25 19:44:49;Nerim SAS
+176.162.128.157;5410;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 37777];2020-03-25 04:42:11;Bouygues Mobile
+178.248.208.7;197133;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-03-25 21:56:21;Mediactive Network
+188.165.89.95;16276;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-25 22:18:36;OVH SAS

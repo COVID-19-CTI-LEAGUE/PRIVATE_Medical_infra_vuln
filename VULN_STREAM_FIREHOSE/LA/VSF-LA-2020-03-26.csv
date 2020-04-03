@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+115.84.111.218;9873;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443, 22];2020-03-26 04:40:23;Lao Telecom Communication, LTC

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+201.212.163.127;10481;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8888, 8000, 8291, 1723, 3389];2020-03-27 03:06:46;Cablevision Argentina

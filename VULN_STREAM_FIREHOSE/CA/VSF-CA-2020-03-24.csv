@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+204.136.13.76;603;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-03-24 17:33:12;Bell Canada
+38.112.100.200;174;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-03-24 14:22:01;Cogent Communications
+38.112.100.201;174;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-03-24 19:34:54;Cogent Communications
+64.251.83.230;6327;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-03-24 23:20:49;Shaw Communications

@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+159.122.83.68;36351;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-03-24 18:55:47;SoftLayer Technologies
+188.65.203.21;8292;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-03-24 15:16:40;CamData GmbH
+62.153.63.7;3320;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[8008, 80, 443];2020-03-24 22:00:25;Deutsche Telekom AG
+81.169.198.242;6724;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2121, 110, 143, 80, 21, 22, 25, 8443, 3389];2020-03-24 18:57:36;Strato AG

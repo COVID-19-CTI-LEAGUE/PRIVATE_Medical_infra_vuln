@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.131.13.127;262375;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 137, 445, 80, 21, 7547, 3389];2020-03-26 17:07:25;Data Info Comercio e Servico Ltda.
+177.23.107.99;52907;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 1723, 8291, 3389];2020-03-26 05:36:44;Empresa Mineira De Telecomunicaçoes Ltda -me
+177.46.146.130;28166;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-03-26 01:46:36;Telecom South America S/A
+177.68.156.141;27699;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-26 08:32:40;Vivo
+189.59.201.235;18881;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-26 04:46:31;Vivo
+189.6.186.147;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-26 11:04:15;Claro NET
+189.89.241.90;28188;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 3389];2020-03-26 05:02:56;Pronto Net Ltda.

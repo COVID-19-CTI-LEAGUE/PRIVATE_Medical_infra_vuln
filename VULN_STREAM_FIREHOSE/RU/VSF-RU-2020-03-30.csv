@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+176.215.2.111;51604;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-30 16:04:18;JSC ER-Telecom Holding Yekaterinburg Branch
+193.150.116.180;57438;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-03-30 16:08:03;Krasnoyarsk State Medical University
+46.29.78.243;197235;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 53, 23, 1433, 1434, 443, 3389];2020-03-30 23:09:37;JSC Avantel

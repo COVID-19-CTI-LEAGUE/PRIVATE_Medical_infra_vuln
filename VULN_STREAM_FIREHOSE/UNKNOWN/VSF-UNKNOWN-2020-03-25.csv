@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.132.94.82;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE'};[1433, 1434, 3389, 445];2020-03-25 08:34:28;Premium Connectivity Limited
+213.178.221.33;unknown;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[];2020-03-25 01:02:41;unknown

@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+119.110.206.232;24218;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 443, 3389, 21];2020-03-29 00:07:25;Symphony Communication
+119.42.70.43;131090;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8291, 902, 80, 81, 1723, 3389];2020-03-29 05:26:53;CAT Telecom public company Ltd
+203.157.111.5;9835;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-03-29 05:54:42;Information Technology Office
+203.157.116.41;9835;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-29 07:35:53;Information Technology Office
+203.157.238.2;9835;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[53, 3389];2020-03-29 00:56:47;Information Technology Office

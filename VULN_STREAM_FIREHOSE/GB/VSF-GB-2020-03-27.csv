@@ -1,0 +1,9 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+109.169.28.8;20860;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3333, 9001, 445, 80, 1433, 1434, 443, 3389];2020-03-27 14:28:45;RapidSwitch
+185.17.180.180;21396;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 21];2020-03-27 22:08:43;Nimbus Hosting Ltd.
+185.17.180.184;21396;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 21];2020-03-27 13:13:38;Nimbus Hosting Ltd.
+185.17.180.246;21396;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 21];2020-03-27 08:02:08;Nimbus Hosting Ltd.
+194.74.0.149;2856;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-03-27 02:57:29;BT
+195.11.173.20;2529;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-03-27 11:26:16;Thus Group Holdings Limited
+46.32.234.70;20738;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8880, 8443, 110, 143, 80, 21, 25, 443, 3389, 53];2020-03-27 04:00:09;Host Europe GmbH
+77.107.120.214;8851;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 443, 179, 3389];2020-03-27 04:54:51;GCI Network Solutions Limited

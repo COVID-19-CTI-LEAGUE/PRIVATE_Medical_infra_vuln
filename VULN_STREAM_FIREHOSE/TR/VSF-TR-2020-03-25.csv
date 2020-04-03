@@ -1,0 +1,9 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.18.196.12;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3306, 587, 110, 143, 8880, 53, 25, 8090, 8443, 3389, 21];2020-03-25 23:32:48;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+185.114.192.253;199366;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-03-25 00:03:38;Yesilbir Bilisim Teknolojileri Bilgisayar Yayincil
+185.122.203.73;43260;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445, 3389];2020-03-25 04:51:46;Makdos Bilisim Teknolojileri San. Tic. Ltd. Sti.
+185.250.241.51;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE'};[465, 22, 445, 110];2020-03-25 10:56:05;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+185.250.241.57;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-03-25 15:40:50;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+185.77.2.169;51540;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[2000, 80, 443, 22];2020-03-25 15:11:32;Fikri DAL
+213.14.7.10;34984;{'CVE-2019-11510': 'PulseSecure VPN RCE', 'CVE-2015-4000': 'CVE-2015-4000', 'CVE-2015-0204': 'CVE-2015-0204'};[443, 500, 1723, 10443];2020-03-25 15:40:16;Turkcell Superonline
+95.214.98.254;unknown;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-03-25 05:23:41;CozumTek Teknoloji ve Bilgisayar Sistemleri Tic ve
