@@ -13,11 +13,11 @@ what it does:
 - take all the infos from the vuln-stream (daily summary, 
   with an hourly update_schedule)
 - separate the IPs by country for easy managemend for nat-certs (relies on geoip, which might be incorrect from time to time)
-- store a daily summary in each country's folder
+- store a daily summary in each country's folder VULNS_TREAM_FIREHOSE/[Country_Code]/VSF-[CN]-[DATE].csv
 
 
 
-![files](00_docs/files.png)
+![files](00_Docs/files.png)
 
 
 
