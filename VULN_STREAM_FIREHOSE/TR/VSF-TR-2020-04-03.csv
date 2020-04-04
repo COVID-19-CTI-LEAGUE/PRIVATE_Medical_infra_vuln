@@ -1,0 +1,13 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.18.205.202;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3306, 110, 143, 80, 53, 25, 1433, 1434, 443, 3389, 21];2020-04-03 12:30:21;Vargonen Network
+185.122.200.229;43260;{'CVE-2020-0796': 'MS SMBv3 RCE'};[137, 445, 3389, 5357];2020-04-03 06:31:42;Makdos Bilisim Teknolojileri San. Tic. Ltd. Sti.
+185.122.200.247;43260;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 445];2020-04-03 09:41:17;Makdos Bilisim Teknolojileri San. Tic. Ltd. Sti.
+185.122.201.121;43260;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445, 3389];2020-04-03 10:04:09;Makdos Bilisim Teknolojileri San. Tic. Ltd. Sti.
+185.122.201.89;43260;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445, 3389];2020-04-03 17:51:10;Makdos Bilisim Teknolojileri San. Tic. Ltd. Sti.
+185.122.203.123;43260;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445, 3389];2020-04-03 03:02:51;Makdos Bilisim Teknolojileri San. Tic. Ltd. Sti.
+185.122.203.73;43260;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445, 3389];2020-04-03 00:54:11;Makdos Bilisim Teknolojileri San. Tic. Ltd. Sti.
+185.132.126.254;42926;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 445];2020-04-03 20:20:39;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+185.134.185.107;205725;{'CVE-2020-0796': 'MS SMBv3 RCE'};[2000, 445, 3389];2020-04-03 18:28:59;Selcuk Ecza Deposu Ticaret ve Sanayi Anonim Sirket
+185.250.241.221;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE'};[33060, 5357, 445, 80, 21, 3389];2020-04-03 07:17:08;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+185.93.69.25;42926;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445, 3389];2020-04-03 05:07:56;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+193.164.5.168;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445, 3389];2020-04-03 07:56:31;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.

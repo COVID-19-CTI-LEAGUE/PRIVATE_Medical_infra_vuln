@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+110.160.90.157;9605;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-03 19:37:37;NTT Docomo

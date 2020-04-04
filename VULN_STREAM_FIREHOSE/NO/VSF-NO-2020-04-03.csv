@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+88.90.17.60;2119;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-03 00:50:36;Telenor Norge

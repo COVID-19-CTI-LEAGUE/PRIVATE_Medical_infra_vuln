@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+109.169.32.176;20860;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-03 21:42:34;Iomart Hosting Limited
+185.17.180.110;21396;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 21];2020-04-03 20:11:19;Nimbus Hosting Ltd.
+217.32.196.85;2856;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-03 13:46:14;BT
+82.71.22.3;13037;{'CVE-2020-0796': 'MS SMBv3 RCE'};[5357, 445];2020-04-03 07:53:23;Zen Internet Ltd
+88.215.7.34;31655;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 554, 8080, 3000, 1723, 3389];2020-04-03 21:15:23;Gamma Telecom DSL Services

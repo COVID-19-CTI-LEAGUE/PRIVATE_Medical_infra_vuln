@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+193.150.116.180;57438;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-04-03 00:47:04;Krasnoyarsk State Medical University
+81.30.211.243;24955;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-03 07:58:35;OJSC Ufanet
