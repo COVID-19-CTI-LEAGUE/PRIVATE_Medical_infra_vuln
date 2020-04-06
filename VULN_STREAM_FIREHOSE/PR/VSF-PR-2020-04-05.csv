@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+67.224.255.67;10396;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-04-05 19:04:09;Claro Puerto Rico

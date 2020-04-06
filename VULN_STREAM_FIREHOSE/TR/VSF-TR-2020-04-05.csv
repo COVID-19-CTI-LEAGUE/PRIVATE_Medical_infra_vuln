@@ -1,0 +1,10 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.157.13.186;42807;{'MS17-010': 'MS17-010'};[3389, 111, 445, 5357];2020-04-05 16:58:51;Aerotek Bilisim Sanayi ve Ticaret AS
+178.18.196.14;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8880, 8443, 3306, 587, 143, 110, 8111, 80, 8085, 25, 8090, 443, 21, 3389, 53];2020-04-05 04:31:08;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+178.18.196.85;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8880, 8111, 3306, 110, 143, 80, 21, 25, 8090, 8443, 3389, 53];2020-04-05 00:23:12;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+185.122.201.72;43260;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 445];2020-04-05 09:59:16;Makdos Bilisim Teknolojileri San. Tic. Ltd. Sti.
+185.122.203.188;43260;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445, 3389];2020-04-05 07:34:39;Makdos Bilisim Teknolojileri San. Tic. Ltd. Sti.
+185.132.126.254;42926;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 445];2020-04-05 09:35:57;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+185.134.185.108;205725;{'CVE-2020-0796': 'MS SMBv3 RCE'};[2000, 445, 3389];2020-04-05 23:00:12;Selcuk Ecza Deposu Ticaret ve Sanayi Anonim Sirket
+185.48.212.189;34984;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-05 18:41:10;Turkcell Superonline
+213.144.97.67;25145;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5357, 3389, 80, 85, 1433, 445];2020-04-05 14:44:10;Teknotel Telekomunikasyon Sanayi Ve Ticaret A.s.

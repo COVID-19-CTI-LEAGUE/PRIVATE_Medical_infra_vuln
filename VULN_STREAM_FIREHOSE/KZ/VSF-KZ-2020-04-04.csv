@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+88.204.208.60;9198;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[123, 33060, 389, 902, 636, 3306, 80, 81, 53, 88, 443, 444, 3389, 21];2020-04-04 11:17:30;Semey State medical University

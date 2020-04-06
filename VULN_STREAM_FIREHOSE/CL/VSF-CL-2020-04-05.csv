@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+200.29.23.34;10778;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 3389, 21];2020-04-05 21:32:32;Comunicaciones Netglobalis S.A

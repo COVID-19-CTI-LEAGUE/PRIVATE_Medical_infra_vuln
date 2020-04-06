@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+186.14.95.21;21826;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-05 15:03:40;Inter Venezuela

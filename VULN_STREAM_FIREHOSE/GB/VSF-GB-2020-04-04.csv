@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.156.137.20;56444;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-04 09:19:11;Atmoso Limited
+217.33.193.133;2856;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-04-04 05:37:34;BT
+79.73.93.52;9105;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-04 23:09:31;TalkTalk
+92.207.245.243;31655;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-04-04 08:37:35;Gamma Telecom Limited

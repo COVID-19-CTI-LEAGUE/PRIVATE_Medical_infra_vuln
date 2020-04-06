@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+176.102.243.153;57563;{'CVE-2020-0796': 'MS SMBv3 RCE'};[137, 445];2020-04-05 06:56:12;isfahan university of medical sciences & health se
+176.102.248.126;57563;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[10243, 3389];2020-04-05 06:47:06;isfahan university of medical sciences & health se
+176.102.248.17;57563;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5800, 3389];2020-04-05 09:30:39;isfahan university of medical sciences & health se

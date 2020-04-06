@@ -1,0 +1,11 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.157.11.110;42807;{'CVE-2020-0796': 'MS SMBv3 RCE'};[9999, 3389, 445];2020-04-04 01:04:38;Aerotek Bilisim Sanayi ve Ticaret AS
+185.122.200.98;43260;{'CVE-2020-0796': 'MS SMBv3 RCE'};[3389, 5357, 445];2020-04-04 23:23:08;Makdos Bilisim Teknolojileri San. Tic. Ltd. Sti.
+185.122.201.156;43260;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-04 01:22:30;Makdos Bilisim Teknolojileri San. Tic. Ltd. Sti.
+185.122.201.5;43260;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 8123, 3306, 445, 80, 21, 5432, 443, 3389, 7071];2020-04-04 04:05:11;Makdos Bilisim Teknolojileri San. Tic. Ltd. Sti.
+185.132.126.88;42926;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[139, 445, 3389];2020-04-04 19:00:40;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+185.28.2.212;199484;{'CVE-2020-0796': 'MS SMBv3 RCE'};[80, 1433, 445, 3389];2020-04-04 09:10:16;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+185.48.212.127;34984;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-04 11:55:20;Turkcell Superonline
+185.48.212.31;34984;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-04 13:23:51;Turkcell Superonline
+185.48.213.104;34984;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-04 00:28:55;Turkcell Superonline
+213.155.122.82;8685;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-04-04 15:59:42;Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.

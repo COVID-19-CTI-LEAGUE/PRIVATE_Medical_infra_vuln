@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+105.112.64.117;36873;{'CVE-2020-0796': 'MS SMBv3 RCE'};[1433, 445];2020-04-05 15:34:55;Airtel Networks Limited

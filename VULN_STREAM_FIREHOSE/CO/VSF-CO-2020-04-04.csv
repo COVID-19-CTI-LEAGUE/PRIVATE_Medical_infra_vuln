@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+190.61.24.28;18747;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[82, 443, 3389, 21];2020-04-04 03:52:27;Ifx Networks Colombia
+201.234.178.146;3549;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-04-04 13:28:35;Level 3 Communications
