@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+194.141.69.21;6802;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-06 23:07:47;Medical University - Pleven

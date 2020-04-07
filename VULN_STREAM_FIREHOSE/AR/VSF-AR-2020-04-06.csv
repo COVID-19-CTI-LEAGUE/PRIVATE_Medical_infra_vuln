@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+186.13.130.47;11664;{'CVE-2020-0796': 'MS SMBv3 RCE'};[137, 5357, 3389, 211, 8888, 7547, 445];2020-04-06 15:14:58;Claro Argentina
+200.32.43.120;10834;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-06 16:42:53;Telefonica de Argentina

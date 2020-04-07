@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+212.14.6.29;8286;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 1723, 500, 3389];2020-04-06 08:12:22;Pomorski Uniwersytet Medyczny w Szczecinie
+62.233.162.217;12741;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-04-06 05:52:30;Netia SA
+78.10.45.62;12741;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-04-06 02:00:17;Netia SA

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+187.189.193.76;17072;{'CVE-2020-0796': 'MS SMBv3 RCE'};[80, 5357, 445];2020-04-06 09:39:43;Totalplay

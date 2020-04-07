@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+206.123.154.17;35017;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445];2020-04-06 07:29:09;Swiftway Sp. z o.o.

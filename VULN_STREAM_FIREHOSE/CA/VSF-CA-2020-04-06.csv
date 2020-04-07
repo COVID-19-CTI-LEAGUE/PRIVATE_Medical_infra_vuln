@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+38.112.100.202;174;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-04-06 16:20:08;Cogent Communications
