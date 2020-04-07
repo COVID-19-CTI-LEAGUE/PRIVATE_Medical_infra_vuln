@@ -1,3 +1,6 @@
+![TLP:RED](https://github.com/COVID-19-CTI-LEAGUE/PRIVATE_Medical_infra_vuln/blob/master/MARKDOWN_RESOURCES/TLP-IMAGES/TLP-RED.jpg)<BR>
+
+
 # PRIVATE_Medical_infra_vuln
 Repo for Channel #2-medical-infra-vuln-stream
 
@@ -63,4 +66,4 @@ IP;ASN;{CVEs};[Ports];Time;AS_Desc
 this data will get updated daily, automated
 changes will be pushed back to this repo 
 
-
+<h1>Together we are power, and power can save a life.</h1>
