@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+206.191.17.163;812;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-04-07 13:57:36;Rogers Cable
+216.183.137.28;11727;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[8008, 80, 443];2020-04-07 09:14:37;Bruce Telecom
+70.65.217.122;6327;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[32400, 3389, 22];2020-04-07 04:25:55;Shaw Communications

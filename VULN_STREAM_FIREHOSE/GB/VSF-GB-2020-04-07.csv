@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.17.180.110;21396;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 21];2020-04-07 07:47:36;Nimbus Hosting Ltd.
+217.32.196.84;2856;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-07 02:58:28;BT
+46.32.234.70;20738;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8880, 8443, 110, 143, 80, 21, 25, 443, 3389, 53];2020-04-07 16:40:31;Host Europe GmbH
+62.232.73.218;5413;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-04-07 10:56:48;Daisy Communications Ltd
+86.142.77.37;2856;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7547, 500, 3389];2020-04-07 18:41:02;BT
+88.83.110.81;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 443, 1723, 3389];2020-04-07 23:20:25;Club Communications Ltd
+92.54.136.114;8190;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-07 12:13:08;MDNX Internet Limited
