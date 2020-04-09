@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.209.125.12;135106;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 443, 3389];2020-04-08 08:34:24;CareTel Pty
+120.151.192.198;1221;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 443, 1723, 3389];2020-04-08 21:41:11;Telstra Internet
+203.45.246.20;1221;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7547, 500, 3389];2020-04-08 22:13:38;Telstra Internet
+203.59.4.85;4802;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8000, 8001, 3389];2020-04-08 05:43:28;iiNet Limited
+220.245.65.35;7545;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-08 19:45:10;TPG Internet
+58.108.216.87;4804;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-08 15:24:55;Optus

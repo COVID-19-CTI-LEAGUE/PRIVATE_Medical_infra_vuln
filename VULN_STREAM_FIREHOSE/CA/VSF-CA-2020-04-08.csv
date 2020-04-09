@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+142.112.96.195;577;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 81, 82, 3389];2020-04-08 07:47:05;Bell Canada
+38.112.100.202;174;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-04-08 14:51:14;Cogent Communications
+67.202.228.130;7381;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-04-08 12:17:07;SunGard Availability Services LP
+99.79.174.207;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[10000, 8443, 3389, 445];2020-04-08 08:41:10;Amazon.com

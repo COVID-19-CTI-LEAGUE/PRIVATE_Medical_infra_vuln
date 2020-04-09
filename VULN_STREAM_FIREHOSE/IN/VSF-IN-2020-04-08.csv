@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+121.244.113.39;4755;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-08 21:54:11;Tata Communications
+125.18.129.71;9498;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-08 20:16:24;Bharti Airtel
+150.129.239.178;132453;{'CVE-2020-0796': 'MS SMBv3 RCE'};[137, 3306, 5357, 8080, 1434, 445];2020-04-08 09:41:05;Tripleplay interactive Network Pvt. Ltd.

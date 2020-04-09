@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+13.76.247.169;8075;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5986, 139, 3389, 80, 53, 445];2020-04-08 08:57:49;Microsoft Azure
+14.100.25.181;45143;{'MS17-010': 'MS17-010'};[445];2020-04-08 11:33:18;SingTel Mobile

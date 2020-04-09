@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+119.42.70.58;131090;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[17000, 3389, 23];2020-04-08 09:03:14;CAT Telecom public company Ltd

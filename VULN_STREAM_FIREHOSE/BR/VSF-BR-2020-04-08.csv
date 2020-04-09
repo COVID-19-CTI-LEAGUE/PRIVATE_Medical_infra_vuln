@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.128.136.167;262373;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 3389];2020-04-08 15:56:17;Bahianet Ltda.
+177.200.207.13;28343;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5222, 80, 5269, 443, 3388, 3389];2020-04-08 22:50:19;Unifique Telecomunicações SA
+187.95.28.150;53081;{'CVE-2020-0796': 'MS SMBv3 RCE'};[8291, 445];2020-04-08 13:08:26;Netjacarei Telecon Ltda
+189.127.14.174;27693;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-08 21:45:31;NipCable do Brasil Telecom LTDA
+189.15.167.62;53006;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 7547, 3389];2020-04-08 06:00:31;Algar Telecom
+200.205.21.202;10429;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[2000, 80, 443];2020-04-08 04:06:48;Vivo

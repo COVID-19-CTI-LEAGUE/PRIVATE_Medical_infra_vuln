@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+123.214.181.180;38429;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 3389];2020-04-08 11:23:08;Boryung Pharmaceutical Co.,Ltd.
