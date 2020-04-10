@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.17.180.230;21396;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 21];2020-04-09 11:23:22;Nimbus Hosting Ltd.
+82.71.22.3;13037;{'CVE-2020-0796': 'MS SMBv3 RCE'};[5357, 445];2020-04-09 13:13:16;Zen Internet Ltd
+88.83.110.81;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 443, 1723, 3389];2020-04-09 20:20:08;Club Communications Ltd

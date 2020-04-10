@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+194.87.238.238;48347;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8000, 3389];2020-04-09 21:47:20;RUCloud
+195.133.196.186;48347;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-04-09 16:26:19;RUCloud
+195.133.49.191;48347;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-09 18:24:52;RUCloud
+79.111.156.4;12714;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 8291, 8001, 443, 2000, 82, 1723, 3389];2020-04-09 16:49:17;Net By Net Holding LLC
+83.172.29.91;33892;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 5683, 443, 3389];2020-04-09 18:19:31;The municipal enterprise Severskelektrosviaz
