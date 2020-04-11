@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.131.13.127;262375;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 137, 445, 80, 21, 7547, 3389];2020-04-10 01:09:57;Data Info Comercio e Servico Ltda.
+177.135.126.242;18881;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8181, 22];2020-04-10 04:51:59;Vivo
+177.200.207.13;28343;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5222, 80, 5269, 443, 3388, 3389];2020-04-10 17:08:59;Unifique Telecomunicações SA
+189.127.14.174;27693;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-10 01:45:36;NipCable do Brasil Telecom LTDA
+201.182.223.43;267541;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 8080, 3333, 3389, 1433];2020-04-10 13:40:17;Brasilnet Internet Banda Larga Ltda-me
+201.73.227.142;4230;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-04-10 23:16:02;Claro S.A.

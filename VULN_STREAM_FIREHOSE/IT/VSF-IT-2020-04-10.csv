@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.73.251.100;203150;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-04-10 22:25:14;E.G. Servizi Industriali Srl
+87.2.59.172;3269;{'CVE-2020-0796': 'MS SMBv3 RCE'};[5353, 10243, 445];2020-04-10 07:30:22;Telecom Italia
+95.249.181.103;3269;{'MS17-010': 'MS17-010'};[445];2020-04-10 05:35:02;Telecom Italia

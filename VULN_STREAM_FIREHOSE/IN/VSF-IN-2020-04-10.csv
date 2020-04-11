@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.17.100.6;133232;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[49152, 80, 554, 3389];2020-04-10 04:58:06;Indusind Media and communication
+103.39.244.167;133720;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-04-10 01:32:31;Soft Call Cust-o-care Private Limited
+113.30.141.223;17447;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 443, 3389];2020-04-10 03:00:08;Net4India
+69.90.184.207;13768;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 9001, 9002, 13, 8080, 17, 19, 3306, 443, 8083, 3389];2020-04-10 06:48:38;Cogeco Peer 1

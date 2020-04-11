@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+194.58.69.85;48347;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-04-10 22:17:15;JSC Mediasoft ekspert
+194.87.236.20;48347;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-10 16:16:15;RUCloud
+195.64.222.83;5563;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-10 14:07:15;JSC UralWES
+77.221.153.49;30968;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-10 13:45:28;OOO National Telecommunications
+84.22.141.253;33991;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 554, 1723, 3389];2020-04-10 14:56:38;Igra-Service LLC

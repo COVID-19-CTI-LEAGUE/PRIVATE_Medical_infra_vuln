@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+94.245.90.108;8075;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-10 00:37:55;Microsoft Corporation

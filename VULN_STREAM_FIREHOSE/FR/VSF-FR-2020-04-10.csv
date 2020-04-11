@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+193.38.32.98;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1723, 389, 8080, 443, 25, 4443, 3389];2020-04-10 05:11:59;Totalcloud SAS
+217.128.246.127;3215;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[389, 3389, 80, 88, 123, 445];2020-04-10 10:26:40;Orange
+80.15.112.102;3215;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 21];2020-04-10 08:24:10;Orange

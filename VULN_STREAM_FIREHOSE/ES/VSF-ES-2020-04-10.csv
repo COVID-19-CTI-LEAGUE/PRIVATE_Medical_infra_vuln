@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+134.255.191.173;51678;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-10 00:47:23;Ibermatica S.A.
+2.136.48.115;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-10 08:18:35;Telefonica de Espana Static IP
+80.28.137.26;3352;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 4433, 4443];2020-04-10 10:27:50;Telefonica de Espana Static IP
+80.39.186.99;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-10 07:27:09;Telefonica de Espana
+81.46.215.31;16371;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 3389, 22222];2020-04-10 19:20:24;acens Technologies, S.L.
+83.48.54.196;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-10 16:48:02;Telefonica de Espana Static IP
+95.126.29.71;3352;{'CVE-2020-0796': 'MS SMBv3 RCE'};[137, 445, 22];2020-04-10 15:07:46;Telefonica de Espana Static IP

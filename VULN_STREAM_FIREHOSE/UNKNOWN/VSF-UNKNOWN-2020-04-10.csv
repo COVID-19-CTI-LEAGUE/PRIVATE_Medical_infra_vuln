@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+141.98.207.99;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE'};[1433, 3389, 445, 5985];2020-04-10 23:46:37;Aerotek Bilisim Sanayi ve Ticaret AS
+182.70.114.150;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-04-10 09:54:36;unknown
+189.114.163.226;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-04-10 14:41:05;unknown
+213.178.155.76;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-10 20:22:17;RETN Limited
