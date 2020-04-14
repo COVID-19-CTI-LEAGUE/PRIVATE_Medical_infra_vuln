@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+62.149.42.243;6908;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-12 13:03:06;Six Degrees Technology Group Limited
+62.73.136.109;15533;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-12 01:28:08;SunGard Availability Services (UK) Ltd

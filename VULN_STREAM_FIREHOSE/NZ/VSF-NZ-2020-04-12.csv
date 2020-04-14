@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+121.90.44.36;9500;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 445];2020-04-12 17:29:36;Vodafone New Zealand

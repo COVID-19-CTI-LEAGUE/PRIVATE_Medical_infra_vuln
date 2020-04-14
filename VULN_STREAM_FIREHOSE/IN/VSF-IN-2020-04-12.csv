@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+122.160.175.25;24560;{'CVE-2020-0796': 'MS SMBv3 RCE'};[9000, 445];2020-04-12 04:47:33;Airtel Broadband
+202.191.187.151;9583;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-12 11:42:44;Sify Limited
+203.192.222.54;17665;{'CVE-2020-0796': 'MS SMBv3 RCE'};[80, 10243, 137, 554, 139, 5357, 8080, 1433, 445];2020-04-12 09:57:35;Indusind Media and communication
+203.192.255.27;17665;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[104, 11112, 3389, 80];2020-04-12 15:41:49;Indusind Media and communication
+45.249.40.103;unknown;{'MS17-010': 'MS17-010'};[5985, 9000, 137, 3389, 80, 443, 445];2020-04-12 19:39:23;Soft Call Cust-o-care Private Limited

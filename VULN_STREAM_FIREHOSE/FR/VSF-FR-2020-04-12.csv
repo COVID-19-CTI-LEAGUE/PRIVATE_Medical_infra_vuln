@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+81.252.203.107;3215;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-12 04:19:26;Orange

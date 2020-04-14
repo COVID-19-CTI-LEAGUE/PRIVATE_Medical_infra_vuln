@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+213.96.26.143;3352;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 500, 1723];2020-04-13 21:08:20;Telefonica de Espana Static IP
+37.15.182.133;12479;{'CVE-2020-0796': 'MS SMBv3 RCE'};[137, 8554, 25565, 5357, 445, 4500, 21, 443, 3306];2020-04-13 12:40:22;Orange Espana
+5.225.168.50;12430;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-13 19:06:15;Vodafone Spain
+83.56.1.72;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 2332, 3389, 21];2020-04-13 11:54:28;Telefonica de Espana Static IP
+88.12.23.228;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-13 19:57:01;Telefonica de Espana Static IP

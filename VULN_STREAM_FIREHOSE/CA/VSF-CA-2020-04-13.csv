@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+209.53.201.87;25668;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 4443, 500, 3389];2020-04-13 09:53:57;Cipherkey Exchange Corp.
+38.112.100.200;174;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-04-13 12:56:13;Cogent Communications
+38.112.100.201;174;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-04-13 02:47:28;Cogent Communications
+72.55.175.200;32613;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-13 13:42:50;iWeb Technologies

@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.18.196.10;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 587, 110, 143, 8880, 53, 8085, 25, 8090, 8443, 3389, 21];2020-04-12 19:39:47;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+185.134.185.108;205725;{'CVE-2020-0796': 'MS SMBv3 RCE'};[2000, 445, 3389];2020-04-12 04:39:01;Selcuk Ecza Deposu Ticaret ve Sanayi Anonim Sirket
+212.15.8.113;15924;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-04-12 18:11:46;Vodafone Net Iletisim Hizmetleri Anonim Sirketi
+213.144.97.67;25145;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5357, 3389, 80, 85, 1433, 445];2020-04-12 22:40:15;Teknotel Telekomunikasyon Sanayi Ve Ticaret A.s.
+81.215.15.39;9121;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 8081, 443, 3389];2020-04-12 05:16:41;Turk Telekom
+94.102.69.162;8685;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3056, 21, 3389];2020-04-12 01:49:42;Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.

@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+209.128.12.8;855;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-04-11 19:24:56;Bell Canada
+38.112.100.199;174;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-04-11 03:20:46;Cogent Communications
+38.112.100.202;174;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-04-11 17:55:25;Cogent Communications
+75.154.252.67;852;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[587, 21, 53, 3389];2020-04-11 20:53:05;Telus Communications

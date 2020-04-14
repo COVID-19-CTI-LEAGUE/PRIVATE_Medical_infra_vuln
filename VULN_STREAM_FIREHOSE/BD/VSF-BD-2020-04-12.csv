@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.142.68.228;139600;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445];2020-04-12 15:03:18;Green Computer & Mobile Care

@@ -1,0 +1,10 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.18.205.222;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 587, 110, 143, 8080, 21, 1433, 25, 1434, 3389, 53];2020-04-13 14:15:18;Vargonen Network
+185.93.69.21;61135;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[445, 3389, 21];2020-04-13 15:17:07;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+193.164.5.164;61135;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445];2020-04-13 09:51:18;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+193.164.5.168;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445, 3389];2020-04-13 07:52:57;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+193.164.5.179;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445];2020-04-13 12:27:08;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+213.144.97.67;25145;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5357, 3389, 80, 85, 1433, 445];2020-04-13 07:28:00;Teknotel Telekomunikasyon Sanayi Ve Ticaret A.s.
+213.155.122.82;8685;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-04-13 22:34:24;Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.
+31.186.23.210;199484;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5985, 137, 3306, 110, 143, 53, 25, 8443, 3389, 445];2020-04-13 16:52:57;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+31.3.0.110;21245;{'CVE-2020-0796': 'MS SMBv3 RCE'};[3389, 445, 5357];2020-04-13 04:21:48;Medianova Internet Hizmetleri Ve Ticaret Anonim Si

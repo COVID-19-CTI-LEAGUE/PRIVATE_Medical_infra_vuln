@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+195.154.233.31;12876;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 3389, 21];2020-04-11 22:20:52;Iliad-Entreprises
+80.13.108.131;3215;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-11 05:13:47;Orange
+81.252.203.107;3215;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-11 22:46:38;Orange

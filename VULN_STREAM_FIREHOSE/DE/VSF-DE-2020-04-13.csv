@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+217.89.113.173;3320;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-13 22:45:31;Deutsche Telekom AG

@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.109.176.62;133275;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-11 06:53:15;Pc Care Airway Infratel Private Limited
+103.245.71.72;131442;{'CVE-2020-0796': 'MS SMBv3 RCE'};[80, 1433, 445];2020-04-11 04:39:54;Digital Network Associates Pvt
+103.82.208.33;135780;{'MS17-010': 'MS17-010'};[8080, 8081, 2222, 3389, 80, 81, 1433, 445];2020-04-11 03:42:48;AirFiber Networks Pvt
+103.95.48.119;135422;{'CVE-2020-0796': 'MS SMBv3 RCE'};[2000, 80, 443, 445];2020-04-11 15:06:46;Shass Information & Quality Engineering Services P
+14.140.98.216;4755;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-11 06:51:48;Tata Communications
+219.65.58.170;4755;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-11 18:44:07;Tata Communications

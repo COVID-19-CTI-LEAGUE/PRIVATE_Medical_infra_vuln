@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+2.139.211.44;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7547, 21, 3389, 23];2020-04-12 10:46:59;Telefonica de Espana Static IP
+212.4.98.197;29231;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443, 53, 8443];2020-04-12 08:25:40;Grupalia Internet S.A.
+83.35.57.50;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[81, 3389, 37777];2020-04-12 10:50:27;Telefonica de Espana

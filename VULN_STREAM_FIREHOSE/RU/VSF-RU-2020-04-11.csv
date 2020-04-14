@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+193.150.116.181;57438;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 139, 3389];2020-04-11 23:02:36;Krasnoyarsk State Medical University
+194.0.219.172;199148;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 443, 3389];2020-04-11 08:01:34;Ministry of Health of Russian Federation
+37.131.206.214;48524;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 554, 3389, 49152];2020-04-11 23:24:02;INTERRA telecommunications group, Ltd.
+45.11.26.62;9002;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-11 07:16:02;RETN Limited
+77.221.153.49;30968;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-11 08:58:24;OOO National Telecommunications
