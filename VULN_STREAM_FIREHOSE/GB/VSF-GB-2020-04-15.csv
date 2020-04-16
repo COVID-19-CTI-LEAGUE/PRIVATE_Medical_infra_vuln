@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+62.31.75.101;5089;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[993, 587, 143, 80, 25, 1723, 3389];2020-04-15 01:00:46;Virgin Media Business
+81.130.143.0;2856;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 389, 80, 8181, 25, 443, 3389];2020-04-15 11:09:16;BT
+92.54.136.114;8190;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-15 16:56:59;MDNX Internet Limited

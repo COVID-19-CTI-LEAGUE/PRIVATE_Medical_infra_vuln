@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+193.38.32.98;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1723, 389, 8080, 443, 25, 4443, 3389];2020-04-15 17:38:04;Totalcloud SAS
+193.38.32.99;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 4443, 3389];2020-04-15 21:12:33;Totalcloud SAS
+5.39.233.157;60641;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-04-15 06:57:56;Hexatel SAS
+82.127.71.193;3215;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-15 07:05:00;Orange
+89.92.178.144;5410;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-15 06:36:14;Bouygues Telecom
+90.5.237.14;3215;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-15 22:48:18;Orange

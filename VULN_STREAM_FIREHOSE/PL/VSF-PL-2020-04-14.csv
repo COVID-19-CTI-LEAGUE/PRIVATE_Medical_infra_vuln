@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+153.19.191.194;5550;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-04-14 08:00:28;Technical University of Gdansk, Academic Computer
+176.221.107.206;21021;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-14 14:34:46;Multi Media
+78.10.180.215;12741;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[37777, 5060, 3389, 4567];2020-04-14 05:25:21;Netia SA

@@ -1,0 +1,9 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.18.199.123;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9090, 80, 25, 1433, 8090, 443, 3389];2020-04-15 17:40:11;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+178.18.205.202;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3306, 110, 143, 80, 53, 25, 1433, 1434, 443, 3389, 21];2020-04-15 09:00:32;Vargonen Network
+185.132.126.88;42926;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[139, 445, 3389];2020-04-15 16:43:11;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+185.93.69.28;42926;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445, 3389];2020-04-15 04:02:28;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+195.155.97.54;199484;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8800, 993, 8443, 4040, 587, 143, 80, 465, 995, 119, 25, 443, 636, 3389];2020-04-15 06:14:52;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+212.15.8.113;15924;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-04-15 02:45:13;Vodafone Net Iletisim Hizmetleri Anonim Sirketi
+213.155.122.82;8685;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-04-15 14:33:34;Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.
+93.177.101.58;61135;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 445];2020-04-15 18:33:34;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.

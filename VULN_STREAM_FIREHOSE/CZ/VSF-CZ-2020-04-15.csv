@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+195.39.100.218;5588;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[993, 4443, 110, 143, 8081, 443, 995, 25, 1723, 3389];2020-04-15 15:42:33;T-Mobile Czech Republic

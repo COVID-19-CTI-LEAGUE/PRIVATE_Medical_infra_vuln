@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+124.35.41.204;17506;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-04-15 09:59:32;ARTERIA Networks Corporation

@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.109.44.235;137167;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-04-14 16:42:11;Cherri Technologies
+103.38.89.25;133716;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 3389, 21];2020-04-14 15:59:00;SS NetCom Pvt.
+14.98.134.82;45820;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 25, 587, 8443, 3389];2020-04-14 20:34:53;Tata Teleservices ISP
+202.157.92.94;17753;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-04-14 12:56:09;Internet Service Provider
+45.112.22.82;133011;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 104, 3389, 80];2020-04-14 23:35:14;Mobiwalkers
+45.117.0.115;58678;{'CVE-2020-0796': 'MS SMBv3 RCE'};[2345, 8010, 80, 81, 82, 83, 1433, 445];2020-04-14 12:16:01;Intech Online Private Limited

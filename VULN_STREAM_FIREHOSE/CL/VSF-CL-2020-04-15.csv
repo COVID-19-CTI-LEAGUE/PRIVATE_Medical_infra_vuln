@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+186.37.122.141;27925;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-15 15:26:20;Entel PCS Telecomunicaciones S.A.

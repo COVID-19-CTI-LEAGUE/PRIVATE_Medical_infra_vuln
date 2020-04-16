@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+195.133.146.6;48347;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-15 11:16:34;JSC Mediasoft ekspert
+195.133.147.25;48347;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-15 17:24:28;JSC Mediasoft ekspert
+45.132.18.25;48347;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-15 14:05:10;JSC Mediasoft ekspert

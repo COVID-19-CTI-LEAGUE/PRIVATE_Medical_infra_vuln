@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+203.46.139.244;1221;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-04-15 02:30:49;Telstra Internet

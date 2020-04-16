@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+104.214.139.148;8075;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-14 11:27:18;Microsoft Azure
+124.35.41.204;17506;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-04-14 00:28:29;ARTERIA Networks Corporation

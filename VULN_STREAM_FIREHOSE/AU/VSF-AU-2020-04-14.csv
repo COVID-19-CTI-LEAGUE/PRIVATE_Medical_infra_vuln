@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+123.243.62.50;7545;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 3389];2020-04-14 13:05:57;TPG Internet
+52.147.10.118;8075;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-04-14 20:22:32;Microsoft Azure
+58.108.216.87;4804;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-14 16:22:31;Optus
