@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+101.187.117.104;1221;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7547, 500, 3389];2020-04-16 13:26:29;Telstra Internet
+103.209.125.12;135106;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 443, 3389];2020-04-16 17:38:38;CareTel Pty
+218.214.219.198;9443;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443, 4430, 80, 500, 8443, 1723];2020-04-16 17:56:36;Vocus Communications

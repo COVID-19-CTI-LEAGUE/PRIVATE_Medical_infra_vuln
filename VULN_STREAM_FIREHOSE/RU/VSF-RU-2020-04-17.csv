@@ -1,0 +1,11 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+176.113.81.7;9002;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-17 11:45:39;RETN Limited
+194.87.109.151;9002;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-17 13:53:55;RETN Limited
+194.87.94.134;48347;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-17 23:48:14;JSC Mediasoft ekspert
+195.239.128.118;3216;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 3389, 23];2020-04-17 01:40:36;VimpelCom
+37.131.206.214;48524;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 554, 3389, 49152];2020-04-17 02:06:05;INTERRA telecommunications group, Ltd.
+46.28.227.58;42339;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-04-17 16:36:31;Chaika Telecom Petersburg Limited Company
+62.117.81.226;8732;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 500, 3389];2020-04-17 22:26:17;OJSC Comcor
+77.221.153.49;30968;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-17 19:52:59;OOO National Telecommunications
+82.117.168.54;31036;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-04-17 03:06:07;New Telesystems, Ltd.
+95.66.143.83;35645;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-17 16:25:31;Limited Liability Company VLADINFO

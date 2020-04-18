@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+94.249.82.103;8376;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443, 179];2020-04-16 00:19:45;Jordan Data Communications Company LLC

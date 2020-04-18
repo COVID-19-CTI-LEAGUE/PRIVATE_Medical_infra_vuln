@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+153.156.71.239;4713;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-04-16 07:01:43;NTT
+202.221.204.200;2497;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-04-16 05:08:30;Internet Initiative Japan
+221.253.70.174;17506;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-04-16 12:07:10;ARTERIA Networks Corporation

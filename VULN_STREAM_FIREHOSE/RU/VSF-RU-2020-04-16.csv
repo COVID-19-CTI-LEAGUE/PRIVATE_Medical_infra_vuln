@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+176.215.2.111;51604;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-16 18:27:08;JSC ER-Telecom Holding Yekaterinburg Branch
+195.133.147.25;48347;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-16 06:55:33;JSC Mediasoft ekspert
+45.11.26.62;9002;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-16 08:22:09;RETN Limited
+45.132.18.25;48347;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-16 10:06:24;JSC Mediasoft ekspert
+45.141.101.169;48347;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 3389, 21];2020-04-16 14:53:10;JSC Mediasoft ekspert
+45.8.230.189;48347;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-16 05:25:06;JSC Mediasoft ekspert
+79.111.156.4;12714;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 8291, 8001, 443, 2000, 82, 1723, 3389];2020-04-16 19:29:30;Net By Net Holding LLC

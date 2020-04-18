@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+193.38.32.98;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1723, 389, 8080, 443, 25, 4443, 3389];2020-04-16 01:54:32;Totalcloud SAS
+37.58.166.114;16347;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-16 01:34:28;ADISTA SAS
+80.15.112.102;3215;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 21];2020-04-16 02:46:36;Orange

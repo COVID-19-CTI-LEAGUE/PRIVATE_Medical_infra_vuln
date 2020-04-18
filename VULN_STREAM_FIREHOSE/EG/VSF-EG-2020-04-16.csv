@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+41.155.243.46;37069;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 53, 1311, 3389, 5357];2020-04-16 15:31:55;Orange Egypt

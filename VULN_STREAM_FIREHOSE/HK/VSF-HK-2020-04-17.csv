@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+116.92.204.21;9381;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-04-17 18:21:34;Hong Kong Broadband Network
+210.184.46.8;4058;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 3389, 445];2020-04-17 01:53:35;CITIC Telecom International CPC Limited
+42.200.242.152;4760;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3388];2020-04-17 11:52:21;Netvigator
