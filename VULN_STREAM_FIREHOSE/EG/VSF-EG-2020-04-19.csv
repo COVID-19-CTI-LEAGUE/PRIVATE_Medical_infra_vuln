@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+196.221.164.173;24835;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-19 21:35:08;Vodafone Egypt

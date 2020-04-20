@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+196.15.252.163;5713;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-19 12:37:37;Telkom SA Limited
+41.160.125.250;36937;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-04-19 19:46:04;Neotel Pty Ltd
+45.192.183.191;137443;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 443, 3389, 445];2020-04-19 09:56:40;Anchnet Asia Limited

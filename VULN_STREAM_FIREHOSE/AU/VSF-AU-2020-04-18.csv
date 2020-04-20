@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+118.127.32.22;45671;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 5900, 3389];2020-04-18 21:39:18;ServersAustralia
+120.151.192.198;1221;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 443, 1723, 3389];2020-04-18 10:08:50;Telstra Internet
+59.100.251.74;2764;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 3388];2020-04-18 00:05:19;AAPT Limited

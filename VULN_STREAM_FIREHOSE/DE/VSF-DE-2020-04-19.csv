@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+82.100.219.238;25394;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-19 06:40:13;MK Netzdienste GmbH & Co. KG

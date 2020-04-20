@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+203.189.97.43;7506;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389, 21];2020-04-19 06:44:46;GMO Internet,Inc

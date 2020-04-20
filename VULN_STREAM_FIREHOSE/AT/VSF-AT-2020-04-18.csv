@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.188.74.70;8447;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8443, 80, 25, 443, 444, 3389];2020-04-18 04:25:39;A1 Telekom Austria

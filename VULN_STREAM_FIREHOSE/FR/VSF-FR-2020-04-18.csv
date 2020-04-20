@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+176.120.128.8;197485;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3299, 3389];2020-04-18 15:09:10;Pharmagest Interactive SA
+195.101.18.20;3215;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-18 01:14:10;Orange
+80.14.111.7;3215;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-18 16:42:11;Orange
+82.64.70.133;12322;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-18 13:51:57;Free SAS
+83.206.146.129;3215;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-18 07:28:30;Orange

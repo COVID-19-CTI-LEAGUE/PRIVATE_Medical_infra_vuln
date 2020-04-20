@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+83.35.57.50;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[81, 3389, 37777];2020-04-18 11:28:59;Telefonica de Espana
+83.56.0.196;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-18 06:15:34;Telefonica de Espana Static IP
+83.56.1.72;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 2332, 3389, 21];2020-04-18 16:44:53;Telefonica de Espana Static IP
+85.84.48.150;12338;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-18 05:58:29;Euskaltel S.A.

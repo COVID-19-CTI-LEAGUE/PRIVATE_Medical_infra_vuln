@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+216.183.137.28;11727;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[8008, 80, 443];2020-04-19 11:23:17;Bruce Telecom
+216.46.24.227;11478;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 4443, 80, 500, 8181, 8443, 443, 3389];2020-04-19 21:47:19;Openface
+38.112.100.201;174;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-04-19 12:02:45;Cogent Communications
+69.70.98.82;5769;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 1024, 3389, 5632];2020-04-19 13:47:11;Videotron Ltee
+72.55.175.200;32613;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-19 11:45:00;iWeb Technologies

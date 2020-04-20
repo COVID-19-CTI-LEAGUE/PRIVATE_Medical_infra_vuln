@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+82.137.246.35;29256;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 3389, 53];2020-04-18 14:23:30;Tarassul inetnet Service Provider

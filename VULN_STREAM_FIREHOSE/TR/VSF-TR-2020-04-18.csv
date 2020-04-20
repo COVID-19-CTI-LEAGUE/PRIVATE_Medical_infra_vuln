@@ -1,0 +1,11 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.18.196.10;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 587, 110, 143, 8880, 53, 8085, 25, 8090, 8443, 3389, 21];2020-04-18 05:46:51;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+178.18.196.85;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8880, 8111, 3306, 110, 143, 80, 21, 25, 8090, 8443, 3389, 53];2020-04-18 05:32:20;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+178.18.196.86;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8880, 3306, 587, 110, 143, 80, 21, 8085, 25, 8090, 8443, 3389, 53];2020-04-18 23:11:42;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+185.132.126.88;42926;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[139, 445, 3389];2020-04-18 21:39:21;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+185.137.215.215;208002;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445, 3389];2020-04-18 22:01:29;Ng Bilgi Teknoloji Sanayi Ve Ticaret Anonim Sirket
+185.93.69.25;42926;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445, 3389];2020-04-18 04:44:54;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+193.164.5.164;61135;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445];2020-04-18 17:51:22;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+193.164.5.182;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445];2020-04-18 06:41:34;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+212.15.8.113;15924;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-04-18 07:34:50;Vodafone Net Iletisim Hizmetleri Anonim Sirketi
+93.177.101.13;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-18 14:39:33;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.

@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+162.213.104.98;36493;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[53, 3389];2020-04-18 23:30:59;Fibernetics Corporation
+216.183.137.21;11727;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[8008, 443];2020-04-18 21:06:03;Bruce Telecom
+38.112.100.202;174;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-04-18 13:45:26;Cogent Communications
+50.101.231.74;577;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-04-18 10:18:33;Bell Canada
+72.55.175.200;32613;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-18 08:21:58;iWeb Technologies
