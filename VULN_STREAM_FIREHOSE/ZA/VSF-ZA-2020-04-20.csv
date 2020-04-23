@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+105.225.65.174;37457;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-20 06:10:44;Telkom Internet

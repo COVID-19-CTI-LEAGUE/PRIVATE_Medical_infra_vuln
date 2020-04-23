@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+151.252.214.145;34594;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445];2020-04-22 20:58:22;Optima Telekom

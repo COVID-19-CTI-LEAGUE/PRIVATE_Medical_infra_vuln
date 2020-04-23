@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+110.77.143.90;131090;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[389, 3389, 53, 88, 123, 445];2020-04-22 18:40:39;CAT Telecom public company Ltd
+110.78.152.177;131090;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[2000, 1194, 80, 8888, 443, 3306];2020-04-22 07:04:06;CAT Telecom public company Ltd
+119.110.206.234;24218;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 3389, 21];2020-04-22 00:08:05;Symphony Communication
+210.86.175.198;7470;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3388, 3389];2020-04-22 13:58:21;True Internet
+49.231.7.105;45458;{'MS17-010': 'MS17-010'};[80, 2000, 5800, 137, 5900, 8080, 7001, 445];2020-04-22 13:02:36;AIS Mobile
+49.49.197.57;45758;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-22 07:52:21;3BB Broadband

@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+121.99.194.184;9790;{'CVE-2020-0796': 'MS SMBv3 RCE'};[3306, 25565, 445, 5357];2020-04-20 11:52:19;Vocus Communications
+210.54.88.38;4771;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[161, 3389];2020-04-20 22:39:21;Spark New Zealand

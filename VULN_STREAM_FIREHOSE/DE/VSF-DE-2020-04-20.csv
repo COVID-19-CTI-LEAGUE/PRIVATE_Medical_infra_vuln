@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+85.25.199.164;8972;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389, 21];2020-04-20 23:51:28;Host Europe GmbH
+87.106.178.214;8560;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3306, 110, 80, 21, 25, 3389];2020-04-20 23:28:21;1&1 Internet AG

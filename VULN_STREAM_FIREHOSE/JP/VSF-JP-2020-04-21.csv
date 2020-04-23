@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+202.221.204.200;2497;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-04-21 13:05:20;Internet Initiative Japan
+203.189.97.43;7506;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389, 21];2020-04-21 08:14:57;GMO Internet,Inc

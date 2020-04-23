@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+200.123.248.23;52402;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 3389, 5985];2020-04-22 09:36:25;Intercity Comunicaciones S.A.

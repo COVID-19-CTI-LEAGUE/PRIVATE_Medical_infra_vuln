@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+148.255.211.210;6400;{'CVE-2020-0796': 'MS SMBv3 RCE'};[137, 1433, 445, 5357];2020-04-22 07:37:28;Claro Dominican Republic

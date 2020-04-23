@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+31.145.40.54;unknown;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[];2020-04-22 09:04:33;unknown

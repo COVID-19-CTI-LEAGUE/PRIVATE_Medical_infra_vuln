@@ -1,0 +1,11 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.157.13.186;42807;{'MS17-010': 'MS17-010'};[3389, 111, 445, 5357];2020-04-22 21:58:55;Aerotek Bilisim Sanayi ve Ticaret AS
+178.18.199.125;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9090, 80, 1433, 25, 443, 3389];2020-04-22 22:26:28;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+185.132.126.160;42926;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 445];2020-04-22 00:21:17;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+185.148.240.200;29262;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-22 02:46:05;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+185.148.240.207;61135;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3306, 443, 3389];2020-04-22 17:07:15;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+185.93.69.28;42926;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445, 3389];2020-04-22 11:15:11;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+193.164.5.194;61135;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[445];2020-04-22 05:46:11;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+212.58.22.52;8685;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7, 137, 13, 80, 17, 19, 1433, 25, 1434, 3389];2020-04-22 10:20:25;Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.
+31.186.8.176;199484;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 139, 80, 2259, 25, 3389];2020-04-22 00:57:45;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+37.75.10.171;199484;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[139, 3389, 445];2020-04-22 09:04:37;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare

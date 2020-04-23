@@ -1,0 +1,11 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+109.225.42.168;15468;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 161, 443, 3221, 23];2020-04-22 06:18:48;Rostelecom
+193.124.117.7;48347;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-22 14:45:10;JSC Mediasoft ekspert
+195.211.192.26;35640;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5985, 5357, 3389, 445];2020-04-22 00:51:39;Ooo Migraph
+195.239.128.118;3216;{'MS17-010': 'MS17-010'};[137, 3389, 23];2020-04-22 01:06:44;VimpelCom
+45.132.18.25;48347;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-22 17:54:35;JSC Mediasoft ekspert
+5.32.146.17;43714;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445];2020-04-22 10:21:47;Production co-operative Economic-legal laboratory
+95.154.139.89;43714;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445];2020-04-22 17:13:44;Production co-operative Economic-legal laboratory
+95.154.154.10;43714;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445];2020-04-22 19:22:46;Production co-operative Economic-legal laboratory
+95.154.178.12;43714;{'MS17-010': 'MS17-010'};[445];2020-04-22 01:41:30;Production co-operative Economic-legal laboratory
+95.154.191.237;43714;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445];2020-04-22 18:50:27;Production co-operative Economic-legal laboratory

@@ -1,0 +1,9 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+1.20.217.115;23969;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 80, 8291, 3389, 53];2020-04-21 21:18:49;TOT
+110.164.86.14;135074;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-04-21 22:25:12;Boromarajonani College of Nursing, Bangkok
+110.77.137.110;131090;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8443, 554, 2000, 53, 1080, 1723, 3389];2020-04-21 14:05:25;CAT Telecom public company Ltd
+110.78.152.145;131090;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[5900, 2000, 82, 500, 53, 443];2020-04-21 03:43:25;CAT Telecom public company Ltd
+110.78.152.177;131090;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[2000, 1194, 80, 8888, 443, 3306];2020-04-21 14:04:29;CAT Telecom public company Ltd
+119.110.206.234;24218;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 3389, 21];2020-04-21 15:04:51;Symphony Communication
+125.24.199.230;23969;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7547, 3389];2020-04-21 21:48:00;TOT
+125.27.191.107;23969;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7547, 3389];2020-04-21 17:04:26;TOT

@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+2.136.91.128;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-21 10:06:02;Telefonica de Espana Static IP
+213.171.232.28;16206;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 123, 3389];2020-04-21 07:25:03;Neutra Network Services S.L.
+213.98.181.106;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 10000, 81, 82, 21, 22, 1723, 3389, 8181];2020-04-21 23:55:48;Telefonica de Espana Static IP
+82.223.130.16;8560;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-04-21 13:19:46;1&1 Internet AG
+83.35.57.50;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[81, 3389, 37777];2020-04-21 03:37:03;Telefonica de Espana
+86.127.254.252;57269;{'CVE-2020-0796': 'MS SMBv3 RCE'};[7547, 445, 3391];2020-04-21 14:15:59;DIGI
+88.12.23.228;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-21 04:53:48;Telefonica de Espana Static IP

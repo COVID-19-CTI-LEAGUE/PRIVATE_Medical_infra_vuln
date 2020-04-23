@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+1.186.57.131;45769;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 23, 3389, 25];2020-04-22 19:03:57;D-Vois Broadband Pvt
+103.82.208.33;135780;{'MS17-010': 'MS17-010'};[8080, 8081, 2222, 3389, 80, 81, 1433, 445];2020-04-22 02:54:54;AirFiber Networks Pvt
+219.65.58.170;4755;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-22 12:17:35;Tata Communications
+35.154.72.77;16509;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-22 18:21:03;Amazon.com
+45.248.21.44;133720;{'CVE-2020-0796': 'MS SMBv3 RCE'};[80, 82, 445];2020-04-22 02:46:58;Soft Call Cust-o-care Private Limited

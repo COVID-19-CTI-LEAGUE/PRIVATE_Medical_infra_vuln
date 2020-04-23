@@ -1,0 +1,11 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.223.7.246;52699;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8009, 3389];2020-04-20 06:21:35;ItaNet
+177.5.132.52;8167;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-20 21:53:46;Oi Internet
+177.5.225.1;8167;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[161, 3389];2020-04-20 06:38:50;Oi Internet
+186.195.81.54;263072;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-20 23:50:48;BD Fibra Telecom Ltda - EPP
+187.95.20.107;53081;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8081, 554, 80, 37777, 21, 3306, 3389];2020-04-20 01:52:15;Netjacarei Telecon Ltda
+187.95.29.4;53081;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9001, 1883, 3389];2020-04-20 00:00:49;Netjacarei Telecon Ltda
+189.127.14.174;27693;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-20 08:54:22;NipCable do Brasil Telecom LTDA
+191.251.83.3;10429;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-20 09:05:36;Vivo
+201.73.227.142;4230;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-04-20 12:59:06;Claro S.A.
+201.82.4.29;28573;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 8181];2020-04-20 07:12:35;Claro NET

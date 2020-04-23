@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.17.180.110;21396;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 21];2020-04-21 19:32:08;Nimbus Hosting Ltd.
+194.74.0.149;2856;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-21 03:29:22;BT
+51.52.94.159;31655;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8080, 8081, 25, 443, 3389];2020-04-21 03:18:48;Gamma Telecom Limited
+62.73.136.109;15533;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-21 07:25:22;SunGard Availability Services (UK) Ltd
+81.187.1.130;20712;{'CVE-2020-0796': 'MS SMBv3 RCE'};[9098, 139, 9100, 9106, 9595, 445];2020-04-21 05:55:35;Andrews & Arnold Ltd
+89.197.9.134;47474;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 1723, 3389];2020-04-21 15:33:30;Virtual1 Limited
+94.30.87.34;5413;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445, 3389, 5357];2020-04-21 13:51:14;Daisy Communications Ltd

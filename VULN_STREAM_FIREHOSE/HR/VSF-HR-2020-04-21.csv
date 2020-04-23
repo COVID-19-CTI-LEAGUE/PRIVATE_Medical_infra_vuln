@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+89.164.0.10;13046;{'CVE-2020-0796': 'MS SMBv3 RCE'};[137];2020-04-21 04:16:45;Iskon Internet

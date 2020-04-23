@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+130.93.36.174;25540;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[70, 8080, 8081, 500, 443, 3389];2020-04-21 21:08:58;Alphalink
+193.38.32.99;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 4443, 3389];2020-04-21 10:26:16;Totalcloud SAS
+5.39.233.157;60641;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-04-21 15:33:28;Hexatel SAS

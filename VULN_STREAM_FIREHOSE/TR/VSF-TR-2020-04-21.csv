@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.132.126.187;42926;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 445];2020-04-21 22:44:45;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+185.93.69.29;42926;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445, 3389];2020-04-21 17:16:32;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+213.155.122.82;8685;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-04-21 12:52:46;Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.

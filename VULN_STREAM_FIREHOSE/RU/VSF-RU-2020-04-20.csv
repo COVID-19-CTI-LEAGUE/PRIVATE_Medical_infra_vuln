@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+176.113.83.40;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-20 23:35:24;JSC Mediasoft ekspert
+195.64.222.83;5563;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-20 13:27:12;JSC UralWES
+95.66.143.43;35645;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 1947, 3389];2020-04-20 12:34:22;Limited Liability Company VLADINFO

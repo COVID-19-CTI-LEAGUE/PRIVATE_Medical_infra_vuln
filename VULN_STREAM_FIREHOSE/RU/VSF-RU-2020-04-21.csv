@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+176.113.83.121;48347;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-21 06:49:02;JSC Mediasoft ekspert
+194.0.219.172;199148;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 443, 3389];2020-04-21 07:18:52;Ministry of Health of Russian Federation
+45.132.18.196;48347;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-21 13:32:17;JSC Mediasoft ekspert
+83.171.114.105;8997;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 53, 3389];2020-04-21 08:18:57;Rostelecom
+91.228.66.78;49558;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9443, 3389];2020-04-21 23:51:39;IT-Yaroslavl Ltd.
