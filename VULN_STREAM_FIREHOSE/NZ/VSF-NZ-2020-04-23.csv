@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+121.99.194.184;9790;{'CVE-2020-0796': 'MS SMBv3 RCE'};[3306, 25565, 445, 5357];2020-04-23 15:45:11;Vocus Communications

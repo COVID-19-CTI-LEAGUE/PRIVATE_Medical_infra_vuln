@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.15.158.71;3209;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[500, 3389, 22];2020-04-23 03:00:25;Vodafone DSL
+212.114.138.165;8767;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-04-23 09:54:55;M-net
+62.157.12.223;3320;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 6001, 53, 8089, 25, 636, 3389];2020-04-23 17:18:21;Deutsche Telekom AG

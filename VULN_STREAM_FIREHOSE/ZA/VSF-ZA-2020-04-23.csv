@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+154.0.173.13;37611;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 443, 3389, 21];2020-04-23 06:43:12;Afrihost
+169.1.20.79;37611;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 49161, 8043, 3389, 80, 81, 53, 88, 1434, 123, 636, 445, 5432];2020-04-23 13:05:55;Afrihost
+196.208.211.222;3741;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-23 12:12:00;Internet Solutions
