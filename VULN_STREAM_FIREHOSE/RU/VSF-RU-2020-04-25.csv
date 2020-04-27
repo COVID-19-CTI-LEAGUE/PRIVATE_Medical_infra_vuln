@@ -1,0 +1,10 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+176.113.81.7;9002;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-25 13:38:41;RETN Limited
+178.248.84.233;47433;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-04-25 08:04:25;Sibirskie Seti Ltd.
+193.150.116.180;57438;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-04-25 14:03:05;Krasnoyarsk State Medical University
+194.87.93.63;48347;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-25 06:12:01;JSC Mediasoft ekspert
+195.64.222.83;5563;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-25 11:56:53;JSC UralWES
+95.154.138.237;43714;{'MS17-010': 'MS17-010'};[445];2020-04-25 18:05:33;Production co-operative Economic-legal laboratory
+95.154.155.109;43714;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445];2020-04-25 21:03:59;Production co-operative Economic-legal laboratory
+95.154.187.161;43714;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445];2020-04-25 13:47:28;Production co-operative Economic-legal laboratory
+95.154.191.94;43714;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445];2020-04-25 18:53:03;Production co-operative Economic-legal laboratory

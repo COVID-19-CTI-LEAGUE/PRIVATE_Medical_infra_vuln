@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.139.194.134;27699;{'CVE-2020-0796': 'MS SMBv3 RCE'};[7779, 5800, 137, 5900, 13, 17, 21, 445];2020-04-26 18:04:39;Vivo
+177.191.103.19;53006;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7547, 3388];2020-04-26 00:24:27;Algar Telecom
+177.22.127.21;263432;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1024, 554, 2000, 8081, 1723, 3389];2020-04-26 21:10:57;Corporativa Telecomunicacoes Eireli Me
+177.53.3.95;52989;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[10243, 104, 8009, 3306, 1099, 80, 11112, 8083, 8888, 8443, 3389];2020-04-26 07:18:22;SCR Provedor de Internet LTDA
+177.91.79.23;263432;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-26 11:18:27;Corporativa Telecomunicacoes Eireli Me
+187.16.136.54;28254;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 8291, 1723, 3389];2020-04-26 02:15:09;Arganet Comunicação e Monitoramento Digital Ltda
+189.70.110.182;7738;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-26 01:18:34;Oi Velox

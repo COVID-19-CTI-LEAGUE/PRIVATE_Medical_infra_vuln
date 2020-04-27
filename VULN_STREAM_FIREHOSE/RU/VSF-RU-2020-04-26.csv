@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+176.113.83.121;48347;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-26 08:13:46;JSC Mediasoft ekspert
+79.111.156.4;12714;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 8291, 8001, 443, 2000, 82, 1723, 3389];2020-04-26 00:49:59;Net By Net Holding LLC
+82.117.168.54;31036;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-04-26 03:42:20;New Telesystems, Ltd.
+95.154.155.185;43714;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445];2020-04-26 15:45:15;Production co-operative Economic-legal laboratory
+95.154.184.57;43714;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445];2020-04-26 15:38:52;Production co-operative Economic-legal laboratory
+95.154.185.158;43714;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445];2020-04-26 16:12:58;Production co-operative Economic-legal laboratory
+95.154.186.29;43714;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445];2020-04-26 00:59:25;Production co-operative Economic-legal laboratory

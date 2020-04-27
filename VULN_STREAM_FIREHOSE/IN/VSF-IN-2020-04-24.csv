@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.109.176.62;133275;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-24 06:12:56;Pc Care Airway Infratel Private Limited
+103.6.187.18;133720;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9000, 80, 5357, 445, 3389];2020-04-24 11:03:01;Soft Call Cust-o-care Private Limited
+106.51.54.96;24309;{'CVE-2020-0796': 'MS SMBv3 RCE'};[10243, 445];2020-04-24 04:11:01;ACT Fibernet
+111.91.18.135;38457;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1024, 3389, 53];2020-04-24 12:07:04;Honesty Net Solution (I) Pvt
+122.160.175.25;24560;{'CVE-2020-0796': 'MS SMBv3 RCE'};[9000, 445];2020-04-24 03:24:15;Airtel Broadband
+35.154.72.77;16509;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-24 18:08:10;Amazon.com
+45.112.22.82;133011;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 104, 3389, 80];2020-04-24 16:45:09;Mobiwalkers

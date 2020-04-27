@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+158.170.21.183;27897;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-25 10:37:38;Segic Usach Ltda
+158.170.21.198;27897;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8008, 3389];2020-04-25 13:15:04;Segic Usach Ltda
+198.41.35.26;16874;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-04-25 17:39:42;Sonda S.A.

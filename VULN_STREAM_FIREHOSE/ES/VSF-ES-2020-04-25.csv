@@ -1,0 +1,9 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+134.255.191.173;51678;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-25 01:45:48;Ibermatica S.A.
+195.53.254.46;3352;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-04-25 22:45:44;Telefonica de Espana
+213.171.232.28;16206;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 123, 3389];2020-04-25 15:05:25;Neutra Network Services S.L.
+213.96.26.143;3352;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 500, 1723];2020-04-25 23:21:25;Telefonica de Espana Static IP
+37.222.98.216;12430;{'CVE-2020-0796': 'MS SMBv3 RCE'};[445, 5357];2020-04-25 03:36:32;Vodafone Spain
+46.27.250.129;12430;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5060, 3389];2020-04-25 13:02:46;Vodafone Spain
+83.56.1.72;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 2332, 3389, 21];2020-04-25 15:21:17;Telefonica de Espana Static IP
+88.15.137.178;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-04-25 01:29:17;Telefonica de Espana

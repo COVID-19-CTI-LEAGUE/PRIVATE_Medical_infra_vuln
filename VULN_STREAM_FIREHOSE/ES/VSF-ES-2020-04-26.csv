@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+2.139.211.44;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7547, 21, 3389, 23];2020-04-26 07:45:15;Telefonica de Espana Static IP
+213.96.26.143;3352;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 500, 1723];2020-04-26 09:14:40;Telefonica de Espana Static IP
+82.223.130.16;8560;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-04-26 16:28:46;1&1 Internet AG
+88.12.23.228;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-26 06:10:22;Telefonica de Espana Static IP

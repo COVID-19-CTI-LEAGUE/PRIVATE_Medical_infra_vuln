@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+147.52.71.60;6867;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3306, 80, 81, 1433, 1434, 443, 3389];2020-04-25 05:56:00;University of Crete
