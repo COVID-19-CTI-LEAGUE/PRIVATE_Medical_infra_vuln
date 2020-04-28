@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.15.158.71;3209;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[500, 3389, 22];2020-04-27 23:30:52;Vodafone DSL

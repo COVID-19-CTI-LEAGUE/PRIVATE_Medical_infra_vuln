@@ -1,0 +1,9 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+176.119.158.12;48347;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 7000, 3389];2020-04-27 21:51:53;JSC Mediasoft ekspert
+195.64.222.83;5563;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-27 09:53:44;JSC UralWES
+5.32.146.17;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-04-27 14:32:00;Production co-operative Economic-legal laboratory
+77.221.153.49;30968;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-27 21:17:10;OOO National Telecommunications
+95.154.135.4;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-04-27 20:15:01;Production co-operative Economic-legal laboratory
+95.154.137.242;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-04-27 14:58:50;Production co-operative Economic-legal laboratory
+95.154.155.19;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-04-27 06:55:56;Production co-operative Economic-legal laboratory
+95.66.143.43;35645;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 1947, 3389];2020-04-27 17:09:58;Limited Liability Company VLADINFO
