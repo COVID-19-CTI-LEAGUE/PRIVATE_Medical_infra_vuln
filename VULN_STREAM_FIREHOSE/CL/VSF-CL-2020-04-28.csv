@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+158.170.21.183;27897;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-28 03:18:41;Segic Usach Ltda
+181.226.25.236;14117;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8080, 445];2020-04-28 15:37:24;Telefonica del Sur S.A.
+186.10.95.202;27651;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389, 21];2020-04-28 12:38:55;Entel Chile

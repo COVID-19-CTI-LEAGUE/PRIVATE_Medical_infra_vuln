@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+219.65.58.170;4755;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-02 15:47:16;Tata Communications
+69.90.184.206;13768;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[19, 80, 137, 3306, 9002, 13, 8080, 17, 8083, 21, 9001, 443, 3389];2020-05-02 17:57:06;Cogeco Peer 1

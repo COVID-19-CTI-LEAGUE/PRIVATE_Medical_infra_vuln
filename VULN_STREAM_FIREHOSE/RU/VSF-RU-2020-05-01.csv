@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+193.124.117.7;48347;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-01 01:06:29;JSC Mediasoft ekspert
+194.0.219.172;199148;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 443, 3389];2020-05-01 10:53:57;Ministry of Health of Russian Federation
+195.133.146.70;48347;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-01 08:03:43;JSC Mediasoft ekspert
+46.28.227.58;42339;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-05-01 02:36:17;Chaika Telecom Petersburg Limited Company

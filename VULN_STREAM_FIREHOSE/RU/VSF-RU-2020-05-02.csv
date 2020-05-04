@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+45.141.101.169;48347;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 3389, 21];2020-05-02 19:19:23;JSC Mediasoft ekspert
+95.154.177.44;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-05-02 23:37:37;Production co-operative Economic-legal laboratory

@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+210.5.13.231;10212;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 23];2020-04-30 22:28:30;China Enterprise Communications
+59.36.101.95;134763;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 21];2020-04-30 18:47:10;China Telecom Guangdong

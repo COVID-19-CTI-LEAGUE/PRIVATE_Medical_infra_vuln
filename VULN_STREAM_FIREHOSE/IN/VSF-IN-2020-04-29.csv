@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.251.49.70;137166;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 49152, 554, 3389];2020-04-29 18:58:41;Digital Satellite Connect Pvt
+103.6.187.18;133720;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9000, 80, 5357, 445, 3389];2020-04-29 12:26:39;Soft Call Cust-o-care Private Limited
+103.95.48.119;135422;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[2000, 80, 443, 445];2020-04-29 08:26:54;Shass Information & Quality Engineering Services P
+114.143.100.125;17762;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9000, 8008, 8010, 515, 3389];2020-04-29 09:55:25;Tata Teleservices Maharashtra
+115.112.146.132;4755;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 3389, 2222, 137];2020-04-29 03:09:50;Tata Communications
+175.100.179.86;55352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5985, 389, 8008, 9001, 8010, 5357, 111, 53, 137, 3389];2020-04-29 06:35:52;Microscan Computers Private Limited
+196.195.163.50;132116;{'MS17-010': 'MS17-010'};[80, 593, 3388, 445, 3389];2020-04-29 13:27:36;Ani Network Pvt

@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.38.89.25;133716;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 3389, 21];2020-05-03 00:40:36;SS NetCom Pvt.
+103.99.149.179;136689;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-03 21:56:35;Skylink Fibernet Private Limited
+180.151.204.218;10029;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 5985, 8083, 3389, 2222];2020-05-03 23:44:15;Shyam Spectra Pvt

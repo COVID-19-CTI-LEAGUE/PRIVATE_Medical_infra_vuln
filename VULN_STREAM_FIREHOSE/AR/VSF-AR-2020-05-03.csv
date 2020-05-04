@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+190.183.238.89;20207;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5357, 445];2020-05-03 16:29:16;Gigared S.A.

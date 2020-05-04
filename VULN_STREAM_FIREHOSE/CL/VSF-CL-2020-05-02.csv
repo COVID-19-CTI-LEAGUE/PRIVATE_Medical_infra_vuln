@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+200.54.87.22;16629;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8000, 2000, 8291, 80, 53, 22, 1723, 3389];2020-05-02 09:50:43;Ctc. Corp S.A. (telefonica Empresas)

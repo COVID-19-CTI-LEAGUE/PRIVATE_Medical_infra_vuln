@@ -1,0 +1,11 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.135.72.115;18881;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-30 10:18:11;Vivo
+177.185.8.196;52925;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-04-30 17:15:55;Ascenty Data Centers e Telecomunicações S/A
+177.69.123.194;16735;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[554, 7547, 3388];2020-04-30 10:26:45;Algar Telecom
+177.80.63.23;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5432, 3389];2020-04-30 15:39:32;Claro NET
+179.215.87.211;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8181, 3389];2020-04-30 18:57:43;NET Virtua
+189.36.197.238;28308;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[161, 1723, 8291, 3000, 443, 3388];2020-04-30 05:55:09;Orion Telecomunicações Comércio e Serviços LTDA
+189.39.123.254;28310;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 9443, 5800, 8009, 5900, 8080, 443, 2012, 3389];2020-04-30 13:46:44;Smart Telecomunicações E Serviços Eirelli Epp
+191.251.51.87;10429;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-30 09:25:10;Vivo
+201.28.36.188;10429;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 161, 8291, 21, 3389];2020-04-30 11:10:43;Vivo
+45.7.5.2;266613;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8291, 902, 3389, 2000, 179, 1723, 443];2020-04-30 17:03:20;Commtel Transmissao De Dados E Internet Ltda

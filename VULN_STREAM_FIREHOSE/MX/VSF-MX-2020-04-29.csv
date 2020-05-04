@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+200.76.28.213;11172;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 137, 3389, 445];2020-04-29 11:45:27;Alestra, S. de R.L. de C.V.

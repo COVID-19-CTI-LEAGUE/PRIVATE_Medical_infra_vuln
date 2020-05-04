@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+92.114.170.143;8926;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[88, 3389];2020-04-28 10:11:37;Moldtelecom SA

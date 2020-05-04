@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.15.158.71;3209;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[500, 3389, 22];2020-04-29 02:33:27;Vodafone DSL
+82.100.219.238;25394;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-04-29 18:12:58;MK Netzdienste GmbH & Co. KG
+87.106.5.4;8560;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3306, 110, 143, 8880, 53, 25, 8443, 3389];2020-04-29 18:39:06;1&1 Internet AG

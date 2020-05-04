@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+184.67.172.212;6327;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 443, 3389];2020-04-30 05:11:11;Shaw Communications
+216.46.24.227;11478;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 4443, 80, 500, 8181, 8443, 443, 3389];2020-04-30 23:02:13;Openface
+69.70.98.82;5769;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 1024, 3389, 5632];2020-04-30 22:21:21;Videotron Ltee

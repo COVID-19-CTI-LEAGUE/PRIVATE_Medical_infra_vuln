@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+190.139.209.199;7303;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-04-28 13:24:17;Telecom Argentina S.A.
