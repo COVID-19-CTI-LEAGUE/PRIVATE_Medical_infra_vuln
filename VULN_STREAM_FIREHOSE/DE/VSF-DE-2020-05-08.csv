@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+80.155.12.41;3320;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-05-08 19:41:20;Deutsche Telekom AG
+87.106.242.79;8560;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 8443, 80, 81, 21, 443, 3389];2020-05-08 03:19:06;1&1 Internet AG
+87.106.5.4;8560;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3306, 110, 143, 8880, 53, 25, 8443, 3389];2020-05-08 00:08:22;1&1 Internet AG
+87.128.54.162;3320;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[8080, 443];2020-05-08 04:05:04;Deutsche Telekom Business

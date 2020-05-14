@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+5.148.125.67;25180;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-07 11:36:03;Exponential-e
+81.187.1.130;20712;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[9098, 139, 9100, 9106, 9595, 445];2020-05-07 11:53:26;Andrews & Arnold Ltd
+92.54.136.114;8190;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-07 06:21:12;MDNX Internet Limited

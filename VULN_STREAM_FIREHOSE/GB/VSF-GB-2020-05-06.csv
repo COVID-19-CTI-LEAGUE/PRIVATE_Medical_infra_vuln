@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.17.180.184;21396;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 21];2020-05-06 04:08:58;Nimbus Hosting Ltd.
+5.148.125.76;25180;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-06 16:45:14;Exponential-e
+82.152.148.181;12513;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-06 08:32:54;Eclipse Internet
+88.215.7.34;31655;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 554, 8080, 3000, 1723, 3389];2020-05-06 20:33:06;Gamma Telecom DSL Services

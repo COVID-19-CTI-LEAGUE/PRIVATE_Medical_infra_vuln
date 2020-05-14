@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+172.111.177.20;32489;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 5357];2020-05-08 03:26:53;Amanah Tech
+45.73.60.102;5769;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-08 01:21:30;Videotron Ltee
+50.101.231.233;577;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-05-08 22:03:38;Bell Canada
+70.65.217.122;6327;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[32400, 3389, 22];2020-05-08 05:37:29;Shaw Communications

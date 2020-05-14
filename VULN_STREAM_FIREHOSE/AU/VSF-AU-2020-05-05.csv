@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+203.59.4.85;4802;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8000, 8001, 3389];2020-05-05 21:05:44;iiNet Limited
+60.227.205.171;1221;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 445];2020-05-05 22:01:27;Telstra Internet

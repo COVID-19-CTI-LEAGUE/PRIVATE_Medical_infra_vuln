@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+113.43.189.118;17506;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-05-10 02:52:29;ARTERIA Networks Corporation

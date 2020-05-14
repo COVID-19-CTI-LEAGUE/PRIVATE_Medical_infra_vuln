@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+213.178.221.32;47646;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-05-13 02:27:30;Ital Tbs S.p.A.
+77.95.142.211;28716;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-05-13 14:31:07;Reti Telematiche Italiane S.p.A. (Retelit S.p.A.)

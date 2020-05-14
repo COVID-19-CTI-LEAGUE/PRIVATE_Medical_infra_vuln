@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.17.180.161;21396;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 21];2020-05-09 01:13:14;NetConnex Broadband Ltd.
+51.52.94.159;31655;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8080, 8081, 25, 443, 3389];2020-05-09 14:36:44;Gamma Telecom Limited
+62.252.62.244;5089;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-05-09 05:45:40;Virgin Media Business

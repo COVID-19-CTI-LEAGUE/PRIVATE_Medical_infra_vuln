@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+134.255.191.185;51678;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-11 15:26:55;Ibermatica S.A.
+213.171.232.28;16206;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 123, 3389];2020-05-11 05:17:05;Neutra Network Services S.L.
+82.223.130.16;8560;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-05-11 18:12:00;1&1 Internet AG

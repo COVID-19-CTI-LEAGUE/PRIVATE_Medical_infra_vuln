@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+172.111.211.36;9009;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5357, 445];2020-05-08 03:58:02;M247 Ltd
+185.17.180.142;21396;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 21];2020-05-08 18:14:59;NetConnex Broadband Ltd.
+195.162.123.4;31655;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1723, 443, 3389];2020-05-08 09:14:24;Gamma Telecom Holdings Ltd
+5.148.125.67;25180;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-08 09:45:54;Exponential-e

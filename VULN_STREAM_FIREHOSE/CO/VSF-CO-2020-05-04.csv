@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+200.91.216.210;18747;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 123, 3389, 445];2020-05-04 05:01:49;Ifx Networks Colombia

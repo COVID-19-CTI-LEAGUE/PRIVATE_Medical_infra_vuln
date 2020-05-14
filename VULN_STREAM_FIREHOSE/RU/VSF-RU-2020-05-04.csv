@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+194.87.94.134;48347;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-04 01:49:51;JSC Mediasoft ekspert
+91.229.59.137;56935;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 110, 143, 80, 25, 443, 3389];2020-05-04 14:16:40;Clinic of Aesthetic Medicine CJSC
+95.154.136.183;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5357, 445];2020-05-04 19:55:48;Production co-operative Economic-legal laboratory
+95.154.150.112;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-05-04 10:07:01;Production co-operative Economic-legal laboratory
+95.154.158.88;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[554, 10243, 445];2020-05-04 21:37:45;Production co-operative Economic-legal laboratory
+95.154.177.75;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5357, 445];2020-05-04 07:12:56;Production co-operative Economic-legal laboratory
+95.154.183.42;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-05-04 20:16:10;Production co-operative Economic-legal laboratory

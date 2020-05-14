@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+125.227.97.107;3462;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-05-08 13:41:42;HiNet
+163.27.102.11;1659;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-08 03:45:36;Taiwan Academic Network
+61.222.64.36;3462;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-08 13:30:14;HiNet

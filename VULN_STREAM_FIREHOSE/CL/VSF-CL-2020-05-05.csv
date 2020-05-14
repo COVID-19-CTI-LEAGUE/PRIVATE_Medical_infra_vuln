@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+200.29.23.34;10778;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 3389, 21];2020-05-05 17:24:15;Comunicaciones Netglobalis S.A
+200.72.187.172;6471;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8291, 2000, 21, 443, 3389];2020-05-05 06:19:48;Entel Chile

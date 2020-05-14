@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+89.35.52.229;61135;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 445];2020-05-10 17:17:44;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+89.35.52.58;61135;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 3306, 443, 5357, 445];2020-05-10 09:29:43;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+93.177.101.15;61135;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[445, 3389];2020-05-10 10:29:43;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+93.177.101.22;61135;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-10 23:23:35;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.

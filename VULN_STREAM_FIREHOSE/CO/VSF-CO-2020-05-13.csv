@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+186.154.90.210;19429;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 3306, 21, 3389, 5357];2020-05-13 12:28:21;ETB
+201.234.178.146;3549;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-05-13 15:17:34;Level 3 Communications

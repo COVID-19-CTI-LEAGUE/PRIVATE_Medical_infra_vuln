@@ -1,0 +1,10 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.18.196.85;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8880, 8111, 3306, 110, 143, 80, 21, 25, 8090, 8443, 3389, 53];2020-05-08 16:09:56;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+178.18.205.118;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 21, 1433, 443, 3389, 53];2020-05-08 14:41:53;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+185.134.185.109;205725;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[2000, 139, 445];2020-05-08 07:46:36;Selcuk Ecza Deposu Ticaret ve Sanayi Anonim Sirket
+193.164.5.182;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-05-08 20:13:19;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+31.186.8.173;199484;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 443, 3389, 137];2020-05-08 12:48:49;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+45.151.248.247;209853;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 3389];2020-05-08 13:32:24;Veridyen Bilisim Teknolojileri Sanayi ve Ticaret L
+89.35.52.231;61135;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[445, 3389];2020-05-08 02:34:15;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+89.35.52.58;61135;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 3306, 443, 5357, 445];2020-05-08 15:28:25;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+93.177.101.15;61135;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[445, 3389];2020-05-08 05:39:43;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.

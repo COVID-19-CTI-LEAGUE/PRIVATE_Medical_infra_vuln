@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+79.201.83.196;3320;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-06 15:46:04;Deutsche Telekom AG

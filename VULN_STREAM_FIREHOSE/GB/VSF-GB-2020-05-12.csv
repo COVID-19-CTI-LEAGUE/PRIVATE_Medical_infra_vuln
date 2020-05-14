@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+46.16.214.123;48961;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 3389];2020-05-12 14:17:05;Cablecom Networking
+79.73.88.200;9105;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-12 11:43:20;TalkTalk
+92.54.136.114;8190;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-12 11:29:28;MDNX Internet Limited

@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+2.141.200.142;3352;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 22];2020-05-08 20:11:40;Telefonica de Espana
+2.59.92.2;29119;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 445, 22, 23];2020-05-08 23:07:22;ServiHosting Networks S.L.
+212.4.98.197;29231;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443, 53, 8443];2020-05-08 16:50:11;Grupalia Internet S.A.

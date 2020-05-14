@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+184.69.42.142;6327;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[8080, 80, 10554, 443, 4100];2020-05-10 14:21:38;Shaw Communications
+207.245.204.130;15290;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5009, 8443, 3389];2020-05-10 18:20:02;Allstream Corp.
+70.65.216.71;6327;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5060, 5000, 5001, 5357, 80, 137, 445];2020-05-10 21:03:38;Shaw Communications
+75.154.252.67;852;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[587, 21, 53, 3389];2020-05-10 03:05:22;Telus Communications

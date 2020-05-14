@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+202.151.174.106;24176;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[993, 995, 139, 5357, 110, 445, 80, 25, 443, 3389];2020-05-05 18:23:51;Netnam Company

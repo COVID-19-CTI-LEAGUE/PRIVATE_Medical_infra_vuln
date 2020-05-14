@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+195.64.222.83;5563;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-12 01:24:17;JSC UralWES
+79.133.102.134;8749;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-05-12 10:50:19;JSC Redcom-lnternet
+95.154.155.19;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-05-12 03:32:57;Production co-operative Economic-legal laboratory
+95.154.184.57;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-05-12 05:04:23;Production co-operative Economic-legal laboratory
+95.154.185.158;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-05-12 15:30:52;Production co-operative Economic-legal laboratory

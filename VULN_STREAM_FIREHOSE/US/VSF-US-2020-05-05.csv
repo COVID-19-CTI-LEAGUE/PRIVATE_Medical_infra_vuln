@@ -1,0 +1,20 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+104.129.77.24;46887;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-05 15:03:25;Lightower Fiber Networks I, LLC
+12.109.102.250;40098;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-05-05 07:39:14;Community Antenna Service
+12.222.170.248;16571;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-05 04:05:52;Kings Daughters Medical Center
+12.8.127.35;7018;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-05 22:32:25;AT&T Services
+155.139.187.250;25609;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-05 23:39:18;Detroit Medical Center
+166.62.43.110;26496;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3306, 110, 143, 80, 23, 25, 1434, 3389];2020-05-05 21:40:36;GoDaddy.com, LLC
+198.245.192.134;3356;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-05-05 14:13:16;Level 3 Communications
+198.7.227.25;14325;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-05-05 04:21:50;OSHEAN
+204.115.219.19;63016;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-05 21:36:48;Renown Health
+206.210.162.73;23431;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-05 13:33:55;Adventist Health
+207.8.165.148;7029;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-05-05 15:46:09;Windstream Communications
+50.233.156.158;7922;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-05-05 05:36:59;Comcast Business
+50.30.19.34;394195;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8081, 443, 3389];2020-05-05 01:34:41;Clearnetworx, LLC
+64.21.237.60;12042;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 139, 5357, 445];2020-05-05 14:06:04;Consolidated Communications
+66.194.2.6;30258;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-05-05 21:52:27;Huntington Memorial Hospital
+70.166.66.32;22773;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-05 20:52:18;Cox Business
+70.167.51.116;22773;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 443, 3389];2020-05-05 21:26:49;Cox Business
+71.14.161.82;20115;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 8080, 500, 8088, 443, 3389];2020-05-05 02:48:33;Spectrum
+71.178.39.32;701;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389, 53];2020-05-05 12:27:28;Verizon Fios Business

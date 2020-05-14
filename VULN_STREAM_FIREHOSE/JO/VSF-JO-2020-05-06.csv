@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.20.190.161;50670;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[21, 3389];2020-05-06 03:47:48;Vtel Holdings Limited/jordan Co.

@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+148.102.23.17;19180;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2002, 9002, 3389];2020-05-09 03:28:59;Americatel Peru S.A.
+190.239.147.57;6147;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5800, 137, 3306, 5900, 8080, 21, 8123, 445];2020-05-09 19:13:22;Telefonica del Peru

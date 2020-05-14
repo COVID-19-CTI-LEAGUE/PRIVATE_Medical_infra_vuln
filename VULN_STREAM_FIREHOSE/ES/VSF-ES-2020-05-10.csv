@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+212.4.98.197;29231;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443, 53, 8443];2020-05-10 02:18:35;Grupalia Internet S.A.

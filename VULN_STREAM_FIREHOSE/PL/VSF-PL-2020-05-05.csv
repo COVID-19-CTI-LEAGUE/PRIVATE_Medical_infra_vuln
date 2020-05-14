@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.41.129.49;199723;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7547, 3389];2020-05-05 17:58:14;Strzyzowski.Net Janusz Gomolka

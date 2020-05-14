@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+122.160.175.25;24560;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[9000, 445];2020-05-11 12:54:08;Airtel Broadband
+122.170.102.123;24560;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8001, 5357, 445, 1434, 443, 3389];2020-05-11 18:17:56;Airtel Broadband
+203.100.74.118;24515;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 445];2020-05-11 21:05:36;Software Technology Parks of India-Jaipur
