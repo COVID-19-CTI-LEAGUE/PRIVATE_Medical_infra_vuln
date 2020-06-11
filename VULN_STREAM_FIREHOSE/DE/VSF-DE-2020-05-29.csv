@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+217.89.113.173;3320;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-29 15:43:16;Deutsche Telekom AG
+5.199.139.175;24961;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5357, 445, 3389];2020-05-29 13:17:43;myLoc managed IT AG
+87.106.178.214;8560;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3306, 110, 80, 21, 25, 3389];2020-05-29 03:01:51;1&1 Internet AG

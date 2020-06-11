@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+203.135.192.116;7679;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-23 00:11:54;QTNet
+211.14.170.85;2554;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-23 16:06:00;IDC Frontier
+221.253.70.174;17506;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-05-23 14:47:15;ARTERIA Networks Corporation

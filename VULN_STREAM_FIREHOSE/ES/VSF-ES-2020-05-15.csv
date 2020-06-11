@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+193.146.115.146;766;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-15 05:22:29;Vall d'Hebron University Hospital

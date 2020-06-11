@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+74.14.236.47;577;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[500, 3389];2020-05-23 12:17:58;Bell Canada
+75.154.252.67;852;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[587, 21, 53, 3389];2020-05-23 22:07:36;Telus Communications

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+36.71.220.145;7713;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3306, 7547, 3389];2020-06-01 02:23:15;PT Telkom Indonesia

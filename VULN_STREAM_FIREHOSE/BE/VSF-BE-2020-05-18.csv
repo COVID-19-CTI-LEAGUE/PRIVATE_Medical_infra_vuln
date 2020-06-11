@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+212.35.109.152;8220;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 443, 8443, 3389, 8850];2020-05-18 20:49:32;COLT Technology Services Group Limited

@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+194.141.68.193;6802;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[32400, 5938, 445, 2022];2020-06-04 22:35:42;Medical University - Pleven
+84.54.183.64;29084;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8080, 1723, 2222, 3389, 2000, 8291, 21, 8443, 445];2020-06-04 16:18:13;Comnet Bulgaria Holding Ltd.

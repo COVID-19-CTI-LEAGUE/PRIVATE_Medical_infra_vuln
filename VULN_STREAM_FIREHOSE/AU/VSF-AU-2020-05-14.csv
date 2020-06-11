@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+120.151.69.192;1221;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 500, 3389, 7547];2020-05-14 18:20:45;Telstra Internet
+193.114.151.214;7545;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5060, 443, 500, 3389, 22];2020-05-14 20:53:26;TPG Internet
+203.161.14.51;38809;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-14 06:51:14;Nextgen Networks
+60.227.205.171;1221;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 445];2020-05-14 05:33:58;Telstra Internet

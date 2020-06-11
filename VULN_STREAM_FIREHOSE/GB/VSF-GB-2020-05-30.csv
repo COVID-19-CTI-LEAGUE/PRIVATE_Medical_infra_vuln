@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+85.13.217.51;31708;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-30 05:26:40;Coreix Ltd
+88.215.7.34;31655;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 554, 8080, 3000, 1723, 3389];2020-05-30 08:40:03;Gamma Telecom DSL Services

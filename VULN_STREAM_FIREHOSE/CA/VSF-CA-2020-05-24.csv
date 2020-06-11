@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+204.101.249.203;577;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-24 10:03:18;Bell Canada
+209.91.177.27;5690;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[10443, 3389];2020-05-24 12:44:51;Vianet
+66.241.129.110;23498;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-24 11:15:11;Cogecodata

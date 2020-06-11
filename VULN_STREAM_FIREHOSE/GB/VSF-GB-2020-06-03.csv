@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.156.138.214;56444;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-06-03 08:06:14;Atmoso Limited
+185.17.180.142;21396;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 21];2020-06-03 19:24:40;NetConnex Broadband Ltd.
+195.162.123.4;31655;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1723, 443, 3389];2020-06-03 17:24:33;Gamma Telecom Holdings Ltd

@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+188.127.190.109;15704;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8080, 443, 7547, 445, 3389];2020-05-20 18:09:52;Yoigo
+213.171.232.28;16206;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 123, 3389];2020-05-20 17:18:55;Neutra Network Services S.L.
+80.58.162.241;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-20 11:42:36;Telefonica de Espana Static IP
+83.56.1.72;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 2332, 3389, 21];2020-05-20 23:24:46;Telefonica de Espana Static IP

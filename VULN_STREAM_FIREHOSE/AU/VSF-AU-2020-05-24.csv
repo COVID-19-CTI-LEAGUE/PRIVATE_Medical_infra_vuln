@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+120.151.69.192;1221;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 500, 3389, 7547];2020-05-24 23:18:01;Telstra Internet
+52.255.60.160;8075;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-24 21:56:35;Microsoft Azure
+60.242.134.204;7545;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-05-24 06:16:16;TPG Internet

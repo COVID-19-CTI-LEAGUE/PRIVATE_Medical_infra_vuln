@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+196.15.252.163;5713;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-19 15:01:05;Telkom SA Limited
+196.208.206.171;3741;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-05-19 06:26:19;Internet Solutions
+197.242.148.163;37611;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[110, 445, 80, 21, 88, 123, 3389, 53];2020-05-19 14:33:51;Afrihost

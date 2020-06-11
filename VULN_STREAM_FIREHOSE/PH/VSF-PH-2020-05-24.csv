@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+210.213.88.21;9299;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8000, 443, 8007, 8008, 5001, 80, 5000, 53, 1723, 3389];2020-05-24 03:59:01;Philippine Long Distance Telephone

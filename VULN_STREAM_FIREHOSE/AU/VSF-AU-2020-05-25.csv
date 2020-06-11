@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+124.170.119.138;7545;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 554, 10243, 445];2020-05-25 11:24:30;iiNet Limited

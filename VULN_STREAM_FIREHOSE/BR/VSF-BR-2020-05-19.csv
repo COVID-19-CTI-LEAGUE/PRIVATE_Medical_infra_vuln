@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+131.255.237.14;262318;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[10000, 37777, 3388, 9101, 53];2020-05-19 06:13:31;Horizons Telecomunicacoes e Tecnologia Ltda
+168.181.15.172;265335;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 8291, 80, 2000, 53, 1723, 3389];2020-05-19 11:01:33;Planeta Net Telecom
+170.82.5.44;266433;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 3389];2020-05-19 04:24:00;Mq Telecom Ltda - Me
+177.200.207.13;28343;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5222, 80, 5269, 443, 3388, 3389];2020-05-19 08:06:52;Unifique Telecomunicações SA
+187.95.29.4;53081;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9001, 1883, 3389];2020-05-19 06:39:41;Netjacarei Telecon Ltda
+189.127.15.14;27693;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 8081, 8080, 445];2020-05-19 22:22:26;NipCable do Brasil Telecom LTDA

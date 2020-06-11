@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+217.12.112.154;25454;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8081, 8291, 3389, 9999];2020-05-18 16:00:04;Orange Moldova

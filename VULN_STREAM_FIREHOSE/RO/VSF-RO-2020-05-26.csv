@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+82.79.218.239;8708;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-26 04:15:47;Digi Romania Business
+84.232.245.244;8708;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-26 05:30:16;Digi Romania

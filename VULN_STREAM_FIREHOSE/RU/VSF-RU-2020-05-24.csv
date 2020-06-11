@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+188.94.166.198;49426;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-24 04:45:09;LInTeCS ltd (Laboratory of Information Technologie
+213.170.94.90;12418;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[993, 587, 110, 143, 80, 465, 8442, 3389];2020-05-24 06:53:22;Quantum CJSC
+77.221.153.49;30968;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-24 08:43:44;OOO National Telecommunications
+82.117.168.54;31036;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-05-24 02:21:54;New Telesystems, Ltd.
+95.154.166.84;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-05-24 12:38:33;Production co-operative Economic-legal laboratory
+95.154.179.26;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[6881, 445, 5357];2020-05-24 22:47:39;Production co-operative Economic-legal laboratory

@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+128.205.184.246;3685;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5357, 445];2020-05-15 04:33:02;State University of New York at Buffalo
+198.7.227.25;14325;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-05-15 03:24:49;OSHEAN
+24.111.133.26;11232;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2121, 110, 80, 25, 26, 443, 3389];2020-05-15 04:02:29;Midco
+50.236.73.222;7922;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-05-15 05:42:14;Comcast Business
+8.37.164.130;27306;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5800, 139, 5900, 5357, 445, 80, 3389, 1311];2020-05-15 00:47:44;Mt. Ascutney Hospital and Health Center
+96.27.186.242;12083;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5800, 137, 445, 80, 3389];2020-05-15 04:35:23;WideOpenWest

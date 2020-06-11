@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+37.131.206.214;48524;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 554, 3389, 49152];2020-05-21 04:58:44;INTERRA telecommunications group, Ltd.
+95.154.149.125;43714;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-21 07:34:22;Production co-operative Economic-legal laboratory
+95.154.178.12;43714;{'MS17-010': 'MS17-010'};[445];2020-05-21 18:26:48;Production co-operative Economic-legal laboratory
+95.154.179.26;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[6881, 445, 5357];2020-05-21 00:29:54;Production co-operative Economic-legal laboratory
+95.154.183.42;43714;{'MS17-010': 'MS17-010'};[445];2020-05-21 18:07:17;Production co-operative Economic-legal laboratory

@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+119.42.70.218;131090;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 8291, 80, 37777, 53, 8888, 443, 3389];2020-05-23 10:26:39;CAT Telecom public company Ltd
+203.151.20.123;4618;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[139, 80, 21, 1434, 3389, 1311];2020-05-23 19:22:39;Internet Thailand Company Limited
+223.204.157.247;45629;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7443, 3389];2020-05-23 12:58:21;3BB Broadband
+49.231.6.24;45458;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-23 07:29:52;AIS Mobile
+61.90.105.93;17552;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3128, 21, 3389];2020-05-23 16:31:25;True Internet
+61.91.54.198;7470;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 5900, 3389];2020-05-23 09:54:18;True Internet

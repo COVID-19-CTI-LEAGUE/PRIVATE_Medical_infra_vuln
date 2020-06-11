@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.17.180.110;21396;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 21];2020-06-01 13:23:08;Nimbus Hosting Ltd.
+46.16.214.123;48961;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 3389];2020-06-01 06:49:49;Cablecom Networking
+81.133.173.177;2856;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-01 05:22:43;BT
+85.13.217.35;31708;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-06-01 02:39:20;Coreix Ltd

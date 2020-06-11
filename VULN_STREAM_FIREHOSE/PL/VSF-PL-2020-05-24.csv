@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+153.19.191.194;5550;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-05-24 09:27:06;Technical University of Gdansk, Academic Computer
+91.205.89.44;47850;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[20000, 2000, 1723, 3389];2020-05-24 02:59:34;TAU INTERNET Sp. z o.o.

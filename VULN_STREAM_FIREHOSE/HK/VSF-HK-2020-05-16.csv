@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+59.152.254.44;9381;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-05-16 22:55:13;HKBN Enterprise Solutions

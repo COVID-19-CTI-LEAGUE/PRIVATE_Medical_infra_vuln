@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+134.255.191.173;51678;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-08 12:54:53;Ibermatica S.A.
+134.255.191.185;51678;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-08 01:38:42;Ibermatica S.A.
+81.46.215.31;16371;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 3389, 22222];2020-06-08 05:58:53;acens Technologies, S.L.
+88.28.43.6;3352;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5938, 37, 445];2020-06-08 11:53:58;Telefonica de Espana Static IP

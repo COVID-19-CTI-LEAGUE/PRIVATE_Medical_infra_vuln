@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.157.11.109;42807;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[554, 10243, 3389];2020-06-10 14:04:19;Aerotek Bilisim Sanayi ve Ticaret
+193.164.5.182;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-06-10 18:28:43;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+31.3.0.110;21245;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[3389, 445, 5357];2020-06-10 20:46:42;Medianova Internet Hizmetleri Ve Ticaret Anonim Si

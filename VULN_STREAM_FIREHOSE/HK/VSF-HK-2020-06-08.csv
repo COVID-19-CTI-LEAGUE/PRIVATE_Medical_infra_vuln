@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.220.72.39;135356;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-06-08 21:15:13;Cn Care Network
+175.45.58.82;9381;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8443, 3389];2020-06-08 12:34:30;Hong Kong Broadband Network

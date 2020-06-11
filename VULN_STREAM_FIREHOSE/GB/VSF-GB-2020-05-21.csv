@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+143.65.120.172;50510;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-21 22:38:32;Cancer Research UK
+164.39.206.40;31655;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 1723, 3389, 23];2020-05-21 17:34:33;Gamma Telecom
+93.152.83.90;8190;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 8443];2020-05-21 04:15:05;MDNX Internet Limited

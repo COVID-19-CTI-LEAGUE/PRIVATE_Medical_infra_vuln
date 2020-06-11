@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.17.180.180;21396;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 21];2020-05-25 15:31:10;Nimbus Hosting Ltd.
+185.17.180.230;21396;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 21];2020-05-25 13:58:48;Nimbus Hosting Ltd.
+194.74.0.149;2856;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-25 08:27:15;BT
+46.16.214.123;48961;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 3389];2020-05-25 20:10:21;Cablecom Networking
+89.197.9.134;47474;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 1723, 3389];2020-05-25 09:06:05;Virtual1 Limited

@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.1.115.219;18229;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 21, 3389, 53];2020-06-07 18:48:02;CtrlS Datacenters
+103.224.34.67;45536;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[1434, 445, 5357];2020-06-07 10:00:34;Readylink Internet Services Limited
+103.233.64.40;17465;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-07 12:12:52;Asianet
+139.5.27.201;133720;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 21, 3389];2020-06-07 22:29:08;Soft Call Cust-o-care Private Limited
+180.151.49.130;10029;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 389, 9191, 5353, 445, 2000, 88, 53, 8888, 123, 3389, 21];2020-06-07 19:34:27;Shyam Spectra Pvt

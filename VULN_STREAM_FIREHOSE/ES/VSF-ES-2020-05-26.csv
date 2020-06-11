@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+213.171.232.28;16206;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 123, 3389];2020-05-26 01:42:19;Neutra Network Services S.L.
+80.58.162.183;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[53, 3389];2020-05-26 05:28:19;Telefonica de Espana Static IP
+81.42.201.249;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-05-26 21:15:20;Telefonica de Espana Static IP
+95.62.135.212;12430;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-26 00:44:37;Vodafone Spain

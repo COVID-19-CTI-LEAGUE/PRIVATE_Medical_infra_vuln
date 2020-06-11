@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+192.253.252.159;36351;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 995, 445, 111];2020-06-06 13:07:05;SoftLayer Technologies

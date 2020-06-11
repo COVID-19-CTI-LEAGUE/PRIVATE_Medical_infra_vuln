@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+104.214.139.148;8075;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-25 12:57:38;Microsoft Azure
+117.102.196.137;2514;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-05-25 08:06:51;NTT PC Communications
+211.14.170.85;2554;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-25 09:15:22;IDC Frontier

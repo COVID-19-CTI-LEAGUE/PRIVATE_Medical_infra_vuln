@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.242.184.209;132957;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[9000, 5357, 445];2020-05-14 13:52:56;Pintwire Infomatics Private Limited
+103.38.89.25;133716;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 3389, 21];2020-05-14 20:54:48;SS NetCom Pvt.
+103.99.149.179;136689;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-14 06:13:56;Skylink Fibernet Private Limited
+121.244.113.39;4755;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-14 10:10:22;Tata Communications
+14.140.98.216;4755;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-14 12:02:43;Tata Communications

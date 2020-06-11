@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+188.94.166.198;49426;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-01 03:52:54;LInTeCS ltd (Laboratory of Information Technologie
+213.170.94.90;12418;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[993, 587, 110, 143, 80, 465, 8442, 3389];2020-06-01 00:14:26;Quantum CJSC
+95.154.135.4;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-06-01 11:44:53;Production co-operative Economic-legal laboratory
+95.154.156.73;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-06-01 06:15:52;Production co-operative Economic-legal laboratory

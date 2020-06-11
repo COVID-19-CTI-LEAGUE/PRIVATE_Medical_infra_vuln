@@ -1,0 +1,10 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+138.186.156.118;263868;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-01 21:00:14;BMFLEX Telecom Eireli - ME
+170.254.148.121;28310;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 8080, 443, 10443, 8096];2020-06-01 03:08:22;Smart Telecomunicações E Serviços Eirelli Epp
+177.191.124.209;53006;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-01 16:07:20;Algar Telecom
+177.83.40.67;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1024, 9001, 9002, 3389];2020-06-01 06:03:16;Claro NET
+179.216.106.178;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[389, 3306, 37777, 88, 123, 3389];2020-06-01 16:58:38;Claro NET
+179.55.180.138;26615;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-01 19:24:12;TIM Brasil
+187.95.29.4;53081;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9001, 1883, 3389];2020-06-01 06:05:18;Netjacarei Telecon Ltda
+189.127.14.174;27693;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-01 22:32:12;NipCable do Brasil Telecom LTDA
+200.150.175.66;265303;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[37777, 3389];2020-06-01 02:12:02;TV Alphaville Sistema de TV por Assinatura LTDA

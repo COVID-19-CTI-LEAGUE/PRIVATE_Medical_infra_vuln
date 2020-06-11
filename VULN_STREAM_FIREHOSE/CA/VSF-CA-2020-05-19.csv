@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+104.193.174.112;54643;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2121, 80, 53, 1433, 90, 443, 3389];2020-05-19 03:24:55;Idigital Internet
+216.183.137.28;11727;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[8008, 80, 443];2020-05-19 18:12:25;Bruce Telecom
+99.79.174.207;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[10000, 8443, 3389, 445];2020-05-19 09:12:45;Amazon.com

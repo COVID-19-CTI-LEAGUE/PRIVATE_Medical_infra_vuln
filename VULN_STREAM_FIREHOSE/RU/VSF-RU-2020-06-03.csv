@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+193.150.116.180;57438;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-06-03 17:36:34;Krasnoyarsk State Medical University
+31.132.143.25;42145;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-03 16:46:47;ER-Telecom
+95.154.186.29;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-06-03 21:20:46;Production co-operative Economic-legal laboratory

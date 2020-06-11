@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+14.207.127.208;45629;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[4064, 3389];2020-05-24 11:02:28;3BB Broadband
+203.151.20.123;4618;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[139, 80, 21, 1434, 3389, 1311];2020-05-24 08:43:55;Internet Thailand Company Limited
+49.231.2.117;45458;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8008, 137, 445];2020-05-24 02:19:44;AIS Mobile

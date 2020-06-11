@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.139.194.134;27699;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[7779, 5800, 137, 5900, 13, 17, 21, 445];2020-05-21 01:22:49;Vivo
+187.21.238.6;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-05-21 10:40:24;NET Virtua
+189.39.123.254;28310;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 9443, 5800, 8009, 5900, 8080, 443, 2012, 3389];2020-05-21 14:51:38;Smart Telecomunicações E Serviços Eirelli Epp
+189.68.7.31;27699;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-21 19:49:24;Vivo
+191.53.186.31;28202;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-21 23:14:54;Rede Brasileira de Comunicacao Ltda
+201.28.36.184;10429;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-21 23:07:03;Vivo

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+194.100.110.19;16086;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-05-21 19:18:28;DNA Oyj

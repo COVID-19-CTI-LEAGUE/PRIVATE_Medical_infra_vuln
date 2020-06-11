@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+91.205.89.44;47850;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[20000, 2000, 1723, 3389];2020-05-22 10:45:19;TAU INTERNET Sp. z o.o.

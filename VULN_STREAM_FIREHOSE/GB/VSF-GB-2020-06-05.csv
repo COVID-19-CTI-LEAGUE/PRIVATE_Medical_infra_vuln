@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+195.162.123.4;31655;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1723, 443, 3389];2020-06-05 20:37:59;Gamma Telecom Holdings Ltd
+51.141.85.230;8075;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[4443, 443, 22];2020-06-05 08:41:21;Microsoft Azure
+81.150.0.245;2856;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 443, 3389, 4567];2020-06-05 11:40:37;BT
+86.141.77.148;2856;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1024, 7547, 500, 3389];2020-06-05 16:40:05;BT

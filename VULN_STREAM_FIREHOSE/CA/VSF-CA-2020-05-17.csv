@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+209.128.12.7;855;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-05-17 08:06:16;Bell Canada
+216.183.137.28;11727;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[8008, 80, 443];2020-05-17 23:30:25;Bruce Telecom
+24.226.199.243;11290;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 1723, 3389];2020-05-17 14:11:33;Cogeco Cable

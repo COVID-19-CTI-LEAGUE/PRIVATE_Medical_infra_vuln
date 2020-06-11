@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.103.243.113;27699;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-05 14:31:46;Vivo
+177.131.13.127;262375;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 137, 445, 80, 21, 7547, 3389];2020-06-05 09:57:58;Data Info Comercio e Servico Ltda.
+177.91.79.23;263432;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-05 09:38:58;Corporativa Telecomunicacoes Eireli Me
+179.208.237.146;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 554, 3389];2020-06-05 09:21:49;Claro NET
+179.216.106.178;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[389, 3306, 37777, 88, 123, 3389];2020-06-05 22:57:08;Claro NET

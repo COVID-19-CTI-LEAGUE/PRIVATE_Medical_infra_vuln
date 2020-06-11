@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+94.102.69.42;8685;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 3389, 8880, 21, 8443, 445, 53];2020-05-15 02:50:00;Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.

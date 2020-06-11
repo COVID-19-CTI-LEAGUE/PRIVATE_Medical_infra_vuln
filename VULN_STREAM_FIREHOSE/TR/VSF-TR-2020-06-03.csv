@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.157.13.186;42807;{'MS17-010': 'MS17-010'};[3389, 111, 445, 5357];2020-06-03 16:07:47;Aerotek Bilisim Sanayi ve Ticaret AS

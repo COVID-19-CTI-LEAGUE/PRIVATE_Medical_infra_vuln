@@ -1,0 +1,9 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+148.241.160.150;10436;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5985, 902, 137, 5357, 8080, 1434, 123, 3389];2020-05-25 17:10:34;Instituto Tecnológico y de Estudios Superiores de
+148.241.97.144;10436;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-05-25 21:42:39;Instituto Tecnologico y de Estudios Superiores de
+187.145.52.223;8151;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5060, 3389];2020-05-25 06:38:47;Telmex
+187.243.253.146;13999;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[993, 995, 8009, 587, 110, 80, 53, 22, 23, 25, 443, 3389];2020-05-25 04:52:07;Megacable
+189.129.215.71;8151;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-25 20:36:12;Telmex
+189.243.115.176;8151;{'MS17-010': 'MS17-010'};[1433, 1434, 445, 137];2020-05-25 02:29:22;Telmex
+200.76.28.213;11172;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 137, 3389, 445];2020-05-25 06:23:38;Alestra, S. de R.L. de C.V.
+201.137.10.80;8151;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5060, 1099, 21, 1434, 1723, 445];2020-05-25 18:08:35;Telmex

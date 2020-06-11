@@ -1,0 +1,10 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.18.205.222;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 587, 110, 143, 8080, 21, 1433, 25, 1434, 3389, 53];2020-06-07 18:29:11;Vargonen Network
+185.132.126.70;42926;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[3389, 445];2020-06-07 16:52:25;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+193.164.5.11;61135;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[139, 3389, 445];2020-06-07 02:34:07;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+193.164.6.131;61135;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5985, 3389, 445];2020-06-07 16:01:26;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+194.1.184.70;210107;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-07 12:52:56;Plusweb Sunucu Internet Hizmetleri Ticaret Limited
+31.3.0.110;21245;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[3389, 445, 5357];2020-06-07 12:57:09;Medianova Internet Hizmetleri Ve Ticaret Anonim Si
+37.75.10.171;199484;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[139, 3389, 445];2020-06-07 10:25:00;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+45.151.248.247;209853;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 3389];2020-06-07 20:08:32;Veridyen Bilisim Teknolojileri Sanayi ve Ticaret L
+89.35.52.107;61135;{'MS17-010': 'MS17-010'};[3389, 445];2020-06-07 17:20:46;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.

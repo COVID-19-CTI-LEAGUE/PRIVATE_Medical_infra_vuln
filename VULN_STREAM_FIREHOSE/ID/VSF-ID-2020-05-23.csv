@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+114.6.71.3;4761;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[993, 995, 137, 8010, 587, 5357, 110, 143, 80, 3128, 445, 443, 3389];2020-05-23 01:28:36;PT Indosat Tbk.

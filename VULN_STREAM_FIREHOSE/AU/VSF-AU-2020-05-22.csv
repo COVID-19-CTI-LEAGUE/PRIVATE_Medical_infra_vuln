@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+101.114.221.178;133612;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[554, 10243, 445];2020-05-22 12:58:44;Vodafone Australia

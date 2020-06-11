@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+109.74.49.177;50261;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 443, 3389];2020-06-05 15:42:02;ACE Telecom Kft

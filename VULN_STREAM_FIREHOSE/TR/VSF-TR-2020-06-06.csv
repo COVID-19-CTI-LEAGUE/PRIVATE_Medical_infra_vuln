@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.132.126.70;42926;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[3389, 445];2020-06-06 04:01:54;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+185.134.185.109;205725;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[2000, 139, 445];2020-06-06 06:50:40;Selcuk Ecza Deposu Ticaret ve Sanayi Anonim Sirket
+194.1.192.109;210107;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-06 07:22:03;Plusweb Sunucu Internet Hizmetleri Ticaret Limited
+195.142.109.180;199484;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8083, 445];2020-06-06 00:25:47;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+31.186.29.110;199484;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8880, 3306, 110, 143, 80, 8401, 21, 1433, 8443, 3389, 53];2020-06-06 21:31:10;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare

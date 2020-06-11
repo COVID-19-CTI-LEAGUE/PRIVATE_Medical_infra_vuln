@@ -1,0 +1,11 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.134.185.107;205725;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[2000, 445, 3389];2020-05-18 21:33:10;Selcuk Ecza Deposu Ticaret ve Sanayi Anonim Sirket
+185.28.3.115;199484;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 445];2020-05-18 06:50:17;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+193.164.5.182;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-05-18 05:03:33;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+193.164.6.134;61135;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-18 11:52:28;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+195.142.1.214;199484;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5800, 5900, 5357, 1935, 8083, 3389, 8086, 445];2020-05-18 19:44:41;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+24.133.176.189;47524;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 28267, 28996, 7, 104, 29995, 13, 111, 80, 17, 5138, 19, 29394, 29562, 3260, 3389, 1311];2020-05-18 18:43:52;Turksat
+37.75.13.138;199484;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-18 19:45:57;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+89.35.52.58;61135;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 3306, 443, 5357, 445];2020-05-18 16:59:29;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+89.43.78.228;42926;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5985, 3389];2020-05-18 19:31:28;Radore Veri Merkezi Hizmetleri A.S.
+93.115.10.207;61135;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[445, 3389];2020-05-18 20:45:19;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.

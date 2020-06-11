@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+148.102.23.17;19180;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2002, 9002, 3389];2020-06-03 08:58:51;Americatel Peru S.A.

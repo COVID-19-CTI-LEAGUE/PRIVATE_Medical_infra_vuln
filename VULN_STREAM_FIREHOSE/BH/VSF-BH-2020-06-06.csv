@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+88.201.42.49;5416;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[1433, 21, 445, 5357];2020-06-06 10:01:58;Batelco

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+77.252.236.69;12741;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 554, 80, 37777, 123, 500, 1723, 3389];2020-06-07 09:19:47;Netia SA

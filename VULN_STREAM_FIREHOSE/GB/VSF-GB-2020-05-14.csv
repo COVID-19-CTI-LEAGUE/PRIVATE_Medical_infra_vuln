@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+164.39.206.40;31655;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 1723, 3389, 23];2020-05-14 07:05:18;Gamma Telecom
+79.73.88.200;9105;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-14 00:02:36;TalkTalk
+84.92.213.168;6871;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 443, 3389, 1723];2020-05-14 08:06:56;Plusnet

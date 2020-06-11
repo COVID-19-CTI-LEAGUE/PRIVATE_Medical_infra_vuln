@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+151.106.11.93;29066;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-26 04:50:18;Host Europe GmbH
+217.89.113.173;3320;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-26 09:33:27;Deutsche Telekom AG

@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.249.249.3;133720;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-02 17:31:54;Soft Call Cust-o-care Private Limited
+113.30.141.223;17447;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 443, 3389];2020-06-02 12:00:43;Net4India
+124.123.127.47;131269;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[3389, 5357, 445];2020-06-02 12:13:53;ACT Fibernet
+202.191.187.151;9583;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-06-02 18:09:34;Sify Limited
+49.248.166.124;17762;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8008, 80, 3389, 1494];2020-06-02 08:07:39;Tata Teleservices Maharashtra

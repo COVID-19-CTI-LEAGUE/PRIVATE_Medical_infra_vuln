@@ -1,0 +1,35 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+107.151.161.36;21859;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 445, 3389, 21];2020-05-18 07:15:34;Zenlayer
+108.175.220.18;54706;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 4443, 3389];2020-05-18 12:12:07;Zray Technologies Corporation
+12.222.170.237;16571;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-05-18 18:59:41;Kings Daughters Medical Center
+12.8.127.36;7018;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-18 17:45:48;AT&T Services
+132.183.56.239;40127;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-18 14:16:24;Partners HealthCare System
+162.210.7.174;15108;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-05-18 11:16:40;Allo Communications LLC
+162.229.60.109;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-05-18 05:50:03;AT&T U-verse
+18.219.220.33;16509;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389, 21];2020-05-18 14:48:28;Amazon.com
+198.245.192.133;3356;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-05-18 04:09:27;Level 3 Communications
+198.7.227.11;14325;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-05-18 16:56:25;OSHEAN
+199.19.210.117;11734;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-05-18 22:01:51;Connectria-asn-1
+206.165.104.41;40207;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-18 08:42:48;Cape Cod Healthcare
+216.239.180.9;23314;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3388, 445, 80, 25, 443, 444, 3389];2020-05-18 03:00:00;Summit Broadband
+24.196.97.242;20115;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[4443, 3389];2020-05-18 02:12:14;Spectrum
+4.31.103.229;3356;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-05-18 21:13:29;Level 3 Communications
+50.212.71.146;7922;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-18 10:57:20;Comcast Business
+50.79.0.82;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-05-18 08:09:04;Comcast Business
+64.145.173.152;18566;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5800, 137, 5900, 80, 1434, 1723, 445];2020-05-18 11:24:58;MegaPath Corporation
+64.211.40.243;10753;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-05-18 15:07:40;Level 3 Communications
+64.57.61.99;29831;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 3389, 110, 143];2020-05-18 19:55:13;Fone Net, LLC
+65.51.4.117;6128;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-05-18 08:09:29;Optimum Online
+67.137.36.132;7385;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-18 05:07:44;Allstream
+69.195.195.61;27345;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-05-18 16:46:23;Miami-Dade Broadband Coalition
+69.227.212.218;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 3389];2020-05-18 08:16:44;AT&T Internet Services
+69.55.222.199;26935;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-05-18 07:42:55;Noel Communications
+70.167.51.116;22773;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 443, 3389];2020-05-18 05:03:49;Cox Business
+70.90.139.133;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8081, 25, 10554, 443, 3389];2020-05-18 19:43:47;Comcast Business
+72.200.231.130;22773;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 1723, 443, 500, 3389];2020-05-18 08:06:17;Cox Business
+74.222.230.248;18712;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-05-18 01:02:00;Consolidated Communications
+74.92.224.201;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8081, 3389, 8443, 443, 21];2020-05-18 21:45:20;Comcast Business
+75.149.82.213;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 443, 1723, 3389];2020-05-18 23:33:56;Comcast Business
+96.248.82.63;701;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 4567];2020-05-18 05:53:41;Verizon Fios Business
+96.56.178.210;6128;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-18 19:35:03;Optimum Online
+98.191.103.218;22773;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-05-18 01:18:07;Cox Business
