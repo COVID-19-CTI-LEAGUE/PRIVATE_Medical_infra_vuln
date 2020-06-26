@@ -1,0 +1,23 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+12.237.88.3;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 3389];2020-06-17 22:36:05;AT&T Services
+13.68.23.48;8075;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 8443, 443, 22];2020-06-17 11:31:42;Microsoft Azure
+13.83.94.241;8075;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-06-17 20:41:36;Microsoft Azure
+130.185.183.222;33597;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-06-17 01:52:07;Atlantic Metro Communications II
+174.78.157.222;22773;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-06-17 15:12:59;Cox Business
+208.63.90.245;13368;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-06-17 22:28:46;Vyve Broadband
+209.202.230.227;6354;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-06-17 18:16:24;Bigleaf Networks
+23.100.238.234;8075;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-06-17 10:29:26;Microsoft Azure
+24.106.96.130;33363;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[554, 123, 3389, 445];2020-06-17 09:07:31;Spectrum Business
+24.116.18.83;11492;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[993, 587, 143, 80, 53, 25, 443, 3389];2020-06-17 17:02:01;Sparklight
+24.196.97.242;20115;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[4443, 3389];2020-06-17 03:32:12;Spectrum
+50.206.160.4;7922;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-06-17 23:11:04;Comcast Business
+50.252.99.22;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 5000, 5001, 1194, 25, 1723, 3389];2020-06-17 02:06:08;Comcast Business
+63.245.187.50;15165;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-06-17 15:55:13;Mutual Telephone Company
+64.147.49.134;55032;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-06-17 07:00:30;The Jackson Laboratory
+64.216.97.22;7018;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-06-17 09:21:33;AT&T Internet Services
+67.90.228.62;26036;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-06-17 19:32:40;Kootenai Medical Center
+69.2.207.149;13649;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 22];2020-06-17 16:53:15;Flexential
+74.84.96.180;30036;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-06-17 20:00:01;Mediacom Cable
+75.108.61.27;19108;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-06-17 23:38:13;Suddenlink Communications
+75.118.42.75;12083;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 3389, 110];2020-06-17 02:55:53;WideOpenWest
+75.149.82.213;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 443, 1723, 3389];2020-06-17 20:23:23;Comcast Business

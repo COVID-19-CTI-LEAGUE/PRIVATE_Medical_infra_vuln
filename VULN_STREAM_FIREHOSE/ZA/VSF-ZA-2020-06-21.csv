@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+105.184.121.41;37457;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[11211, 445];2020-06-21 14:15:08;Telkom Internet

@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+163.53.75.98;132957;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 5800, 5900, 2030, 445, 80, 3389];2020-06-17 22:39:50;Pintwire Infomatics Private Limited
+45.112.22.82;133011;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 104, 3389, 80];2020-06-17 05:26:20;Mobiwalkers
+45.250.168.106;45433;{'MS17-010': 'MS17-010'};[445];2020-06-17 10:42:33;Kappa Internet Services Private Limited

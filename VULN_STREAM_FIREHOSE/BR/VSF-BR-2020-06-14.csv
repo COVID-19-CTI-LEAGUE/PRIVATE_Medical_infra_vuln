@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+187.16.136.54;28254;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 8291, 1723, 3389];2020-06-14 06:48:06;Arganet Comunicação e Monitoramento Digital Ltda
+187.95.29.4;53081;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9001, 1883, 3389];2020-06-14 12:35:28;Netjacarei Telecon Ltda
+189.41.109.232;53006;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7547, 3389];2020-06-14 19:22:13;Algar Telecom

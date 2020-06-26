@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+181.143.214.134;13489;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 1433, 5357, 445];2020-06-19 23:01:11;Tigo Colombia

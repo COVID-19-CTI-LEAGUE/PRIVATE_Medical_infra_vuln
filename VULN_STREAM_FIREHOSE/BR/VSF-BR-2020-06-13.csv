@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+168.0.97.240;265234;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 1434, 3389];2020-06-13 16:28:57;N-multimidia Telecomunicacoes Ltda - Me
+186.205.202.190;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-13 04:05:26;Claro NET
+187.16.136.56;28254;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-13 00:04:21;Arganet Comunicação e Monitoramento Digital Ltda
+189.114.172.246;10429;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-13 18:01:28;Vivo
+201.71.140.15;28635;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[37777, 3389];2020-06-13 03:33:27;Younet Internet
+201.82.4.29;28573;{'CVE-2019-1652': 'CVE-2019-1652', 'CVE-2019-1653': 'Cisco WAN VPN Router unauth access'};[1723, 8181];2020-06-13 02:57:12;Claro NET

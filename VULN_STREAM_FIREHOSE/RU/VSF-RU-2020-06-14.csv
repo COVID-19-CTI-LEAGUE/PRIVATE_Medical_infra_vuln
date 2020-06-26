@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+195.239.128.118;3216;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 3389, 23];2020-06-14 17:04:41;VimpelCom
+82.117.168.54;31036;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-06-14 14:27:37;New Telesystems, Ltd.
+95.154.137.228;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-06-14 12:49:50;Production co-operative Economic-legal laboratory
+95.154.154.10;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-06-14 10:28:28;Production co-operative Economic-legal laboratory
+95.154.169.253;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5357, 445];2020-06-14 11:50:37;Production co-operative Economic-legal laboratory
+95.154.179.26;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[6881, 445, 5357];2020-06-14 10:14:13;Production co-operative Economic-legal laboratory

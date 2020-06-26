@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+212.118.24.25;9038;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5985, 3389, 21];2020-06-22 05:36:37;Batelco Jordan

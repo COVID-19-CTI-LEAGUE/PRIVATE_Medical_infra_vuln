@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+139.196.208.237;37963;{'CVE-2019-13917': 'CVE-2019-13917', 'CVE-2019-10149': 'CVE-2019-10149'};[80, 8100, 3306, 587, 8080, 465, 25, 123];2020-06-21 21:46:35;Hangzhou Alibaba Advertising Co.,Ltd.
+210.5.13.231;10212;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 23];2020-06-21 17:04:18;China Enterprise Communications
+59.36.101.95;134763;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 21];2020-06-21 18:32:38;China Telecom Guangdong

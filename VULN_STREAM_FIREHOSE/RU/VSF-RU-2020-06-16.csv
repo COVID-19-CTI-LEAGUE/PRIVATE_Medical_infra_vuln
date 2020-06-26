@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+212.75.152.49;20485;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 554, 3389, 49152];2020-06-16 20:30:16;Joint Stock Company TransTeleCom
+95.154.149.125;43714;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-16 18:06:36;Production co-operative Economic-legal laboratory
+95.154.164.20;43714;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-16 09:42:12;Production co-operative Economic-legal laboratory
+95.154.183.211;43714;{'MS17-010': 'MS17-010'};[445];2020-06-16 20:44:30;Production co-operative Economic-legal laboratory
+95.154.187.54;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-06-16 13:36:33;Production co-operative Economic-legal laboratory

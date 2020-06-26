@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.220.72.39;135356;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-06-14 23:40:51;Cn Care Network
+59.152.254.44;9381;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-06-14 05:04:59;HKBN Enterprise Solutions

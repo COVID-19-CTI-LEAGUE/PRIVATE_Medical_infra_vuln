@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+176.102.249.174;57563;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 123, 3389];2020-06-15 06:59:46;isfahan university of medical sciences & health se
+176.102.255.123;57563;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 445, 3389];2020-06-15 06:50:20;isfahan university of medical sciences & health se
+31.25.129.191;43754;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-06-15 13:24:11;Asiatech Data Transmission company
+5.160.120.2;42337;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5001, 37777, 1723, 3389, 8001];2020-06-15 10:43:09;Respina Networks & Beyond PJSC

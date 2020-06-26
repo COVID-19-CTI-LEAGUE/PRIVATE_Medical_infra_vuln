@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+92.63.97.141;29182;{'CVE-2019-13917': 'CVE-2019-13917', 'CVE-2019-10149': 'CVE-2019-10149'};[993, 995, 587, 143, 110, 111, 465, 21, 22, 25, 443, 53];2020-06-20 04:17:45;JSC The First
+95.154.187.161;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-06-20 20:34:36;Production co-operative Economic-legal laboratory
+95.154.188.77;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-06-20 01:49:48;Production co-operative Economic-legal laboratory

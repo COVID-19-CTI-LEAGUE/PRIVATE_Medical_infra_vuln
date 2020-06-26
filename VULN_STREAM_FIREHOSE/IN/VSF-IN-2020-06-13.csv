@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.113.35.88;135718;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 8080, 554, 445];2020-06-13 07:10:04;Fiberlink Communication Pvt.
+113.30.141.224;17447;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 3389, 21];2020-06-13 01:44:47;Net4India
+202.191.187.151;9583;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-06-13 16:36:54;Sify Limited
+45.250.168.173;45433;{'MS17-010': 'MS17-010'};[2000, 1723, 21, 445];2020-06-13 14:40:05;Kappa Internet Services Private Limited
+49.248.166.124;17762;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8008, 80, 3389, 1494];2020-06-13 14:55:39;Tata Teleservices Maharashtra

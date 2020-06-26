@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+88.20.242.169;3352;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[554, 445, 3389];2020-06-15 19:05:07;Telefonica de Espana Static IP

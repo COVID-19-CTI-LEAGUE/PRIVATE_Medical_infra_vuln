@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+37.222.98.216;12430;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 5357];2020-06-19 10:20:29;Vodafone Spain
+46.26.56.207;12430;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-06-19 15:31:37;Vodafone Spain
+46.26.56.218;12430;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-19 00:40:04;Vodafone Spain
+5.56.62.227;57286;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 3389];2020-06-19 22:49:51;Gigas Hosting S.A.
+77.210.209.9;12430;{'MS17-010': 'MS17-010'};[445];2020-06-19 16:14:52;Vodafone Spain

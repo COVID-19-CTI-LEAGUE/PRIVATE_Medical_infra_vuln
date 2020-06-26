@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+176.102.255.124;57563;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-06-25 07:23:10;isfahan university of medical sciences & health se
+194.225.51.24;43965;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8080, 1010, 21, 1433, 3389];2020-06-25 03:50:40;Tehran University of Medical Science
+5.160.123.164;42337;{'CVE-2019-13917': 'CVE-2019-13917', 'CVE-2019-10149': 'CVE-2019-10149'};[993, 995, 587, 110, 143, 80, 465, 8083, 21, 25, 443];2020-06-25 01:41:20;Respina Networks & Beyond PJSC

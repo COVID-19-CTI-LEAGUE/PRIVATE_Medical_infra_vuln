@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+176.102.255.123;57563;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 445, 3389];2020-06-13 12:34:44;isfahan university of medical sciences & health se

@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+42.200.198.36;4760;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8001, 1723, 500, 3389, 8999];2020-06-18 06:56:31;Netvigator
+59.152.254.44;9381;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-06-18 12:06:11;HKBN Enterprise Solutions
+61.93.251.154;9269;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[110, 80, 7443, 53, 25, 443, 3389];2020-06-18 05:59:28;Hong Kong Broadband Network

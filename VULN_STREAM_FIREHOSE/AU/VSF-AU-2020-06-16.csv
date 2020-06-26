@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+203.161.14.51;38809;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-06-16 18:47:19;Nextgen Networks

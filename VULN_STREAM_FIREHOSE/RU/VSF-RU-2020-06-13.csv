@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+78.111.250.81;43793;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[6881, 3389];2020-06-13 00:31:39;TVINGO Telecom Ltd.
+95.154.136.183;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5357, 445];2020-06-13 20:18:11;Production co-operative Economic-legal laboratory
+95.154.155.185;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-06-13 16:07:51;Production co-operative Economic-legal laboratory
+95.154.158.3;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[6881, 445];2020-06-13 08:42:30;Production co-operative Economic-legal laboratory
+95.154.160.110;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-06-13 12:44:55;Production co-operative Economic-legal laboratory
+95.154.160.146;43714;{'MS17-010': 'MS17-010'};[445];2020-06-13 16:43:53;Production co-operative Economic-legal laboratory
+95.154.169.13;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-06-13 15:56:20;Production co-operative Economic-legal laboratory

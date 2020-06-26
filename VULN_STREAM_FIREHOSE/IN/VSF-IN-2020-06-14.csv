@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.99.149.179;136689;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-14 12:58:33;Skylink Fibernet Private Limited
+13.233.180.98;16509;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-14 03:25:37;Amazon.com
+59.177.176.96;17813;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 5357];2020-06-14 02:59:32;Mahanagar Telephone Nigam

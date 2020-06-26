@@ -1,0 +1,9 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+151.14.97.15;1267;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-06-14 13:31:09;Wind Tre
+156.54.12.213;20746;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[21, 3389];2020-06-14 07:46:55;Telecom Italia
+156.54.12.244;20746;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[21, 3389];2020-06-14 07:48:17;Telecom Italia
+156.54.22.183;20746;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 21];2020-06-14 17:11:57;Telecom Italia
+156.54.22.193;20746;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[21, 3389];2020-06-14 13:12:02;Telecom Italia
+156.54.22.198;20746;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 21];2020-06-14 04:43:45;Telecom Italia
+156.54.22.202;20746;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[21, 3389];2020-06-14 09:18:13;Telecom Italia
+156.54.27.131;20746;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[21, 3389];2020-06-14 10:55:54;Telecom Italia

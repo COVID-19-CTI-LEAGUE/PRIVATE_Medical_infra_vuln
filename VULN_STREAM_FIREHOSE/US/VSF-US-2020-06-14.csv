@@ -1,0 +1,16 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+104.171.225.50;135356;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[32400, 9090, 8291, 53, 3389];2020-06-14 18:11:14;Cn Care Network
+12.8.127.35;7018;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-06-14 05:07:35;AT&T Services
+12.8.127.38;7018;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-06-14 05:07:48;AT&T Services
+134.174.21.42;40127;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-06-14 23:15:10;Longwood Medical and Academic Area (LMA)
+134.174.21.43;40127;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-06-14 17:30:52;Longwood Medical and Academic Area (LMA)
+134.174.21.60;40127;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-06-14 15:34:11;Longwood Medical and Academic Area (LMA)
+157.56.167.202;8075;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-14 07:05:09;Microsoft Azure
+167.206.147.215;6128;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-06-14 23:32:40;Optimum Online
+192.94.108.177;1252;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-06-14 01:47:52;University of Nebraska Medical Center
+198.245.192.133;3356;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-06-14 13:43:39;Level 3 Communications
+199.227.145.11;3549;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-14 06:51:09;Level 3 Communications
+45.22.214.211;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-06-14 23:25:30;AT&T U-verse
+50.206.160.4;7922;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-06-14 02:46:13;Comcast Business
+64.147.49.70;55032;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-06-14 05:20:13;The Jackson Laboratory
+71.14.161.82;20115;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 8080, 500, 8088, 443, 3389];2020-06-14 19:59:56;Spectrum

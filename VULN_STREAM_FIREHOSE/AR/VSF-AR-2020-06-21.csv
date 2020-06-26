@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+138.121.101.242;263775;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[993, 8291, 587, 143, 80, 22, 25, 443, 3389];2020-06-21 16:09:18;Intelisis S.A.
+181.28.66.252;10318;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 443, 500, 3389];2020-06-21 10:21:14;Cablevision Argentina
+186.23.160.138;27747;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-06-21 18:53:46;TeleCentro
+190.15.200.194;27879;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 8880, 53, 1494, 2266, 1723, 3389];2020-06-21 05:01:16;Informática y Telecomunicaciones S.A.
+201.176.98.64;22927;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-06-21 15:24:04;Telefonica de Argentina

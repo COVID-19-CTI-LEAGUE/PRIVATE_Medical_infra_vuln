@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+181.177.233.60;27843;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8080, 137, 3389, 80, 3000, 1433, 443, 445];2020-06-19 23:51:50;Optical Technologies S.a.c.
+190.223.57.26;12252;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-06-19 14:22:29;Claro Peru

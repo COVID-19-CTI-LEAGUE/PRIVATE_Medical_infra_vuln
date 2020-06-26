@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+5.160.120.2;42337;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5001, 37777, 1723, 3389, 8001];2020-06-16 07:01:53;Respina Networks & Beyond PJSC
