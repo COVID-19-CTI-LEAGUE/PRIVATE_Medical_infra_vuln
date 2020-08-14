@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+132.247.181.2;278;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-07-04 12:38:43;Universidad Nacional Autonoma de Mexico
+148.241.97.144;10436;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-07-04 05:19:09;Instituto Tecnologico y de Estudios Superiores de
+187.218.232.24;8151;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3200, 8080, 5800, 6379, 5900, 445, 80, 4444, 3389];2020-07-04 16:04:47;Telmex
+201.146.146.193;8151;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 9001, 3306, 445, 21];2020-07-04 10:52:47;Telmex

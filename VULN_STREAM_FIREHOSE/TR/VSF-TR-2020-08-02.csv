@@ -1,0 +1,10 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.18.194.170;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 443, 21, 3389];2020-08-02 18:53:22;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+178.18.199.123;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9090, 80, 25, 1433, 8090, 443, 3389];2020-08-02 03:49:50;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+193.164.5.250;61135;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 445];2020-08-02 04:51:04;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+212.58.4.154;8685;{'CVE-2016-9963': 'CVE-2016-9963', 'CVE-2019-10149': 'CVE-2019-10149', 'CVE-2019-13917': 'CVE-2019-13917'};[993, 2082, 2083, 2086, 2087, 3306, 587, 110, 143, 80, 465, 995, 53, 22, 443, 21, 2079];2020-08-02 09:38:18;Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.
+213.128.74.252;42926;{'CVE-2019-10149': 'CVE-2019-10149', 'CVE-2019-13917': 'CVE-2019-13917'};[993, 2082, 995, 2086, 2087, 587, 110, 143, 80, 465, 2083, 21, 443, 53];2020-08-02 07:05:39;Radore Veri Merkezi Hizmetleri A.S.
+213.155.122.82;8685;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-08-02 05:26:52;Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.
+213.159.28.6;42807;{'CVE-2019-10149': 'CVE-2019-10149', 'CVE-2019-13917': 'CVE-2019-13917'};[993, 2082, 995, 2086, 2087, 2095, 3306, 587, 110, 143, 80, 465, 2083, 21, 443, 53];2020-08-02 15:53:34;Aerotek Bilisim Sanayi ve Ticaret
+31.186.26.132;199484;{'CVE-2019-10149': 'CVE-2019-10149', 'CVE-2019-13917': 'CVE-2019-13917'};[993, 995, 3306, 587, 110, 143, 80, 465, 21, 22, 111, 443, 53];2020-08-02 07:50:45;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+89.35.52.163;61135;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[3389, 445, 5357];2020-08-02 11:59:39;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.

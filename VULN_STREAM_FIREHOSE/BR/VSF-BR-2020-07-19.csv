@@ -1,0 +1,11 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+168.0.97.159;265234;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 1723, 3389, 445];2020-07-19 04:04:47;N-multimidia Telecomunicacoes Ltda - Me
+177.138.123.104;27699;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7547, 3389];2020-07-19 06:37:44;Vivo
+177.91.79.23;263432;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-07-19 18:00:45;Corporativa Telecomunicacoes Eireli Me
+179.113.23.126;26599;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-07-19 10:39:02;Vivo
+187.95.29.4;53081;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9001, 1883, 3389];2020-07-19 14:01:07;Netjacarei Telecon Ltda
+189.127.14.174;27693;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-07-19 09:00:03;NipCable do Brasil Telecom LTDA
+189.127.15.26;27693;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[993, 443, 587, 143, 37777, 25, 1723, 444, 3389, 445];2020-07-19 19:00:21;NipCable do Brasil Telecom LTDA
+189.19.121.202;27699;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[37777, 3389];2020-07-19 18:26:01;Vivo
+201.63.66.158;10429;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8083, 3389];2020-07-19 16:27:13;Vivo
+201.71.140.15;28635;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[37777, 3389];2020-07-19 16:50:05;Younet Internet

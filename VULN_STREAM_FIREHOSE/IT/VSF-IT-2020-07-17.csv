@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+176.65.92.150;196983;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-07-17 12:01:56;Elsynet S.r.l.

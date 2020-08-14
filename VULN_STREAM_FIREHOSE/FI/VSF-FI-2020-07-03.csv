@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.83.119.68;201172;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-07-03 03:23:36;Suupohjan Seutuverkko Oy

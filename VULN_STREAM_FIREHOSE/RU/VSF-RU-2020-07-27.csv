@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+188.119.67.219;9002;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 4500, 3389];2020-07-27 04:13:01;RETN Limited
+45.128.206.230;57724;{'CVE-2019-10149': 'CVE-2019-10149', 'CVE-2019-13917': 'CVE-2019-13917'};[993, 995, 587, 110, 143, 80, 465, 53, 25, 443, 21];2020-07-27 06:34:57;Ddos-guard Ltd
+91.229.59.137;56935;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 110, 143, 80, 25, 443, 3389];2020-07-27 09:29:32;Clinic of Aesthetic Medicine CJSC
+95.154.150.112;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-07-27 14:39:35;Production co-operative Economic-legal laboratory
+95.154.179.26;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[6881, 445, 5357];2020-07-27 03:38:10;Production co-operative Economic-legal laboratory

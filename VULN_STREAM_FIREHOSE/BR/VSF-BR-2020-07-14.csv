@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+143.202.72.116;53081;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-07-14 16:35:17;Netjacarei Telecon Ltda
+177.100.198.245;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3306, 3389];2020-07-14 02:58:40;Claro NET
+191.209.110.134;27699;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8000, 80, 3389, 23];2020-07-14 01:32:54;Vivo
+191.53.177.145;28202;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-07-14 09:45:25;Rede Brasileira de Comunicacao Ltda
+201.182.223.43;267541;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 8080, 3333, 3389, 1433];2020-07-14 07:20:05;Brasilnet Internet Banda Larga Ltda-me

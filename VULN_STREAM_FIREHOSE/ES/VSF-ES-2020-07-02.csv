@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+46.26.56.199;12430;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[81, 3389];2020-07-02 17:31:54;Vodafone Spain
+81.42.201.249;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-07-02 10:41:20;Telefonica de Espana Static IP
+84.39.180.164;15704;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[1434, 7547, 445];2020-07-02 08:33:41;Yoigo

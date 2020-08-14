@@ -1,0 +1,9 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.10.40.66;263012;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-07-13 06:56:31;Unimed Belem-cooperativa De Trabalho Medico
+177.131.13.127;262375;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 137, 445, 80, 21, 7547, 3389];2020-07-13 06:45:46;Data Info Comercio e Servico Ltda.
+187.72.7.17;16735;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-07-13 03:44:47;Algar Telecom
+189.127.14.174;27693;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-07-13 08:40:01;NipCable do Brasil Telecom LTDA
+189.127.15.14;27693;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 8081, 8080, 445];2020-07-13 22:05:24;NipCable do Brasil Telecom LTDA
+200.150.175.66;265303;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[37777, 3389];2020-07-13 00:59:36;TV Alphaville Sistema de TV por Assinatura LTDA
+200.33.96.26;61585;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[21];2020-07-13 14:18:28;Ministerio Da Saude - Instituto Nacional De Cancer
+201.68.188.27;27699;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 8081, 5443, 443, 53];2020-07-13 22:16:38;Vivo

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+62.215.141.113;21050;{'CVE-2019-19781': 'Citrix RCE (Shitrix)', 'CVE-2015-0204': 'CVE-2015-0204'};[443];2020-07-30 10:03:06;Fast Telecommunications Company W.L.L.

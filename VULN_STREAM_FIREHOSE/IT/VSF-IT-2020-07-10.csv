@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+151.29.191.230;1267;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[1723, 5060, 3389];2020-07-10 16:01:13;Wind Tre
+213.178.221.32;47646;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-07-10 13:51:19;Ital Tbs S.p.A.
+77.95.142.211;28716;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-07-10 23:15:08;Reti Telematiche Italiane S.p.A. (Retelit S.p.A.)

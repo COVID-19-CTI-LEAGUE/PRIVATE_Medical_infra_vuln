@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+195.239.128.118;3216;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 3389, 23];2020-06-29 07:05:36;VimpelCom
+195.64.222.83;5563;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-29 03:50:49;JSC UralWES
+84.22.141.253;33991;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 554, 1723, 3389];2020-06-29 04:16:42;Igra-Service LLC
+92.63.97.141;29182;{'CVE-2019-10149': 'CVE-2019-10149', 'CVE-2019-13917': 'CVE-2019-13917'};[993, 995, 587, 143, 110, 111, 465, 21, 22, 25, 443, 53];2020-06-29 21:34:01;JSC The First
+95.154.157.178;43714;{'MS17-010': 'MS17-010'};[10243, 445];2020-06-29 08:07:50;Production co-operative Economic-legal laboratory
+95.154.187.161;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-06-29 21:55:51;Production co-operative Economic-legal laboratory

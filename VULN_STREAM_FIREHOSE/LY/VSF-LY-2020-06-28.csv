@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+154.73.28.46;29286;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[88, 3389];2020-06-28 01:41:30;Skylogic S.p.A.

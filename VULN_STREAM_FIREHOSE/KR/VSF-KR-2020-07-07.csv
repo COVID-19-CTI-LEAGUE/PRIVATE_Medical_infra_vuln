@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+223.194.196.90;55628;{'CVE-2015-0204': 'CVE-2015-0204', 'CVE-2015-4000': 'CVE-2015-4000'};[80, 443];2020-07-07 08:52:27;Incheon Free Economic Zone

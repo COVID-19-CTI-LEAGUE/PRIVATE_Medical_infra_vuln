@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+1.186.57.131;45769;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 23, 3389, 25];2020-07-23 17:52:51;D-Vois Broadband Pvt
+103.240.8.230;133720;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 1433, 445];2020-07-23 15:55:51;Soft Call Cust-o-care Private Limited
+110.227.251.69;24560;{'MS17-010': 'MS17-010'};[80, 81, 445];2020-07-23 02:51:33;Airtel Broadband

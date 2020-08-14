@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+113.30.141.102;17447;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 443, 3389, 21];2020-07-25 10:44:27;Net4India
+113.30.141.41;17447;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 443, 3389, 21];2020-07-25 14:28:43;Net4India
+14.140.98.216;4755;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-07-25 10:31:12;Tata Communications
+182.74.204.158;9498;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 81, 3389, 445];2020-07-25 03:52:13;Airtel
+202.149.215.108;17762;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-07-25 03:15:16;Tata Teleservices (Maharashtra)
+49.248.138.35;17762;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-07-25 08:55:14;Tata Teleservices Maharashtra
+59.145.161.155;9498;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-07-25 09:17:46;Airtel Broadband

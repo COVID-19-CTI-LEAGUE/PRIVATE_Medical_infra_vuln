@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.220.74.20;135356;{'MS17-010': 'MS17-010'};[9191, 873, 9003, 8239, 4567, 445, 2558, 7071];2020-06-26 22:59:35;Cn Care Network
+175.45.58.82;9381;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8443, 3389];2020-06-26 03:18:05;Hong Kong Broadband Network
+42.200.106.111;4760;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3388];2020-06-26 09:13:52;Netvigator
+61.93.251.154;9269;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[110, 80, 7443, 53, 25, 443, 3389];2020-06-26 16:15:29;Hong Kong Broadband Network

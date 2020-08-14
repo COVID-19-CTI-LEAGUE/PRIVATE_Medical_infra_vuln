@@ -1,0 +1,10 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+193.150.116.180;57438;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-07-26 04:31:01;Krasnoyarsk State Medical University
+37.143.13.219;203226;{'CVE-2019-10149': 'CVE-2019-10149', 'CVE-2019-13917': 'CVE-2019-13917'};[993, 995, 587, 110, 143, 80, 465, 22, 25];2020-07-26 10:28:12;Internet-Hosting Ltd
+5.252.152.213;49981;{'CVE-2019-10149': 'CVE-2019-10149', 'CVE-2019-13917': 'CVE-2019-13917'};[993, 2082, 2083, 2086, 2087, 3306, 587, 110, 143, 80, 465, 995, 53, 22, 21, 2079];2020-07-26 15:57:48;WorldStream B.V.
+79.111.156.4;12714;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 8291, 8001, 443, 2000, 82, 1723, 3389];2020-07-26 06:20:07;Net By Net Holding LLC
+92.63.97.141;29182;{'CVE-2019-10149': 'CVE-2019-10149', 'CVE-2019-13917': 'CVE-2019-13917'};[993, 995, 587, 143, 110, 111, 465, 21, 22, 25, 443, 53];2020-07-26 00:46:52;JSC The First
+95.154.138.237;43714;{'MS17-010': 'MS17-010'};[445];2020-07-26 09:49:50;Production co-operative Economic-legal laboratory
+95.154.149.125;43714;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-07-26 07:33:26;Production co-operative Economic-legal laboratory
+95.154.153.134;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-07-26 10:31:31;Production co-operative Economic-legal laboratory
+95.154.184.57;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-07-26 12:48:44;Production co-operative Economic-legal laboratory

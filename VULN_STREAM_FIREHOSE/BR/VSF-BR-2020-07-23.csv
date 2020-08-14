@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.135.180.3;18881;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3050, 3389];2020-07-23 15:00:56;Vivo
+177.156.52.143;18881;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-07-23 17:52:58;Vivo
+189.39.123.254;28310;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 9443, 5800, 8009, 5900, 8080, 443, 2012, 3389];2020-07-23 01:45:20;Smart Telecomunicações E Serviços Eirelli Epp

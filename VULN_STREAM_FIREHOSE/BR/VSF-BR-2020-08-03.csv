@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.21.200.44;262877;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[10000, 8080, 81, 554, 80, 8081, 8090, 3389, 3390];2020-08-03 08:51:32;Miragenet Telecomunicacoes Ltda
+177.74.255.25;263653;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 1433, 8291, 3389];2020-08-03 16:22:15;Costa Esmeralda Net Ltda Me
+191.187.225.177;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9000, 1433, 9002, 3389, 80];2020-08-03 09:17:41;Claro NET

@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+122.53.62.15;9299;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-30 01:07:09;Philippine Long Distance Telephone
+203.160.169.56;18233;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 1433, 3389, 445];2020-06-30 07:33:26;Philippine Telegraph and Telephone Corporation

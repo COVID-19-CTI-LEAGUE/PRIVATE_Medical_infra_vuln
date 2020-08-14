@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.249.248.194;133720;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 5985, 139, 2222];2020-07-10 05:35:49;Soft Call Cust-o-care Private Limited
+103.39.244.167;133720;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-07-10 14:34:37;Soft Call Cust-o-care Private Limited
+113.30.141.117;17447;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 21, 3389];2020-07-10 14:47:39;Net4India
+150.107.95.8;132768;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8060, 3389];2020-07-10 15:25:21;Five network Broadband Solution Pvt
+210.212.162.118;9829;{'MS17-010': 'MS17-010'};[137, 2222, 3389, 80, 1434, 445];2020-07-10 08:59:12;BSNL

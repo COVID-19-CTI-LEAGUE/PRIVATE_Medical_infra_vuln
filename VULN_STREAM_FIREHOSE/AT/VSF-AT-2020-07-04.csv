@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+91.113.149.189;8447;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443, 8443];2020-07-04 22:36:01;A1 Telekom Austria

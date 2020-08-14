@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+176.102.245.219;57563;{'MS17-010': 'MS17-010'};[137];2020-06-29 04:22:08;isfahan university of medical sciences & health se
+5.160.123.164;42337;{'CVE-2019-10149': 'CVE-2019-10149', 'CVE-2019-13917': 'CVE-2019-13917'};[993, 995, 587, 110, 143, 80, 465, 8083, 21, 25, 443];2020-06-29 02:41:36;Respina Networks & Beyond PJSC

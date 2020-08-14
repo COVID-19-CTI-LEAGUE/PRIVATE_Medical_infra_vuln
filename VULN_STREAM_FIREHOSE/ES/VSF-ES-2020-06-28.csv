@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+62.175.218.85;6739;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[8008, 443];2020-06-28 04:37:40;Vodafone Ono
+88.28.39.205;3352;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[123];2020-06-28 00:42:13;Telefonica de Espana Static IP
+88.28.40.17;3352;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80];2020-06-28 12:25:19;Telefonica de Espana Static IP

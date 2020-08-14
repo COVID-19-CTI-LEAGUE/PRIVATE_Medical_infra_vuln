@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.240.8.230;133720;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 1433, 445];2020-06-28 03:48:59;Soft Call Cust-o-care Private Limited
+103.251.49.70;137166;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 49152, 554, 3389];2020-06-28 14:26:45;Digital Satellite Connect Pvt
+103.99.149.179;136689;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-28 22:42:47;Skylink Fibernet Private Limited
+122.179.158.197;24560;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 554, 444];2020-06-28 00:30:07;Airtel Broadband

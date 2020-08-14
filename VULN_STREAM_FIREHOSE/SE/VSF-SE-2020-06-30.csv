@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+91.123.200.88;42695;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 445];2020-06-30 00:45:25;City Network Hosting AB

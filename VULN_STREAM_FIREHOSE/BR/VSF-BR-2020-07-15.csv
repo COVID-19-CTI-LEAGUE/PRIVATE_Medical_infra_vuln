@@ -1,0 +1,9 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+131.255.237.14;262318;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[10000, 37777, 3388, 9101, 53];2020-07-15 19:13:15;Horizons Telecomunicacoes e Tecnologia Ltda
+177.126.21.230;52706;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 3389];2020-07-15 04:40:17;3d Telecomunicacoes Ltda
+177.131.13.127;262375;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 137, 445, 80, 21, 7547, 3389];2020-07-15 06:15:30;Data Info Comercio e Servico Ltda.
+179.97.190.108;19182;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7547, 3389];2020-07-15 10:59:27;Vivo
+187.19.12.29;28124;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-07-15 09:15:22;Netell Telecomunicacoes Ltda
+187.95.28.202;53081;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8291, 445];2020-07-15 18:18:45;Netjacarei Telecon Ltda
+191.248.113.53;10429;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-07-15 06:19:11;Vivo
+200.0.62.33;61760;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389, 8087];2020-07-15 06:51:53;JSL S/A

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+211.105.122.86;4766;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[10243, 11112, 3306, 8080, 17, 19, 8083, 3389];2020-07-24 02:03:46;Korea Telecom

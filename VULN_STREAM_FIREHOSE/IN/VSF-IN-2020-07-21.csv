@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.240.8.230;133720;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 1433, 445];2020-07-21 16:41:00;Soft Call Cust-o-care Private Limited
+103.99.149.179;136689;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-07-21 20:58:56;Skylink Fibernet Private Limited
+45.248.21.44;133720;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 82, 445];2020-07-21 01:28:23;Soft Call Cust-o-care Private Limited

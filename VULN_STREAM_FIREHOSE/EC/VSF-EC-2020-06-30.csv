@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+191.100.30.236;27668;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-30 07:54:32;ETAPA EP

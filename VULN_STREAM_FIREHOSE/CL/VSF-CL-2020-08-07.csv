@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+181.226.159.58;14117;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[10243, 137, 554, 5900, 3389, 3306];2020-08-07 04:04:29;Telefonica del Sur S.A.

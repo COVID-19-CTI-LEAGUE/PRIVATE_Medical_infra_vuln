@@ -1,0 +1,15 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+195.209.51.115;12722;{'CVE-2019-10149': 'CVE-2019-10149', 'CVE-2019-13917': 'CVE-2019-13917'};[993, 995, 587, 110, 143, 80, 21, 22, 25, 53];2020-06-28 12:20:24;RECONN LLC
+195.64.222.83;5563;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-06-28 22:58:05;JSC UralWES
+45.128.206.230;57724;{'CVE-2019-10149': 'CVE-2019-10149', 'CVE-2019-13917': 'CVE-2019-13917'};[993, 995, 587, 110, 143, 80, 465, 53, 25, 443, 21];2020-06-28 18:27:28;Ddos-guard Ltd
+45.8.228.2;9002;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3306, 3389];2020-06-28 11:14:03;RETN Limited
+5.252.152.213;49981;{'CVE-2019-10149': 'CVE-2019-10149', 'CVE-2019-13917': 'CVE-2019-13917'};[993, 2082, 2083, 2086, 2087, 3306, 587, 110, 143, 80, 465, 995, 53, 22, 21, 2079];2020-06-28 16:39:48;WorldStream B.V.
+5.32.146.17;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-06-28 09:13:11;Production co-operative Economic-legal laboratory
+95.154.138.237;43714;{'MS17-010': 'MS17-010'};[445];2020-06-28 14:59:34;Production co-operative Economic-legal laboratory
+95.154.143.107;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[6881, 445];2020-06-28 16:42:37;Production co-operative Economic-legal laboratory
+95.154.153.134;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-06-28 13:38:19;Production co-operative Economic-legal laboratory
+95.154.169.253;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5357, 445];2020-06-28 00:34:42;Production co-operative Economic-legal laboratory
+95.154.171.178;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-06-28 15:31:25;Production co-operative Economic-legal laboratory
+95.154.187.54;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-06-28 13:13:29;Production co-operative Economic-legal laboratory
+95.154.190.38;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-06-28 16:47:23;Production co-operative Economic-legal laboratory
+95.154.191.94;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-06-28 15:10:28;Production co-operative Economic-legal laboratory

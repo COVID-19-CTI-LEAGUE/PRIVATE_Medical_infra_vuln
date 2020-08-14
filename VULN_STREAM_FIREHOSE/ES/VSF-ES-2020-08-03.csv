@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+159.147.131.74;12430;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5357];2020-08-03 12:23:16;Vodafone Spain
+2.141.201.119;3352;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-08-03 11:15:18;Telefonica de Espana

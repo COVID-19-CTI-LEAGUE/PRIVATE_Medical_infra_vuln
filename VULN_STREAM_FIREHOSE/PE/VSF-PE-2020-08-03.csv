@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+190.223.57.26;12252;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-08-03 03:35:48;Claro Peru
+190.239.147.97;6147;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5800, 137, 3306, 8080, 445];2020-08-03 02:25:57;Telefonica del Peru

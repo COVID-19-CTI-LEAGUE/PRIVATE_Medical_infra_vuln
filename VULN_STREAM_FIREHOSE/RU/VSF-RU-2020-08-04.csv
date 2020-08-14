@@ -1,0 +1,12 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+194.0.219.172;199148;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 443, 3389];2020-08-04 05:41:35;Ministry of Health of Russian Federation
+194.87.109.151;9002;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-08-04 01:15:42;RETN Limited
+195.210.2.14;49994;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-08-04 04:37:26;RIC-Info Ltd
+95.154.133.160;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-08-04 13:21:21;Production co-operative Economic-legal laboratory
+95.154.135.4;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-08-04 14:53:53;Production co-operative Economic-legal laboratory
+95.154.147.22;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[6881, 5357, 445];2020-08-04 06:48:47;Production co-operative Economic-legal laboratory
+95.154.153.134;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-08-04 17:06:59;Production co-operative Economic-legal laboratory
+95.154.171.62;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-08-04 20:59:10;Production co-operative Economic-legal laboratory
+95.154.182.33;43714;{'MS17-010': 'MS17-010'};[445];2020-08-04 19:16:57;Production co-operative Economic-legal laboratory
+95.154.187.161;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-08-04 04:12:53;Production co-operative Economic-legal laboratory
+95.154.190.38;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-08-04 19:54:03;Production co-operative Economic-legal laboratory

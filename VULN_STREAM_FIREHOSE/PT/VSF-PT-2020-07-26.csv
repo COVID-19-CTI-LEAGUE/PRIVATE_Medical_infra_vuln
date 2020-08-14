@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+93.108.246.50;12353;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-07-26 03:01:22;Vodafone Portugal

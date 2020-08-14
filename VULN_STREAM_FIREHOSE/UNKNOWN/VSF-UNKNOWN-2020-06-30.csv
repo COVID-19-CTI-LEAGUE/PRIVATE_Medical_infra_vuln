@@ -1,0 +1,17 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+109.170.191.114;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[];2020-06-30 06:54:04;unknown
+14.207.126.83;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-06-30 04:56:17;unknown
+141.98.207.99;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[1433, 3389, 445, 5985];2020-06-30 05:32:28;Aerotek Bilisim Sanayi ve Ticaret AS
+170.253.31.251;unknown;{'MS17-010': 'MS17-010'};[];2020-06-30 17:44:08;unknown
+173.236.53.246;unknown;{'CVE-2019-10149': 'CVE-2019-10149', 'CVE-2019-13917': 'CVE-2019-13917'};[];2020-06-30 04:44:58;unknown
+176.102.247.20;unknown;{'MS17-010': 'MS17-010'};[];2020-06-30 07:27:05;unknown
+177.205.100.55;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-06-30 21:37:38;unknown
+180.243.25.111;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-06-30 12:54:30;unknown
+188.24.8.71;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-06-30 10:23:25;unknown
+189.62.218.14;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-06-30 13:21:07;unknown
+191.19.234.141;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-06-30 20:27:16;unknown
+2.141.201.144;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[];2020-06-30 16:16:11;unknown
+46.26.57.250;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-06-30 13:36:38;unknown
+49.49.197.216;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-06-30 17:50:54;unknown
+54.204.175.57;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-06-30 16:54:33;unknown
+92.22.184.136;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[];2020-06-30 15:16:11;unknown

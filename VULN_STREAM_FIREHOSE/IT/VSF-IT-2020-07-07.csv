@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+93.47.195.164;12874;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[2554, 445, 3389];2020-07-07 09:58:55;Fastweb

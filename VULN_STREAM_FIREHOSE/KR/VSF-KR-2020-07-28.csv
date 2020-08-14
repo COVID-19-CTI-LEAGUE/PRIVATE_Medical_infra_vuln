@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+123.214.181.183;38429;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-07-28 14:45:06;Boryung Pharmaceutical Co.,Ltd.
+211.105.253.25;4766;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 3389];2020-07-28 05:00:07;Korea Telecom

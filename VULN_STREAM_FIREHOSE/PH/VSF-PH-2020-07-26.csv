@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+61.9.86.200;6163;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389, 445, 5357];2020-07-26 10:07:55;SKYBroadband SKYCable Corporation

@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+195.53.254.46;3352;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-08-02 09:42:43;Telefonica de Espana
+46.26.56.199;12430;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[81, 3389];2020-08-02 23:45:36;Vodafone Spain
+82.223.130.16;8560;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-08-02 22:08:18;1&1 Internet AG

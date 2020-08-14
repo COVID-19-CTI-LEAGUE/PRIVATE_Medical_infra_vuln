@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+78.154.64.115;29007;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-07-07 15:27:06;Petrotel Sp. z o.o.

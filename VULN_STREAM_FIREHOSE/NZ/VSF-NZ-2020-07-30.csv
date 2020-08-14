@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+210.54.88.38;4771;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[161, 3389];2020-07-30 11:30:35;Spark New Zealand

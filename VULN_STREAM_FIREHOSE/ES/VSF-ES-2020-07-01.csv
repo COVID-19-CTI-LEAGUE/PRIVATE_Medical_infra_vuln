@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+80.103.118.217;12479;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[21];2020-07-01 15:32:55;Orange Espana
+88.28.35.253;3352;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[53];2020-07-01 05:13:10;Telefonica de Espana Static IP

@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+5.252.152.213;49981;{'CVE-2019-10149': 'CVE-2019-10149', 'CVE-2019-13917': 'CVE-2019-13917'};[993, 2082, 2083, 2086, 2087, 3306, 587, 110, 143, 80, 465, 995, 53, 22, 21, 2079];2020-07-25 16:44:56;WorldStream B.V.
+78.111.250.81;43793;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[6881, 3389];2020-07-25 07:28:05;TVINGO Telecom Ltd.
+91.229.59.137;56935;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 110, 143, 80, 25, 443, 3389];2020-07-25 10:05:02;Clinic of Aesthetic Medicine CJSC
+95.154.147.94;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-07-25 21:41:59;Production co-operative Economic-legal laboratory
+95.154.179.26;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[6881, 445, 5357];2020-07-25 11:27:17;Production co-operative Economic-legal laboratory

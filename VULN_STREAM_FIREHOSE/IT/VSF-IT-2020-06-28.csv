@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+79.40.167.23;3269;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 554, 10243, 445, 5357];2020-06-28 21:33:02;Telecom Italia

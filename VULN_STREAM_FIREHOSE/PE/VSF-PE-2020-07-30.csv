@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+190.102.140.6;27843;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 445];2020-07-30 07:07:36;Optical Technologies S.a.c.

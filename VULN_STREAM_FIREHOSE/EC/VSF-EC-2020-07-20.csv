@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+200.7.248.154;19114;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[81, 3389, 8081];2020-07-20 08:00:39;Otecel S.A.

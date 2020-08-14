@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.18.199.125;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9090, 80, 1433, 25, 443, 3389];2020-07-30 09:14:41;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+178.18.206.106;50941;{'CVE-2019-10149': 'CVE-2019-10149', 'CVE-2019-13917': 'CVE-2019-13917'};[993, 995, 3306, 587, 110, 143, 465, 8083, 53, 22, 443, 21];2020-07-30 19:56:30;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+185.134.185.16;205725;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8001, 9443, 5060, 5222, 8008, 137, 80, 8080, 5269, 443, 3389];2020-07-30 19:11:08;Selcuk Ecza Deposu Ticaret ve Sanayi Anonim Sirket
+213.155.122.82;8685;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-07-30 13:37:52;Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.
+31.186.26.134;199484;{'CVE-2019-10149': 'CVE-2019-10149', 'CVE-2019-13917': 'CVE-2019-13917'};[587, 995, 3306, 111, 110, 143, 80, 465, 21, 22, 25, 443, 53];2020-07-30 21:39:33;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+31.186.29.84;199484;{'CVE-2016-9963': 'CVE-2016-9963', 'CVE-2019-10149': 'CVE-2019-10149', 'CVE-2019-13917': 'CVE-2019-13917'};[995, 3306, 587, 110, 80, 465, 21, 22, 25, 443, 53];2020-07-30 18:48:30;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+89.35.52.203;61135;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 3389, 5357];2020-07-30 21:23:43;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.

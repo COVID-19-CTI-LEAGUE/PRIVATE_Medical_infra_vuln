@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+181.143.128.30;13489;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5060, 8080, 82, 22, 443, 3388, 3389];2020-07-31 04:14:19;Tigo Colombia
+190.2.209.242;262186;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-07-31 13:08:43;DIRECTV Colombia

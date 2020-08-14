@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+89.92.178.144;5410;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-07-25 03:28:39;Bouygues Telecom

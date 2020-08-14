@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+138.121.101.242;263775;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[993, 8291, 587, 143, 80, 22, 25, 443, 3389];2020-07-15 22:46:11;Intelisis S.A.
+201.251.125.128;22927;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 5938, 3389];2020-07-15 03:07:50;Telefonica de Argentina

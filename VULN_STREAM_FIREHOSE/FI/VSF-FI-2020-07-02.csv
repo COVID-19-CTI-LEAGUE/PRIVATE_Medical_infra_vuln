@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.83.119.70;201172;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-07-02 18:53:46;Suupohjan Seutuverkko Oy
+194.100.110.19;16086;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-07-02 06:15:26;DNA Oyj

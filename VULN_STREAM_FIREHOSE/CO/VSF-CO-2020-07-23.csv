@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+179.32.40.30;3816;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 5357, 80, 5353, 123, 3389];2020-07-23 04:59:52;Movistar Colombia

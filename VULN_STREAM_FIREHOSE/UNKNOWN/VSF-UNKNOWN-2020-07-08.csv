@@ -1,0 +1,13 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+110.136.47.10;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[];2020-07-08 09:05:01;unknown
+125.166.147.159;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-07-08 19:24:07;unknown
+132.190.92.204;unknown;{'CVE-2020-5902': 'CVE-2020-5902'};[];2020-07-08 14:14:38;unknown
+176.102.244.152;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[];2020-07-08 17:50:41;unknown
+176.102.247.24;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-07-08 20:49:39;unknown
+179.95.12.180;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-07-08 19:37:28;unknown
+182.76.121.107;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[];2020-07-08 10:33:47;unknown
+31.134.200.209;unknown;{'CVE-2020-5902': 'CVE-2020-5902'};[];2020-07-08 18:02:11;unknown
+31.134.202.159;unknown;{'CVE-2020-5902': 'CVE-2020-5902'};[];2020-07-08 17:49:15;unknown
+45.189.12.234;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 11112, 8291, 3389];2020-07-08 16:24:43;Teralink Telecomunicacoes Eireli
+88.1.219.124;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-07-08 11:04:37;unknown
+88.28.46.152;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[];2020-07-08 11:40:16;unknown

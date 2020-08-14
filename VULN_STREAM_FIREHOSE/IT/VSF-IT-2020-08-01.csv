@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+93.147.151.126;30722;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5800, 5555, 5900, 445];2020-08-01 13:08:24;Vodafone Italia DSL

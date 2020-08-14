@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+213.227.140.37;60781;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[23, 21, 3389];2020-07-26 10:12:26;LeaseWeb Netherlands B.V.

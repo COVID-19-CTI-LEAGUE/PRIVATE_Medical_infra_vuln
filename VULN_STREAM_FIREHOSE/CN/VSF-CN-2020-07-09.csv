@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+124.162.170.82;4837;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[10000, 1723, 9000, 80, 7443, 179, 22, 443];2020-07-09 12:21:31;China Unicom Liaoning

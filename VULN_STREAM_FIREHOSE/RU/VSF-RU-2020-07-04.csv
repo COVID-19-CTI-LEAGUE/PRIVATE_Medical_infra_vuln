@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+188.94.166.198;49426;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-07-04 14:38:32;LInTeCS ltd (Laboratory of Information Technologie
+5.252.152.213;49981;{'CVE-2019-10149': 'CVE-2019-10149', 'CVE-2019-13917': 'CVE-2019-13917'};[993, 2082, 2083, 2086, 2087, 3306, 587, 110, 143, 80, 465, 995, 53, 22, 21, 2079];2020-07-04 10:57:27;WorldStream B.V.
+92.63.97.141;29182;{'CVE-2019-10149': 'CVE-2019-10149', 'CVE-2019-13917': 'CVE-2019-13917'};[993, 995, 587, 143, 110, 111, 465, 21, 22, 25, 443, 53];2020-07-04 23:55:39;JSC The First
+95.154.177.44;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-07-04 02:22:25;Production co-operative Economic-legal laboratory
+95.154.180.204;43714;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-07-04 13:06:21;Production co-operative Economic-legal laboratory

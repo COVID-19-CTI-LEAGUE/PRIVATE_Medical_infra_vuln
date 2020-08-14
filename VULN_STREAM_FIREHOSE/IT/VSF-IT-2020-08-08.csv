@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+95.253.190.180;3269;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[123, 3389];2020-08-08 11:35:34;Telecom Italia Business

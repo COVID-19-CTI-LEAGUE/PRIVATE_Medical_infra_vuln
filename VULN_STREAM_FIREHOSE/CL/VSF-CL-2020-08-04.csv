@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+190.47.253.245;22047;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 500, 1723, 10443, 3389];2020-08-04 03:26:25;VTR Banda Ancha S.A.

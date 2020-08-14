@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+194.220.140.29;12430;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5357, 445];2020-07-21 08:42:25;Vodafone Spain
+83.57.104.177;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-07-21 10:43:29;Telefonica de Espana
+88.2.252.76;3352;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[1194, 443];2020-07-21 01:48:09;Telefonica de Espana Static IP
+88.28.32.155;3352;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[443, 445];2020-07-21 07:50:13;Telefonica de Espana Static IP

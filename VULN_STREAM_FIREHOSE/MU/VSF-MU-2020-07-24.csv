@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+41.175.151.246;30844;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 8291, 443, 2000, 3389];2020-07-24 20:20:14;Neotel Pty Ltd

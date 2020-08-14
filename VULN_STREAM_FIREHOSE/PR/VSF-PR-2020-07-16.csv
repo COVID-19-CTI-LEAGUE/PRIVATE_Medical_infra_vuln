@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+67.206.214.107;11992;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[8008, 80, 443];2020-07-16 22:22:21;AT&T Mobility Puerto Rico
