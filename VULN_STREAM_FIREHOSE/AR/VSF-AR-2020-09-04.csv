@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+138.121.101.242;263775;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[993, 8291, 587, 143, 80, 22, 25, 443, 3389];2020-09-04 13:52:13;Intelisis S.A.
+181.14.247.22;7303;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 3389];2020-09-04 00:53:07;Telecom Argentina S.A.
+181.30.120.69;10481;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[161, 8291, 993, 80, 53, 25, 443, 3389];2020-09-04 21:47:56;Cablevision Argentina

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+123.136.25.66;38493;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 443, 5357, 902, 3389];2020-08-14 04:52:24;Royal Green Online Ltd. Internet Service Provider

@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+37.75.13.138;199484;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-03 10:45:00;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+89.35.52.115;61135;{'MS17-010': 'MS17-010'};[3389, 445];2020-09-03 17:44:03;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+89.35.52.155;61135;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[3389, 445, 5357];2020-09-03 09:55:38;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.

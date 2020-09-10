@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+83.110.195.195;5384;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[82, 3389, 445];2020-08-20 06:12:56;Etisalat

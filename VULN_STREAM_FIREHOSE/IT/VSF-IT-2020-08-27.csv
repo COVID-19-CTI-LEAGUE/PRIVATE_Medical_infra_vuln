@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+156.54.22.145;20746;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[21, 3389];2020-08-27 12:32:23;Telecom Italia
+156.54.22.222;20746;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[21, 3389];2020-08-27 12:31:53;Telecom Italia
+156.54.22.232;20746;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[21, 3389];2020-08-27 12:27:39;Telecom Italia
+156.54.22.67;20746;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[21, 3389];2020-08-27 12:47:25;Telecom Italia
+156.54.22.74;20746;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[21, 3389];2020-08-27 12:31:24;Telecom Italia
+213.178.221.32;47646;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-08-27 05:19:42;Ital Tbs S.p.A.

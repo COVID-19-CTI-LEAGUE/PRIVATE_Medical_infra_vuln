@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+114.251.235.30;4808;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8081, 3389, 21];2020-08-29 15:50:27;China Unicom Beijing
+180.76.247.65;38365;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-08-29 14:04:21;Beijing Baidu Netcom Science and Technology Co.
+210.22.176.117;17621;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 9000, 9001, 9002, 9005, 9200, 443, 3389, 10000];2020-08-29 08:26:22;China Unicom Shanghai

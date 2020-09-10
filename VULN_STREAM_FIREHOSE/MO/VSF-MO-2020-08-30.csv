@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+202.175.82.47;4609;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-08-30 15:10:55;Companhia de Telecomunicacoes de Macau SARL

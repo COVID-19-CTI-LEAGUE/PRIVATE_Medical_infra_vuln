@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.104.244.132;52657;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[5985, 123, 1723, 80, 10443, 3389, 8080, 593, 53, 22, 88, 1433, 443, 445];2020-08-10 09:04:14;Norte Telecomunicacoes Servicos De Internet Ltda
+179.182.250.39;18881;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[49152, 3389];2020-08-10 04:33:12;Vivo
+179.215.87.211;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8181, 3389];2020-08-10 02:01:44;NET Virtua
+189.41.9.52;53006;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[554, 7547, 3389];2020-08-10 01:28:14;Algar Telecom

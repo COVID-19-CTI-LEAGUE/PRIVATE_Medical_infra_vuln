@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+89.35.52.203;61135;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 3389, 5357];2020-09-07 19:25:48;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.

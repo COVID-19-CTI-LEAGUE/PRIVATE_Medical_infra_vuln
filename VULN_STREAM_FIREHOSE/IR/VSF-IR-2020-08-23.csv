@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+176.102.244.115;57563;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-08-23 08:01:04;isfahan university of medical sciences & health se
+176.102.244.142;57563;{'MS17-010': 'MS17-010'};[445];2020-08-23 08:37:12;isfahan university of medical sciences & health se
+176.102.244.215;57563;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[1935];2020-08-23 14:57:58;isfahan university of medical sciences & health se
+176.102.245.133;57563;{'MS17-010': 'MS17-010'};[445];2020-08-23 08:28:44;isfahan university of medical sciences & health se
+176.102.246.172;57563;{'MS17-010': 'MS17-010'};[445];2020-08-23 04:26:35;isfahan university of medical sciences & health se
+176.102.246.226;57563;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 1935];2020-08-23 03:43:47;isfahan university of medical sciences & health se

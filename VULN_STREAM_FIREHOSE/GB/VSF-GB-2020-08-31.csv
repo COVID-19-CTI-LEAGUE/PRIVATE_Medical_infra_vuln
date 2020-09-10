@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+81.187.1.130;20712;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[9098, 139, 9100, 9106, 9595, 445];2020-08-31 18:00:55;Andrews & Arnold Ltd
+89.197.9.134;47474;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 1723, 3389];2020-08-31 00:30:28;Virtual1 Limited

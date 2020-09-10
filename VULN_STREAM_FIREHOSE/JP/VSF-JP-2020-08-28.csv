@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+202.221.204.200;2497;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-08-28 12:40:29;Internet Initiative Japan
+202.248.108.242;2510;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-08-28 14:11:11;Fujitsu

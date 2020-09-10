@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+45.236.129.26;64111;{'MS17-010': 'MS17-010'};[80, 137, 3389, 445, 53];2020-08-26 03:43:11;Informatica Bluehosting Limitada

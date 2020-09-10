@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.235.104.176;17439;{'CVE-2019-13917': 'CVE-2019-13917', 'CVE-2019-10149': 'CVE-2019-10149'};[993, 2082, 2083, 2086, 2087, 587, 110, 143, 80, 465, 995, 53, 443, 21];2020-08-21 09:38:15;Netmagic Datacenter Mumbai
+164.164.87.51;7633;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-08-21 07:30:36;Software Technology Parks of India - Bangalore
+180.151.232.203;10029;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-08-21 14:27:53;Shyam Spectra Pvt

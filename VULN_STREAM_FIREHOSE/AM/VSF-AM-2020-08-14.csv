@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+31.7.165.40;42109;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-08-14 10:30:22;MTS Armenia CJSC

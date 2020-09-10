@@ -1,0 +1,9 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+155.139.188.250;25609;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-09-04 14:58:54;Detroit Medical Center
+192.236.0.28;393238;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 443, 3389];2020-09-04 04:20:48;ImOn Communications, LLC
+24.111.133.26;11232;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2121, 110, 80, 25, 26, 443, 3389];2020-09-04 01:50:01;Midco
+50.241.233.49;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 500, 443];2020-09-04 15:37:46;Comcast Business
+52.251.124.72;8075;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 111];2020-09-04 09:43:05;Microsoft Azure
+64.45.197.54;393579;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 5900, 445, 5985];2020-09-04 22:28:11;Lee Memorial Health System
+65.51.4.117;6128;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-09-04 13:20:15;Optimum Online
+76.251.88.67;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-04 06:21:52;AT&T Internet Services

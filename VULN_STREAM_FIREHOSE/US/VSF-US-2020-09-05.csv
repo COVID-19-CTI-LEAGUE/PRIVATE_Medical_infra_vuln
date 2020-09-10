@@ -1,0 +1,11 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+12.222.170.237;16571;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-09-05 02:05:53;Kings Daughters Medical Center
+162.229.60.109;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-05 17:38:43;AT&T U-verse
+18.206.241.42;14618;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 22];2020-09-05 18:54:13;Amazon.com
+192.236.0.28;393238;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 443, 3389];2020-09-05 12:06:15;ImOn Communications, LLC
+50.79.141.214;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8000, 3389];2020-09-05 05:58:39;Comcast Business
+64.147.49.134;55032;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-09-05 20:09:42;The Jackson Laboratory
+64.57.61.99;29831;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 3389, 110, 143];2020-09-05 05:13:42;Fone Net, LLC
+64.85.235.245;11404;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[444, 3389];2020-09-05 23:03:10;Wave Broadband
+65.51.4.117;6128;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-09-05 01:23:12;Optimum Online
+69.227.212.218;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 3389];2020-09-05 02:05:44;AT&T Internet Services

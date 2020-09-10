@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.210.146.19;136334;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[22];2020-09-02 12:17:12;Vortex Netsol
+103.59.104.58;132770;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 9000, 7547, 445];2020-09-02 10:40:09;Gazon Communications India Limited
+122.179.129.94;24560;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 9001, 1433, 1434, 1723, 445];2020-09-02 06:50:11;Airtel Broadband

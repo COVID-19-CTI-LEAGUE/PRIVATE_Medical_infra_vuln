@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+141.98.207.99;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[1433, 3389, 445, 5985];2020-08-28 19:00:26;Aerotek Bilisim Sanayi ve Ticaret AS

@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+193.150.116.180;57438;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-08-17 20:50:37;Krasnoyarsk State Medical University
+5.32.147.58;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-08-17 10:50:44;Production co-operative Economic-legal laboratory
+84.38.184.55;49505;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 22, 7071];2020-08-17 06:24:42;OOO Network of data-centers Selectel

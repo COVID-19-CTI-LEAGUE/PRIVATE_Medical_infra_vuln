@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+194.141.68.193;6802;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[32400, 5938, 445, 2022];2020-08-31 16:15:34;Medical University - Pleven

@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+186.13.130.47;11664;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 5357, 3389, 211, 8888, 7547, 445];2020-09-01 10:16:38;Claro Argentina
+190.15.200.194;27879;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 8880, 53, 1494, 2266, 1723, 3389];2020-09-01 07:35:46;Informática y Telecomunicaciones S.A.

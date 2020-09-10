@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.78.139.237;12365;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8009, 3389];2020-08-10 07:57:18;JC LLC Sarkor-Telecom

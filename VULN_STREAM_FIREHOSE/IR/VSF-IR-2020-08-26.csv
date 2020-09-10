@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+128.65.176.104;43754;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 137, 3389];2020-08-26 07:25:32;Asiatech Data Transmission company

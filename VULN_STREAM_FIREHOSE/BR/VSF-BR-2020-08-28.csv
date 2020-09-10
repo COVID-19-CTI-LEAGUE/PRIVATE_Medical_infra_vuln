@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+187.16.136.53;28254;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 8291, 3389];2020-08-28 18:40:28;Arganet Comunicação e Monitoramento Digital Ltda
+189.127.15.14;27693;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 8081, 8080, 445];2020-08-28 23:14:23;NipCable do Brasil Telecom LTDA
+189.62.218.192;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3306, 21, 3389];2020-08-28 22:41:05;Claro NET
+189.62.42.178;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 554];2020-08-28 13:41:31;Claro NET
+200.98.138.102;7162;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389, 21];2020-08-28 01:39:20;UOL Cloud Computing
+201.68.188.27;27699;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 8081, 5443, 443, 53];2020-08-28 22:48:03;Vivo

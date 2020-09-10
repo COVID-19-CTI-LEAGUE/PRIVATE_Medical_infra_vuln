@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+95.154.135.92;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 9013];2020-08-23 08:52:35;Production co-operative Economic-legal laboratory
+95.154.153.134;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-08-23 21:16:42;Production co-operative Economic-legal laboratory
+95.154.159.111;43714;{'MS17-010': 'MS17-010'};[445];2020-08-23 17:33:21;Production co-operative Economic-legal laboratory
+95.154.190.108;43714;{'MS17-010': 'MS17-010'};[445];2020-08-23 02:47:28;Production co-operative Economic-legal laboratory

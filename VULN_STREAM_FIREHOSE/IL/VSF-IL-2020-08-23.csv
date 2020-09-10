@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+212.199.60.35;9116;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-08-23 18:50:02;Partner Communications

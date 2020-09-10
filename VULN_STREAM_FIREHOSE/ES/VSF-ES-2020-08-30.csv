@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+213.27.243.227;8220;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-08-30 19:12:22;COLT Technology Services Group Limited
+213.98.157.1;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-08-30 01:57:13;Telefonica de Espana Static IP
+46.24.35.178;12430;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 123, 443, 3389];2020-08-30 06:02:58;Vodafone Spain
+77.211.40.82;12430;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-08-30 17:50:10;Vodafone Spain
+85.219.88.205;12357;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[3333, 445];2020-08-30 15:05:41;Vodafone Spain

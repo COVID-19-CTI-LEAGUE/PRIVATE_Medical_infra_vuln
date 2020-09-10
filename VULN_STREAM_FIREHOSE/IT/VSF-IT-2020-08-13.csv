@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+151.84.214.135;1267;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3388, 21];2020-08-13 20:27:51;Wind Tre
+213.178.221.32;47646;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-08-13 09:29:42;Ital Tbs S.p.A.
+94.177.207.50;31034;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-08-13 02:57:00;Aruba S.p.A.

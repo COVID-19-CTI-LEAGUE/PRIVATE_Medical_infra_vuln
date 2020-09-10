@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+130.93.36.174;25540;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[70, 8080, 8081, 500, 443, 3389];2020-08-29 13:45:21;Alphalink
+195.154.233.31;12876;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 3389, 21];2020-08-29 03:22:27;Iliad-Entreprises

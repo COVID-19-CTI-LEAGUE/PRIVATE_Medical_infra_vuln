@@ -1,0 +1,13 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+104.171.225.50;135356;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[32400, 9090, 8291, 53, 3389];2020-09-09 15:35:36;Cn Care Network
+192.236.0.27;393238;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 443, 3389];2020-09-09 05:51:58;ImOn Communications, LLC
+205.132.82.245;397093;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443, 22];2020-09-09 15:13:59;St. Elizabeth Medical Center
+24.112.106.249;13368;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-09-09 10:10:09;Vyve Broadband
+38.122.130.181;174;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-09-09 04:17:16;Cogent Communications
+50.240.12.242;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-09-09 01:01:53;Comcast Business
+52.251.124.72;8075;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 111];2020-09-09 06:17:15;Microsoft Azure
+65.182.170.130;22458;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-09 17:34:43;NetSource Communications
+67.23.59.137;36086;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 21];2020-09-09 22:09:42;Telx Hosting
+68.99.159.47;22773;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-09 23:44:06;Cox Business
+96.3.25.101;11232;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5357, 445, 22, 3389];2020-09-09 04:49:15;Midco
+98.152.1.110;20001;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 8019, 445, 5357];2020-09-09 07:40:20;Spectrum Business

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+190.69.96.99;3816;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 3050, 5357, 80, 1434, 445];2020-08-19 21:18:50;Movistar Colombia

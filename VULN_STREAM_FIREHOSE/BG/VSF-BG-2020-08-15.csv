@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+194.141.24.3;6802;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[88, 80, 3306, 3389];2020-08-15 18:39:54;Bulgarian Research and Education Network Associati

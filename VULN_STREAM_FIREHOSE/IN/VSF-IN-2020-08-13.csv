@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.39.237.59;133255;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3306, 10243, 3389, 445];2020-08-13 07:18:01;Elxer Communications Private Limited
+111.91.18.135;38457;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1024, 3389, 53];2020-08-13 14:22:25;Honesty Net Solution (I) Pvt
+113.30.141.102;17447;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 443, 3389, 21];2020-08-13 19:22:24;Net4India
+49.248.138.35;17762;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-08-13 18:28:25;Tata Teleservices Maharashtra

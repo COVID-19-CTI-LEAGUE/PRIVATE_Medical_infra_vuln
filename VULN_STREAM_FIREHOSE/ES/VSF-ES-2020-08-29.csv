@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+134.255.191.178;51678;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-08-29 00:19:46;Ibermatica S.A.
+159.147.131.74;12430;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5357];2020-08-29 06:47:01;Vodafone Spain
+2.136.91.128;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-08-29 07:40:54;Telefonica de Espana Static IP
+46.24.35.178;12430;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 123, 443, 3389];2020-08-29 04:22:39;Vodafone Spain
+81.42.201.249;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-08-29 00:17:22;Telefonica de Espana Static IP
+83.55.102.254;3352;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 5357];2020-08-29 21:19:49;Telefonica de Espana

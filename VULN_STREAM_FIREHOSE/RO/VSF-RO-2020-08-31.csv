@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+82.79.219.243;8708;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389, 22, 53];2020-08-31 16:14:49;RCS & RDS Business
+92.82.11.212;9050;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-08-31 05:40:10;Telekom Romania

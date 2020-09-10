@@ -1,0 +1,10 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+12.20.124.154;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 443, 3389];2020-09-08 22:47:04;AT&T Services
+207.191.231.12;22458;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-08 02:59:37;NetSource Communications
+216.226.148.222;13706;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[110, 143, 80, 21, 25, 3389];2020-09-08 14:51:09;CompleteWeb.Net LLC
+24.157.49.182;6128;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-09-08 11:49:36;Optimum Online
+24.43.41.54;20001;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-09-08 03:39:56;Spectrum Business
+50.30.19.34;394195;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8081, 443, 3389];2020-09-08 05:49:25;Clearnetworx, LLC
+50.79.141.214;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8000, 3389];2020-09-08 21:29:43;Comcast Business
+52.144.120.133;395861;{'CVE-2020-5902': 'CVE-2020-5902'};[443];2020-09-08 10:11:36;Medical Imaging Associates of Idaho Falls, P.A.
+71.163.239.202;701;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-08 03:04:42;Verizon Fios Business

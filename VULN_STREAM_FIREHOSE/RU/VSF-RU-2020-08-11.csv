@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+45.128.206.230;57724;{'CVE-2019-13917': 'CVE-2019-13917', 'CVE-2019-10149': 'CVE-2019-10149'};[993, 995, 587, 110, 143, 80, 465, 53, 25, 443, 21];2020-08-11 19:49:30;Ddos-guard Ltd
+82.208.98.2;12389;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8291, 1194, 2000, 53, 1723, 3389];2020-08-11 17:12:55;Rostelecom
+95.154.187.161;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-08-11 08:57:06;Production co-operative Economic-legal laboratory

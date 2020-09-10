@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+111.91.172.162;38673;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-08-18 03:28:32;Korea Cable TV Kwangju Broadcasting
+115.68.102.147;38700;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5985, 9025, 137, 139, 445, 80, 21, 1433, 443, 3389];2020-08-18 14:17:50;Smileserv
+123.214.181.183;38429;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-08-18 07:07:16;Boryung Pharmaceutical Co.,Ltd.
+211.105.253.25;4766;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 3389];2020-08-18 13:43:39;Korea Telecom

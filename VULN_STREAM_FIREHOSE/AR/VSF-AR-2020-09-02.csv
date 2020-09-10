@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+190.137.226.235;7303;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-09-02 06:05:20;Telecom Argentina S.A.

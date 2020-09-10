@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+200.32.43.120;10834;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-08 17:53:30;Telefonica de Argentina
+200.5.83.206;10834;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[9600, 5000, 554, 80, 5010, 83, 445];2020-09-08 04:53:46;Telefonica de Argentina

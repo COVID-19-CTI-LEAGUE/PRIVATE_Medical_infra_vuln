@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+194.0.219.172;199148;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 443, 3389];2020-09-06 08:25:14;Ministry of Health of Russian Federation
+195.210.2.14;49994;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-06 20:10:26;RIC-Info Ltd
+62.117.81.226;8732;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 500, 3389];2020-09-06 01:56:13;OJSC Comcor
+62.76.74.251;51408;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-06 07:38:49;OOO Sirius-Project
+95.154.182.33;43714;{'MS17-010': 'MS17-010'};[445];2020-09-06 03:35:58;Production co-operative Economic-legal laboratory

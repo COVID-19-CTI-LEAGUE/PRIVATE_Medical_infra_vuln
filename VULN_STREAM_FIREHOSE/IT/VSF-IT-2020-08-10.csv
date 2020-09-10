@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+151.29.33.95;1267;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[1723, 445];2020-08-10 20:19:52;Wind Tre
+156.54.27.15;20746;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 21];2020-08-10 02:16:33;Telecom Italia

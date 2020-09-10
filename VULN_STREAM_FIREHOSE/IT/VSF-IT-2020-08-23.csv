@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+151.65.184.14;1267;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8080, 3389];2020-08-23 18:16:13;Wind Tre
+151.84.214.135;1267;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3388, 21];2020-08-23 17:41:05;Wind Tre
+77.95.142.211;28716;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-08-23 09:55:34;Reti Telematiche Italiane S.p.A. (Retelit S.p.A.)
+93.147.151.126;30722;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5800, 5555, 5900, 445];2020-08-23 11:35:57;Vodafone Italia DSL

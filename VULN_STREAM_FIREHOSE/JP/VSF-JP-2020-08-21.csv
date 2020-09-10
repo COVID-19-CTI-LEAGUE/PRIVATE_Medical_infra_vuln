@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+202.221.204.200;2497;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-08-21 13:41:06;Internet Initiative Japan
+211.14.170.85;2554;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-08-21 19:13:24;IDC Frontier

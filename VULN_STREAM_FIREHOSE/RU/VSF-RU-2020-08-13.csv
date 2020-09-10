@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+77.221.153.49;30968;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-08-13 13:15:23;OOO National Telecommunications
+82.208.98.2;12389;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8291, 1194, 2000, 53, 1723, 3389];2020-08-13 08:29:16;Rostelecom
+91.228.66.78;49558;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9443, 3389];2020-08-13 03:11:26;IT-Yaroslavl Ltd.
+95.154.135.21;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-08-13 06:54:41;Production co-operative Economic-legal laboratory
+95.154.137.242;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-08-13 20:40:10;Production co-operative Economic-legal laboratory
+95.154.157.178;43714;{'MS17-010': 'MS17-010'};[10243, 445];2020-08-13 08:37:40;Production co-operative Economic-legal laboratory

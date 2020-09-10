@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+134.255.191.173;51678;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-06 10:54:40;Ibermatica S.A.
+134.255.191.178;51678;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-09-06 10:48:06;Ibermatica S.A.
+88.2.252.76;3352;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[1194, 443];2020-09-06 05:50:23;Telefonica de Espana Static IP
+95.63.84.56;12430;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-06 02:22:21;Vodafone Spain
