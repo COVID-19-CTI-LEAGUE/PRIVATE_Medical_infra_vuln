@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+181.115.147.67;6568;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-11-25 17:25:31;Entel S.A. - EntelNet

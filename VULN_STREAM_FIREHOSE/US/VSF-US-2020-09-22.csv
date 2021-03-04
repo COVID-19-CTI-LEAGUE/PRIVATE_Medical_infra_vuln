@@ -1,0 +1,11 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+107.151.161.36;21859;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 445, 3389, 21];2020-09-22 20:36:50;Zenlayer
+108.27.225.146;701;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-22 20:22:34;Verizon Fios Business
+160.36.197.100;3450;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[2701];2020-09-22 15:20:41;University of Tennessee
+162.247.42.66;36012;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-22 04:16:43;Hunter Communications
+165.166.79.211;2711;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-22 17:10:10;Spirit Communications
+199.116.137.118;36489;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 443, 3389];2020-09-22 16:34:58;Netsolus.com
+24.112.106.249;13368;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-09-22 18:33:10;Vyve Broadband
+52.144.120.133;395861;{'CVE-2020-5902': 'CVE-2020-5902'};[443];2020-09-22 01:54:43;Medical Imaging Associates of Idaho Falls, P.A.
+64.147.49.134;55032;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-09-22 01:44:42;The Jackson Laboratory
+66.159.61.130;12028;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-09-22 19:23:21;MM Internet

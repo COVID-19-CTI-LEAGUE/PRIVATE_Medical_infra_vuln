@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+107.151.161.35;21859;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[999, 445, 80, 21, 8090, 3389];2021-01-21 11:02:50;Zenlayer
+107.151.161.36;21859;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 445, 3389, 21];2021-01-21 13:57:45;Zenlayer
+207.144.94.140;7250;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2021-01-21 18:12:52;Surry Communications
+35.224.89.33;15169;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2021-01-21 09:31:09;Google Cloud
+50.252.73.44;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1194, 500, 3389];2021-01-21 01:36:28;Comcast Business
+52.144.120.133;395861;{'CVE-2020-5902': 'CVE-2020-5902'};[443];2021-01-21 13:20:47;Medical Imaging Associates of Idaho Falls, P.A.
+64.18.108.215;19830;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389, 22];2021-01-21 17:23:15;The Ringgold Telephone Company

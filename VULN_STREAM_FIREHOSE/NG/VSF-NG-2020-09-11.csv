@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+154.118.66.114;37340;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-09-11 07:50:07;Spectranet

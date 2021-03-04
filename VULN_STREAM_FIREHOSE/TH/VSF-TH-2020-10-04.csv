@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+119.110.206.234;24218;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 3389, 21];2020-10-04 00:16:08;Symphony Communication
+202.29.24.238;136624;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 21, 3389];2020-10-04 00:39:29;Sakon Nakhon Rajabhat University
+202.6.18.23;24299;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 137, 3306, 53, 80];2020-10-04 04:52:28;Internet Solution & Service Provider Co.

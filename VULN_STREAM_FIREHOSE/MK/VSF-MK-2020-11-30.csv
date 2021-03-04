@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+78.157.7.32;16333;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8080];2020-11-30 18:26:59;A1 Makedonija

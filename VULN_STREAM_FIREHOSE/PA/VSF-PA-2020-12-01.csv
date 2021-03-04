@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+186.75.199.86;11556;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 554];2020-12-01 03:47:09;Cable & Wireless Panama

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+163.15.167.149;1659;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-11-20 20:54:59;Taiwan Academic Network

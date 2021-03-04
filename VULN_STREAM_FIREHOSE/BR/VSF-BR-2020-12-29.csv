@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.104.244.132;52657;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5985, 123, 1723, 80, 10443, 3389, 8080, 593, 53, 22, 88, 1433, 443, 445];2020-12-29 12:03:45;Norte Telecomunicacoes Servicos De Internet Ltda
+177.104.244.210;52657;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 22, 135];2020-12-29 02:56:07;Norte Telecomunicacoes Servicos De Internet Ltda
+177.21.200.44;262877;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[10000, 8080, 81, 554, 80, 8081, 8090, 3389, 3390];2020-12-29 12:42:45;Miragenet Telecomunicacoes Ltda
+187.95.29.4;53081;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9001, 1883, 3389];2020-12-29 13:05:08;Netjacarei Telecon Ltda
+189.127.15.14;27693;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 8081, 8080, 445];2020-12-29 04:15:04;NipCable do Brasil Telecom LTDA
+45.171.117.71;268743;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 137, 123, 3389];2020-12-29 23:39:31;Sociedade Campineira De Educacao E Instrucao

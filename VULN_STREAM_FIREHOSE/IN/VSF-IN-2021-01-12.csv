@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.217.152.194;135259;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[81];2021-01-12 01:53:00;Skyline Infonet Private Limited
+103.249.249.9;133720;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8080, 1433, 10443, 3389, 135];2021-01-12 15:01:28;Soft Call Cust-o-care Private Limited
+103.29.117.239;131442;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9001, 3389, 2222];2021-01-12 06:15:16;Digital Network Associates Pvt
+122.168.126.240;24560;{'MS17-010': 'MS17-010'};[137, 10443, 445, 2222];2021-01-12 19:36:35;Airtel Broadband
+175.101.98.22;17754;{'MS17-010': 'MS17-010'};[5357];2021-01-12 10:04:57;Excellmedia
+202.149.215.108;17762;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-01-12 23:18:57;Tata Teleservices (Maharashtra)

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+119.93.48.27;9299;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[10243, 445, 3389];2020-12-09 12:22:30;Philippine Long Distance Telephone

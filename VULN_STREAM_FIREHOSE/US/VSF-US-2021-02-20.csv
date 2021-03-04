@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+24.154.64.153;27364;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2021-02-20 19:27:23;Armstrong Cable
+45.22.214.211;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2021-02-20 08:39:32;AT&T U-verse

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+193.164.5.247;61135;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 445];2020-12-09 19:59:43;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.

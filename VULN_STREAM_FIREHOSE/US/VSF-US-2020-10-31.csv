@@ -1,0 +1,9 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+104.156.224.178;20473;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 3389];2020-10-31 12:44:07;Choopa, LLC
+108.175.220.18;54706;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 4443, 3389];2020-10-31 10:19:40;Zray Technologies Corporation
+12.109.102.250;40098;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-10-31 05:30:48;Community Antenna Service
+162.210.7.174;15108;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-10-31 04:05:23;Allo Communications LLC
+173.248.152.196;30475;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 587, 5357, 110, 143, 8080, 21, 25, 3389, 53];2020-10-31 07:00:53;Handy Networks, LLC
+216.180.152.178;23314;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3388, 445, 80, 443, 444, 3389];2020-10-31 01:06:28;Summit Broadband
+24.112.106.249;13368;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-10-31 11:07:16;Vyve Broadband
+50.253.156.130;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-10-31 08:14:42;Comcast Business

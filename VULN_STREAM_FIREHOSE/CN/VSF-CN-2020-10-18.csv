@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+59.36.101.95;134763;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 21];2020-10-18 03:58:43;China Telecom Guangdong

@@ -1,0 +1,9 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+104.156.224.178;20473;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 3389];2020-12-25 13:02:23;Choopa, LLC
+107.151.161.37;21859;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389, 445, 8090, 21];2020-12-25 13:25:48;Zenlayer
+208.38.91.20;7029;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 3389];2020-12-25 07:49:17;Windstream Communications
+63.134.215.90;14992;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 110, 143, 80, 53, 25, 443, 3389, 21];2020-12-25 13:23:12;Newtek Technology Solutions
+63.134.216.90;14992;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8080, 53, 3389, 21];2020-12-25 00:53:07;Newtek Technology Solutions
+66.159.61.130;12028;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-12-25 18:05:48;MM Internet
+71.43.147.170;33363;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5060, 5000, 137, 5357, 2222, 5001, 445];2020-12-25 15:11:57;Spectrum Business
+72.253.152.32;36149;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-12-25 10:46:48;Hawaiian Telcom

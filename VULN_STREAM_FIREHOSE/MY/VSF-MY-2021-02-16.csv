@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+121.122.195.199;9534;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[135, 5357, 8080, 37777, 444, 445];2021-02-16 08:20:06;Maxis Communications

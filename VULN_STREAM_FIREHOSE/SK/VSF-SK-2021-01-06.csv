@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+188.121.161.1;43451;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-01-06 04:01:15;RadioLAN
+88.212.29.150;42841;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723];2021-01-06 06:57:13;ANTIK Telecom s.r.o

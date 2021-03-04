@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.193.245.11;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7547];2020-09-14 10:16:58;Claro NET
+189.59.72.74;18881;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8081, 443, 3389];2020-09-14 22:19:02;Vivo
+191.7.217.163;263327;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723];2020-09-14 00:44:07;Online Servicos De Telecomunicacoes Ltda

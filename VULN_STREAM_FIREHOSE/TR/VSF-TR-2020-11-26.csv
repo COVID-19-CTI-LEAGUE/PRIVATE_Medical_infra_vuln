@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.134.185.16;205725;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8001, 9443, 5060, 5222, 8008, 137, 80, 8080, 5269, 443, 3389];2020-11-26 18:53:02;Selcuk Ecza Deposu Ticaret ve Sanayi Anonim Sirket
+185.28.3.115;199484;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 445];2020-11-26 03:32:46;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+185.93.69.228;212369;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 135, 3389, 5985, 445];2020-11-26 14:15:48;ibrahim tufek
+185.93.69.29;42926;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[445, 3389];2020-11-26 20:58:59;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+194.1.192.109;210107;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-11-26 00:18:56;Plusweb Sunucu Internet Hizmetleri Ticaret Limited
+37.75.14.242;199484;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80];2020-11-26 01:45:44;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+45.143.97.24;25145;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 8443, 80, 8880, 995, 53, 22, 25, 443, 21];2020-11-26 08:04:21;Teknotel Telekomunikasyon Sanayi Ve Ticaret A.s.

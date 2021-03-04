@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.18.196.12;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3306, 587, 110, 143, 8880, 53, 25, 8090, 8443, 3389, 21];2020-12-10 06:18:19;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+185.195.51.250;58293;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 3389, 445, 135];2020-12-10 01:49:25;Alfa Iletisim Hizmetleri Pazarlama Ticaret A.s.
+213.155.122.82;8685;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-12-10 00:16:03;Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+46.150.195.220;51947;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8080, 3389, 80, 81, 22, 445];2020-12-26 10:45:42;GeCom s.r.o.

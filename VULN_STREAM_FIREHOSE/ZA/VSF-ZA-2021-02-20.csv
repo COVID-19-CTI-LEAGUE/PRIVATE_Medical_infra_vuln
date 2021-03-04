@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+41.193.51.103;11845;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2021-02-20 13:55:47;Vox Telecom

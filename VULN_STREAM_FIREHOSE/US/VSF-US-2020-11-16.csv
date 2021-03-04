@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+108.59.246.178;26914;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 3389];2020-11-16 02:56:09;Windstream Communications
+24.196.97.242;20115;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[4443, 3389];2020-11-16 08:45:01;Spectrum
+24.233.108.132;11776;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80];2020-11-16 19:47:51;Atlantic Broadband
+38.76.110.164;26375;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-11-16 04:41:20;Airespring
+63.134.216.90;14992;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8080, 53, 3389, 21];2020-11-16 11:59:44;Newtek Technology Solutions
+64.147.49.134;55032;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-11-16 20:34:39;The Jackson Laboratory

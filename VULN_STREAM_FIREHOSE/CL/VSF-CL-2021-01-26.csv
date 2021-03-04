@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+168.232.165.38;52368;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[139, 3389, 135];2021-01-26 10:40:04;Zam Ltda.
+186.103.137.221;15311;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-01-26 01:49:14;Telefonica Empresas

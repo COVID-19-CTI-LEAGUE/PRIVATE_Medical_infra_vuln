@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+186.145.253.34;10620;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 443, 3389, 9443];2020-12-03 00:05:34;Telmex Colombia S.A.
+190.14.248.142;27951;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 443, 80, 37777, 179, 23, 1723, 3389];2020-12-03 02:20:38;Media Commerce Partners S.A
+190.85.80.34;14080;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3306, 3389];2020-12-03 05:20:28;Telmex Colombia S.A.

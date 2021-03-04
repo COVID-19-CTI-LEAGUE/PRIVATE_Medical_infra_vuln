@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.100.206.60;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3306, 3389];2020-12-15 17:19:17;Claro NET
+186.237.4.162;262797;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[10000, 5432, 2323, 3389, 135];2020-12-15 10:38:35;Intervale Informatica Ltda. - Epp.
+187.72.233.165;16735;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7547];2020-12-15 02:43:26;Algar Telecom
+189.62.15.105;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 3389];2020-12-15 16:31:09;Claro NET

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+77.46.204.26;8400;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 5357];2021-03-02 23:47:38;Telekom Srbija

@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.48.180.246;132774;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[135, 5357, 80, 82, 1433, 445];2021-02-10 07:24:08;Niss Internet services private limited
+117.217.127.194;9829;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[37777, 3389];2021-02-10 10:32:37;BSNL

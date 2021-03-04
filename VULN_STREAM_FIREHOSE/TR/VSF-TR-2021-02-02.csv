@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.137.213.33;208002;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2021-02-02 01:06:23;Ng Bilgi Teknoloji Sanayi Ve Ticaret Anonim Sirket

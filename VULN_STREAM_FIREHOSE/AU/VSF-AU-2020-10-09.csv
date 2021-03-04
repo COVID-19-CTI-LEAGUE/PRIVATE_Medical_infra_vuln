@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+58.171.231.111;1221;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[123, 7547, 80, 500, 443, 444, 3389];2020-10-09 00:27:00;Telstra Internet

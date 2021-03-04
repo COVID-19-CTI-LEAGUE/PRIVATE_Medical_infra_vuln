@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+193.38.32.98;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1723, 389, 8080, 443, 25, 4443, 3389];2021-01-21 17:31:49;Totalcloud SAS
+85.25.208.189;8972;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[14147, 3306, 110, 143, 80, 21, 25, 443];2021-01-21 08:46:02;Host Europe GmbH

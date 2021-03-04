@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+115.186.136.228;23674;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8001, 1234, 3389, 1433];2021-01-15 12:38:48;Nayatel (Pvt)

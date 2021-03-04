@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+123.176.71.38;38334;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80];2020-12-04 03:03:16;World Health Organization, Western Pacific Regiona

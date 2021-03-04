@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.134.4.155;138309;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[9000, 8080, 82];2020-09-12 07:36:20;Amar Broadband Pvt
+103.240.8.230;133720;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 1433, 445];2020-09-12 12:08:53;Soft Call Cust-o-care Private Limited
+103.82.42.108;135795;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[1433, 1434, 445, 137];2020-09-12 09:46:52;Silicon Care Broadnet Pvt
+43.255.220.238;133720;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 1433, 445, 135];2020-09-12 06:40:15;Soft Call Cust-o-care Private Limited

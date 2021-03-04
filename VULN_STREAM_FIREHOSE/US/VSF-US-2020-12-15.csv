@@ -1,0 +1,9 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+107.151.161.35;21859;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[999, 445, 80, 21, 8090, 3389];2020-12-15 20:53:33;Zenlayer
+207.144.94.140;7250;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-12-15 17:48:48;Surry Communications
+216.23.202.20;11766;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-12-15 04:34:21;Meriplex Communications
+45.22.214.211;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-12-15 09:22:58;AT&T U-verse
+47.23.144.26;6128;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9000, 8000, 3389, 9001];2020-12-15 03:26:43;Optimum Online
+50.79.141.214;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8000, 3389];2020-12-15 10:35:26;Comcast Business
+69.227.212.218;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 3389];2020-12-15 05:46:43;AT&T Internet Services
+74.121.128.82;53383;{'CVE-2020-5902': 'CVE-2020-5902'};[443];2020-12-15 01:12:12;Hutchinson Regional Medical Center

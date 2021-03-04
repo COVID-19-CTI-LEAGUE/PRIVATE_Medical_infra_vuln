@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.118.115.18;5;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-11-04 05:41:11;Symbolics
+103.245.71.72;131442;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 1433, 445];2020-11-04 09:18:04;Digital Network Associates Pvt
+103.99.149.179;136689;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-11-04 14:31:00;Skylink Fibernet Private Limited
+27.0.61.147;132573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-11-04 11:49:25;SAI NGN Network Services

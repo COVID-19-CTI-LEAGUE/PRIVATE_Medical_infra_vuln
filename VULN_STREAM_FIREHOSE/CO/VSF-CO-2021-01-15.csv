@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+181.33.137.61;3816;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[1024];2021-01-15 01:54:28;Movistar Colombia
+190.14.239.88;27951;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5900, 445, 80, 8888, 8443, 3389];2021-01-15 03:01:41;Media Commerce Partners S.A
+190.69.65.131;3816;{'MS17-010': 'MS17-010'};[445];2021-01-15 21:38:03;Movistar Colombia

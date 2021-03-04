@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.17.180.36;21396;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 21, 3389];2020-12-08 19:11:31;NetConnex Broadband Ltd.

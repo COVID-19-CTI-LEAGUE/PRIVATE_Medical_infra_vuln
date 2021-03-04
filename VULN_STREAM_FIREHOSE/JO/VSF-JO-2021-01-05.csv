@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.96.68.133;50670;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 554, 443, 500, 53];2021-01-05 17:55:59;Vtel Holdings Limited/jordan Co.
+46.32.115.48;48832;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 443, 500, 53];2021-01-05 21:07:32;Zain Jordan

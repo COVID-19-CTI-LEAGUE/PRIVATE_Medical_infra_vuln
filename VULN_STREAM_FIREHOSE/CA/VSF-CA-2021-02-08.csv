@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+24.226.199.243;11290;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 1723, 3389];2021-02-08 04:02:40;Cogeco Cable

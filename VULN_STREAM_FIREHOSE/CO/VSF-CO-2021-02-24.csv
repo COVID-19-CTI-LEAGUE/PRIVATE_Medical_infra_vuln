@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+181.49.227.222;14080;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 3389, 5357, 445, 21];2021-02-24 07:18:30;Telmex Colombia S.A.

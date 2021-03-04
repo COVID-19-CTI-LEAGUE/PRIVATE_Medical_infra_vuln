@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.220.74.71;135356;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 135];2021-02-07 18:21:50;Cn Care Network

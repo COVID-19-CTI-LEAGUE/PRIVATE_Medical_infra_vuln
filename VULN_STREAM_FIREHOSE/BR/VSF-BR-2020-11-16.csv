@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.170.35.208;26599;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1194, 443, 1723, 53];2020-11-16 19:45:34;Vivo
+177.21.200.44;262877;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[10000, 8080, 81, 554, 80, 8081, 8090, 3389, 3390];2020-11-16 06:03:16;Miragenet Telecomunicacoes Ltda
+45.171.117.71;268743;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 137, 123, 3389];2020-11-16 20:29:21;Sociedade Campineira De Educacao E Instrucao

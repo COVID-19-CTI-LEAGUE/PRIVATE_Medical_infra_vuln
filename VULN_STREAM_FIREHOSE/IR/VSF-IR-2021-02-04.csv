@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+78.38.50.190;58224;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 1434, 5357, 445];2021-02-04 07:19:37;Iran Telecommunication Company PJS

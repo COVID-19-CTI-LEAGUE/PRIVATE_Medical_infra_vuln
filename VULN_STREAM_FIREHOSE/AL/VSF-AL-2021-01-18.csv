@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+46.99.255.66;21246;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8089, 443];2021-01-18 04:36:22;IPKO Telecommunications LLC

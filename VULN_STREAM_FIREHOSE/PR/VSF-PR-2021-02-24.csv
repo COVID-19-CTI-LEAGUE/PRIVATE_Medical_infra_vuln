@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+200.5.3.151;23534;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[135, 137, 8010, 110, 143, 80, 21, 25, 443, 445];2021-02-24 16:01:39;Puerto Rico Medical Services Administration

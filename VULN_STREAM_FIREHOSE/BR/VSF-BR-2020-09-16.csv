@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+187.95.29.4;53081;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9001, 1883, 3389];2020-09-16 09:20:44;Netjacarei Telecon Ltda

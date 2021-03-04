@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+153.149.34.20;4713;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-12-19 16:58:19;Cloudn
+202.248.108.242;2510;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-12-19 14:52:26;Fujitsu

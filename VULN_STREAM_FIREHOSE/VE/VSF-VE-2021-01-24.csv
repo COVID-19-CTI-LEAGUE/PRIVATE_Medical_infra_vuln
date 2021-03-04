@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+186.24.9.186;6306;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[161, 8081];2021-01-24 01:12:06;Telefonica Venezolana
+190.216.224.210;3549;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 3389];2021-01-24 13:05:17;Level 3 Venezuela S.A.

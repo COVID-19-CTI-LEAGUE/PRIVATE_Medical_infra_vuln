@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.18.196.142;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 1434, 3389];2020-10-02 16:19:07;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+178.18.205.118;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 21, 1433, 443, 3389, 53];2020-10-02 05:22:54;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+185.134.185.106;205725;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[139, 3389, 445];2020-10-02 06:30:23;Selcuk Ecza Deposu Ticaret ve Sanayi Anonim Sirket
+89.35.52.161;61135;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 5357, 3389];2020-10-02 11:04:01;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.

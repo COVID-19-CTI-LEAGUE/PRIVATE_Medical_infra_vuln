@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.106.183.236;53006;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[554, 7547];2021-02-02 13:21:48;Algar Telecom
+187.95.29.4;53081;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9001, 1883, 3389];2021-02-02 10:35:33;Netjacarei Telecon Ltda
+201.94.203.119;22689;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8081, 3389];2021-02-02 22:35:11;Sercomtel Participacoes S.A.

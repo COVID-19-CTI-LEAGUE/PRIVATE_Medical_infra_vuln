@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+217.100.113.251;33915;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[3389];2020-12-17 09:54:05;Ziggo Business

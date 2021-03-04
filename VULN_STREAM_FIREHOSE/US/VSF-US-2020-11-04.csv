@@ -1,0 +1,13 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+108.175.220.18;54706;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 4443, 3389];2020-11-04 01:05:48;Zray Technologies Corporation
+130.185.183.222;33597;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-11-04 14:48:02;Atlantic Metro Communications II
+173.236.17.237;32475;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 9191, 2121, 80, 8081, 5938, 53, 22, 8090, 4443, 3389, 990, 21];2020-11-04 22:46:25;SingleHop LLC
+50.241.233.49;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 500, 443];2020-11-04 21:24:00;Comcast Business
+63.134.216.90;14992;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8080, 53, 3389, 21];2020-11-04 18:47:43;Newtek Technology Solutions
+64.147.49.134;55032;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-11-04 20:36:21;The Jackson Laboratory
+69.227.212.218;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 3389];2020-11-04 14:24:04;AT&T Internet Services
+70.90.139.133;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8081, 25, 10554, 443, 3389];2020-11-04 17:06:26;Comcast Business
+71.163.239.202;701;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-11-04 05:12:16;Verizon Fios Business
+74.208.71.214;8560;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 995, 3389, 21];2020-11-04 06:49:35;1&1 Internet AG
+96.80.243.213;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-11-04 23:19:39;Comcast Business
+99.125.230.145;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 80, 53, 1434, 1723, 3389];2020-11-04 15:59:41;AT&T Internet Services

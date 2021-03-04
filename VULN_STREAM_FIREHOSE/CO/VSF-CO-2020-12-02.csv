@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+181.49.198.66;14080;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 5357, 135];2020-12-02 18:32:10;Telmex Colombia S.A.
+186.147.129.167;10620;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[1194];2020-12-02 08:25:59;Telmex Colombia S.A.
+190.85.80.34;14080;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3306, 3389];2020-12-02 00:34:45;Telmex Colombia S.A.

@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.109.176.62;133275;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-10-31 02:22:30;Pc Care Airway Infratel Private Limited
+103.6.187.140;133720;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[82, 8443, 5357, 445];2020-10-31 12:58:08;Soft Call Cust-o-care Private Limited
+113.30.141.223;17447;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 443, 3389];2020-10-31 19:51:03;Net4India
+115.112.146.132;4755;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 3389, 2222, 137];2020-10-31 12:59:06;Tata Communications
+117.198.129.142;9829;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 81, 1723, 500, 443];2020-10-31 11:15:17;BSNL
+180.151.232.203;10029;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-10-31 01:49:37;Shyam Spectra Pvt
+202.140.47.118;45769;{'MS17-010': 'MS17-010'};[80, 445];2020-10-31 10:37:42;D-Vois Broadband Pvt

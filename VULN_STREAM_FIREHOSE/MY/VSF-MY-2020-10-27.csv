@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+111.221.53.219;38278;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-10-27 04:13:11;V Telecoms

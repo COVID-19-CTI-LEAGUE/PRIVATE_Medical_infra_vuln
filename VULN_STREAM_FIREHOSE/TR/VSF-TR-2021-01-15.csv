@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.195.51.250;58293;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 3389, 445, 135];2021-01-15 00:25:02;Alfa Iletisim Hizmetleri Pazarlama Ticaret A.s.
+185.28.3.115;199484;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 445];2021-01-15 20:25:47;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+194.1.192.109;210107;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-01-15 09:38:51;Plusweb Sunucu Internet Hizmetleri Ticaret Limited
+213.144.97.67;25145;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5357, 3389, 80, 85, 1433, 445];2021-01-15 06:16:33;Teknotel Telekomunikasyon Sanayi Ve Ticaret A.s.
+37.1.145.250;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 8081, 8083, 84, 21, 1433, 1434, 3389];2021-01-15 22:47:01;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni

@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+132.247.181.2;278;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-11-26 11:17:23;Universidad Nacional Autonoma de Mexico
+187.188.143.154;22884;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5001, 8443];2020-11-26 00:08:52;Totalplay
+189.240.97.6;8151;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 445];2020-11-26 20:54:25;Telmex

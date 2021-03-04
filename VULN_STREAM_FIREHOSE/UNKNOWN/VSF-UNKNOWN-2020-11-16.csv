@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+119.196.44.178;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-11-16 11:52:01;unknown
+45.189.12.234;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 11112, 8291, 3389];2020-11-16 16:44:06;Teralink Telecomunicacoes Eireli

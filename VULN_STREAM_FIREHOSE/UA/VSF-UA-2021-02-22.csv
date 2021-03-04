@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+31.131.115.71;41871;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-02-22 17:01:58;LLC Radiotechichna Laboratoriya
+91.209.235.71;48665;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-02-22 08:54:13;Bukovinian State Medical University

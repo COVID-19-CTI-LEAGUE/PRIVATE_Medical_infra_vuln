@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+91.144.234.179;8273;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8443, 445, 21];2020-12-12 02:53:08;Stofa

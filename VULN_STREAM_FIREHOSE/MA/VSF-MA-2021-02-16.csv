@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+196.74.89.100;36903;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-02-16 08:20:59;Maroc Telecom

@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+212.111.30.212;25424;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443];2021-01-05 15:12:40;InterneXt 2000, s.r.o.
+37.221.250.33;198668;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723];2021-01-05 15:45:28;Tlapnet s.r.o.
+62.209.226.12;5588;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 443];2021-01-05 16:24:30;T-Mobile Czech Republic

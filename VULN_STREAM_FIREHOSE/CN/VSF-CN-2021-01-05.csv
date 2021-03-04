@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+183.129.195.242;4134;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-01-05 17:13:04;China Telecom
+218.77.106.148;4134;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[500];2021-01-05 18:12:45;China Telecom
+36.48.73.152;4134;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[137];2021-01-05 17:13:55;China Telecom

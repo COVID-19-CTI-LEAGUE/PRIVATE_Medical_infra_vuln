@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+1.10.225.0;23969;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7547];2020-12-22 13:58:37;TOT
+202.29.24.238;136624;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 21, 3389];2020-12-22 12:01:45;Sakon Nakhon Rajabhat University
+202.6.18.23;24299;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 137, 3306, 53, 80];2020-12-22 18:53:05;Internet Solution & Service Provider Co.
+223.204.155.232;45629;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[37777];2020-12-22 16:08:46;3BB Broadband

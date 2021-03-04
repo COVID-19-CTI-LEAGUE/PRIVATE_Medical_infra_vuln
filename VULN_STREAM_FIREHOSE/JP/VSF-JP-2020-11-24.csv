@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+117.102.196.137;2514;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-11-24 21:01:32;NTT PC Communications

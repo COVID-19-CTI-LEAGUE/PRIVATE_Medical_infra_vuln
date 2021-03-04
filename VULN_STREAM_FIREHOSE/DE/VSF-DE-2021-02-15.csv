@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+128.90.134.223;22363;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[32400, 445, 139, 3389, 5357];2021-02-15 18:22:20;Powerhouse Management

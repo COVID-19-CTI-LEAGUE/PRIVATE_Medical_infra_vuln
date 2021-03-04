@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.195.51.250;58293;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 3389, 445, 135];2020-10-13 03:52:44;Alfa Iletisim Hizmetleri Pazarlama Ticaret A.s.
+185.28.3.115;199484;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 445];2020-10-13 09:25:55;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+194.1.192.109;210107;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-10-13 17:55:21;Plusweb Sunucu Internet Hizmetleri Ticaret Limited
+89.35.52.161;61135;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 5357, 3389];2020-10-13 17:12:06;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.

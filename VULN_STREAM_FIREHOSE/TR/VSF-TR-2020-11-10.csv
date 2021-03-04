@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.18.196.14;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8880, 8443, 3306, 587, 143, 110, 8111, 80, 8085, 25, 8090, 443, 21, 3389, 53];2020-11-10 18:43:52;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+178.18.196.84;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8880, 8443, 8111, 3306, 587, 110, 143, 80, 53, 2006, 25, 8090, 443, 3389, 8085];2020-11-10 01:37:01;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+178.18.199.122;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9090, 80, 25, 1433, 8090, 443, 3389];2020-11-10 08:09:56;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+178.18.205.106;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 587, 110, 143, 80, 53, 25, 1433, 1434, 443, 3389, 21];2020-11-10 06:32:48;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+185.195.51.250;58293;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 3389, 445, 135];2020-11-10 06:07:35;Alfa Iletisim Hizmetleri Pazarlama Ticaret A.s.
+195.142.109.180;199484;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8083, 445];2020-11-10 10:53:47;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+37.75.10.171;199484;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[139, 3389, 445];2020-11-10 12:38:22;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare

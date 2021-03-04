@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+108.175.220.18;54706;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 4443, 3389];2020-11-03 10:27:20;Zray Technologies Corporation
+155.139.188.250;25609;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-11-03 12:55:26;Detroit Medical Center
+71.229.97.82;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 8081, 1723];2020-11-03 04:45:33;Comcast Cable

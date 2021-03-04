@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+194.152.214.168;5391;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 135];2020-09-28 00:00:42;Hrvatski Telekom

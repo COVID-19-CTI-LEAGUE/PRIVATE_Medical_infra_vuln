@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.28.3.115;199484;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 445];2020-10-25 06:38:39;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+193.164.5.177;61135;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 443, 3389, 445];2020-10-25 13:10:34;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+193.164.5.247;61135;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 445];2020-10-25 10:40:01;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+93.177.101.98;212369;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[993, 2082, 995, 2087, 80, 587, 143, 111, 8080, 465, 2083, 53, 8443, 443];2020-10-25 04:56:02;ibrahim tufek

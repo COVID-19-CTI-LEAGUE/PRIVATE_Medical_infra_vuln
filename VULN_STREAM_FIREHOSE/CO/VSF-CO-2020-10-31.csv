@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+190.14.239.88;27951;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5900, 445, 80, 8888, 8443, 3389];2020-10-31 21:26:43;Media Commerce Partners S.A

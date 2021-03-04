@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+115.112.146.132;4755;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 3389, 2222, 137];2021-01-01 02:41:02;Tata Communications
+122.160.34.89;24560;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8080, 81, 443, 8081];2021-01-01 11:00:27;Airtel Broadband
+43.249.54.42;133275;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[1433, 135];2021-01-01 18:58:45;Gigantic Infotel Pvt
+45.249.40.103;unknown;{'MS17-010': 'MS17-010'};[5985, 9000, 137, 3389, 80, 443, 445];2021-01-01 07:35:49;Soft Call Cust-o-care Private Limited

@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+161.184.238.211;852;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[22];2020-12-25 07:57:48;Telus Communications
+70.51.93.192;577;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 22];2020-12-25 22:00:56;Bell DSL Internet

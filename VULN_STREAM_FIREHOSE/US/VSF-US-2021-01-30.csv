@@ -1,0 +1,9 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+208.38.91.20;7029;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 3389];2021-01-30 20:22:46;Windstream Communications
+216.177.49.30;15076;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9000, 110, 143, 80, 25, 443, 3389];2021-01-30 23:53:26;Delgado Industries, LLC
+216.23.202.20;11766;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-01-30 14:53:06;Meriplex Communications
+64.146.233.83;16713;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-01-30 01:24:01;Northwest Open Access Network
+64.147.49.134;55032;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2021-01-30 14:23:08;The Jackson Laboratory
+71.172.95.234;701;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 3389, 22, 4567];2021-01-30 07:28:48;Verizon Fios Business
+71.172.95.236;701;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389, 22];2021-01-30 04:08:24;Verizon Fios Business
+72.253.152.32;36149;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2021-01-30 05:48:58;Hawaiian Telcom

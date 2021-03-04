@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+167.250.67.94;265204;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9000, 5353, 554, 22, 8090, 3389];2020-11-20 04:51:42;Linkfire Telecom Ltda
+179.104.111.59;53006;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443];2020-11-20 16:57:47;Algar Telecom
+187.21.238.39;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-11-20 23:03:39;Claro NET

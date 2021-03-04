@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+104.214.139.148;8075;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-10-15 08:34:25;Microsoft Azure
+218.219.192.198;4685;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 1433, 445];2020-10-15 12:52:02;Asahi Net

@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.99.149.179;136689;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-26 22:30:51;Skylink Fibernet Private Limited
+182.74.204.158;9498;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 81, 3389, 445];2020-09-26 21:11:22;Airtel
+49.248.166.124;17762;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8008, 80, 3389, 1494];2020-09-26 13:48:57;Tata Teleservices Maharashtra

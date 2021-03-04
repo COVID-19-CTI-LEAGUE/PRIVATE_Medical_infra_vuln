@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+190.110.223.94;22724;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1234, 554, 3389];2020-12-09 20:43:30;Puntonet S.A.

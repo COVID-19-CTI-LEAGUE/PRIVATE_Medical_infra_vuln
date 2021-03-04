@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+70.51.93.192;577;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 22];2020-10-25 23:53:20;Bell DSL Internet

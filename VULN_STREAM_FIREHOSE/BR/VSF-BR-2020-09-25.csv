@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.74.255.25;263653;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 1433, 8291, 3389];2020-09-25 23:23:30;Costa Esmeralda Net Ltda Me
+189.101.116.148;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 22, 631];2020-09-25 12:31:26;Claro NET
+191.7.217.150;263327;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 8291, 21];2020-09-25 07:43:08;Online Servicos De Telecomunicacoes Ltda

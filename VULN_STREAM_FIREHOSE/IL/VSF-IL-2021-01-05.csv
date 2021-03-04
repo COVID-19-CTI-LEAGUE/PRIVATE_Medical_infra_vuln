@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+31.168.44.34;8551;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[10443, 1723, 500, 443, 902];2021-01-05 21:27:20;Bezeq International

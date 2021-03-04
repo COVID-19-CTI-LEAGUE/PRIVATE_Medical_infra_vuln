@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+45.171.117.71;268743;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 137, 123, 3389];2020-10-21 17:58:38;Sociedade Campineira De Educacao E Instrucao

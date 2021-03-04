@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+58.97.8.13;7470;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 50000, 3389];2020-10-05 22:25:18;True Internet
+61.91.36.74;7470;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 137, 21, 445, 135];2020-10-05 09:41:19;True Internet

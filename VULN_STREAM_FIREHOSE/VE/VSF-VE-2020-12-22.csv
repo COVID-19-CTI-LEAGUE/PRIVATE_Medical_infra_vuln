@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+190.216.224.210;3549;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 3389];2020-12-22 18:57:06;Level 3 Venezuela S.A.

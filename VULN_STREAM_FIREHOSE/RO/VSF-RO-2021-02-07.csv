@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+46.214.51.103;48161;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-02-07 15:12:15;Nextgen Communications Srl

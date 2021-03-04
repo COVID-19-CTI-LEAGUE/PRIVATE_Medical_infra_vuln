@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.192.143.205;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1521, 82, 554, 84, 3389];2021-01-24 14:10:35;Claro NET
+177.21.200.44;262877;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[10000, 8080, 81, 554, 80, 8081, 8090, 3389, 3390];2021-01-24 13:18:46;Miragenet Telecomunicacoes Ltda
+187.72.234.3;16735;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7547];2021-01-24 08:39:38;Algar Telecom
+187.95.29.4;53081;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9001, 1883, 3389];2021-01-24 16:13:55;Netjacarei Telecon Ltda
+201.37.133.166;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1024, 9001, 9002, 8081];2021-01-24 18:18:31;NET Virtua

@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.18.199.126;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9090, 80, 1433, 25, 8090, 443, 3389];2021-01-06 08:26:29;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+37.75.13.138;199484;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-01-06 23:51:50;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+45.139.221.64;25145;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[2000, 445, 5357, 3389];2021-01-06 03:43:19;Teknotel Telekomunikasyon Sanayi Ve Ticaret A.s.
+45.143.97.24;25145;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 8443, 80, 8880, 995, 53, 22, 25, 443, 21];2021-01-06 05:44:08;Teknotel Telekomunikasyon Sanayi Ve Ticaret A.s.

@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+212.248.72.121;8359;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-11-23 08:18:08;MTS PJSC
+91.226.122.188;43274;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[135];2020-11-23 02:47:33;Teleradiocompany Teleos-1 Ltd
+95.154.135.25;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-11-23 07:57:55;Production co-operative Economic-legal laboratory
+95.154.171.178;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-11-23 18:10:13;Production co-operative Economic-legal laboratory
+95.154.187.161;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-11-23 18:08:21;Production co-operative Economic-legal laboratory

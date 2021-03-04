@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+207.243.147.56;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2021-01-10 18:18:22;AT&T Internet Services
+24.43.41.54;20001;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2021-01-10 05:45:06;Spectrum Business
+68.99.159.47;22773;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-01-10 04:42:06;Cox Business
+71.48.206.183;209;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[4567];2021-01-10 10:22:32;CenturyLink
+74.208.68.43;8560;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2021-01-10 23:09:50;1&1 Internet AG
+96.46.80.139;18435;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5800, 137, 445, 135];2021-01-10 23:29:53;The Junction Internet, LLC

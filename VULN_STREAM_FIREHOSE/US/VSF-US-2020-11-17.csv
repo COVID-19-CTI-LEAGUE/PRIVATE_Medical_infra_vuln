@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+12.238.243.194;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 2555, 110, 143, 80, 443, 3389];2020-11-17 15:01:18;AT&T Services
+173.164.253.49;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-11-17 23:37:06;Comcast Business
+216.114.78.4;6428;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 21];2020-11-17 15:25:08;River City Internet Group (Primary Networks)
+64.57.61.99;29831;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 3389, 110, 143];2020-11-17 10:33:14;Fone Net, LLC

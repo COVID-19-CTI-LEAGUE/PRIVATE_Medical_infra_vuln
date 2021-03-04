@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+190.148.148.235;14754;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[135, 137, 5357, 3389, 80, 8081, 21, 8086, 1433, 1434, 445];2020-12-08 20:10:50;Claro Guatemala Static IP

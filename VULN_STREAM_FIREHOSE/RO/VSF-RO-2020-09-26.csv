@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+78.97.73.189;6830;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[88, 3050, 3389];2020-09-26 16:56:51;Liberty Global B.V.

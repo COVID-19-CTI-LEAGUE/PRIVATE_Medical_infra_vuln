@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+142.112.73.65;577;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 5060, 5001, 80, 443, 3389];2021-02-14 14:59:05;Bell Canada
+207.245.204.130;15290;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5009, 8443, 3389];2021-02-14 18:55:53;Allstream Corp.
+70.65.210.7;6327;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2021-02-14 23:17:33;Shaw Communications

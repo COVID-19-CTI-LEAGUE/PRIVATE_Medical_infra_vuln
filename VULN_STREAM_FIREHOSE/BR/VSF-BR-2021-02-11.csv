@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+189.62.15.105;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 3389];2021-02-11 18:32:30;Claro NET
+191.53.188.230;28202;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-02-11 12:13:55;Rede Brasileira de Comunicacao S/A

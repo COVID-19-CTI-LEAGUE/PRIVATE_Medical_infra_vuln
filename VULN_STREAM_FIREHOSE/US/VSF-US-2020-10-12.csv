@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+107.151.161.36;21859;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 445, 3389, 21];2020-10-12 01:09:20;Zenlayer
+12.238.243.194;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 2555, 110, 143, 80, 443, 3389];2020-10-12 22:59:06;AT&T Services
+63.134.216.90;14992;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8080, 53, 3389, 21];2020-10-12 20:24:10;Newtek Technology Solutions
+69.92.72.250;11492;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-10-12 13:47:57;Sparklight
+71.9.32.232;20115;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-10-12 17:00:20;Spectrum

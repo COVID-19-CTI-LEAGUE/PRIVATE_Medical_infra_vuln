@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+61.7.132.135;131090;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 7547, 443];2020-12-18 11:31:06;CAT Telecom

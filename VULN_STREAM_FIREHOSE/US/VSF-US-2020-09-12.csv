@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+155.139.188.250;25609;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-09-12 19:48:23;Detroit Medical Center
+207.38.169.225;6079;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-12 18:58:08;RCN
+50.242.157.82;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 500, 443];2020-09-12 16:49:06;Comcast Business
+50.253.100.2;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-12 10:16:33;Comcast Business
+64.147.49.134;55032;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-09-12 20:20:04;The Jackson Laboratory

@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.99.149.179;136689;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-23 11:44:39;Skylink Fibernet Private Limited
+122.179.131.125;24560;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5357, 445];2020-09-23 07:45:09;Airtel Broadband
+13.233.180.98;16509;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-23 22:07:23;Amazon.com

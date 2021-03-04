@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+201.251.125.128;22927;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 5938, 3389];2020-10-20 03:02:33;Telefonica de Argentina

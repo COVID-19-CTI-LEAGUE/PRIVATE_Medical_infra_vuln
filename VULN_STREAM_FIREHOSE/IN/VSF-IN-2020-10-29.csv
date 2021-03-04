@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.240.8.230;133720;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 1433, 445];2020-10-29 17:26:11;Soft Call Cust-o-care Private Limited
+164.164.87.51;7633;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-10-29 12:50:32;Software Technology Parks of India - Bangalore
+180.151.49.130;10029;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 389, 9191, 5353, 445, 2000, 88, 53, 8888, 123, 3389, 21];2020-10-29 00:59:06;Shyam Spectra Pvt

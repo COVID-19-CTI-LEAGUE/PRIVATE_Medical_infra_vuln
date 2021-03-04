@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.99.149.179;136689;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-11-16 05:28:27;Skylink Fibernet Private Limited
+112.133.213.132;24186;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 500, 3389];2020-11-16 22:34:46;RailTel Corporation Of India Ltd.

@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+109.246.144.124;25178;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 135];2021-02-06 22:22:06;PCCW Global Networks (UK) PLC
+92.207.123.53;31655;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1723, 443, 3389];2021-02-06 06:12:33;Gamma Telecom

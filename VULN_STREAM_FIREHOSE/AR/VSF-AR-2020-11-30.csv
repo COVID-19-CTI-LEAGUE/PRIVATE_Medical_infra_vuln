@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+200.5.83.206;10834;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[9600, 5000, 554, 80, 5010, 83, 445];2020-11-30 14:00:43;Telefonica de Argentina

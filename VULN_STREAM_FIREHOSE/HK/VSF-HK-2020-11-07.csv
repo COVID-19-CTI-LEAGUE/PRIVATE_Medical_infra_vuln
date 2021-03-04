@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+101.78.223.102;9381;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 445, 21];2020-11-07 22:54:44;Hong Kong Broadband Network

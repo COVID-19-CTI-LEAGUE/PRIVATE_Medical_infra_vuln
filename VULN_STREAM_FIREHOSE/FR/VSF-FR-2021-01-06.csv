@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+176.158.182.204;5410;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[993, 1723, 587, 143, 465, 500, 25, 443];2021-01-06 01:20:02;Bouygues Telecom
+80.11.48.110;3215;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8443];2021-01-06 09:40:18;Orange
+80.14.189.104;3215;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[10443, 8443];2021-01-06 08:32:44;Orange

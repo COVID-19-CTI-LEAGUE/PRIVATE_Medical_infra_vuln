@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+193.108.104.214;20699;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 2000, 8291, 53, 22];2020-09-25 13:54:31;SLW Internet Service Ltd.

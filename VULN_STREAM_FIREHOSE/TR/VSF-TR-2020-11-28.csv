@@ -1,0 +1,11 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+176.235.94.90;34984;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[500, 8443, 5060, 9999];2020-11-28 02:04:23;Turkcell Superonline
+178.18.196.83;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 587, 110, 143, 8880, 21, 25, 8090, 8443, 3389, 53];2020-11-28 21:05:02;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+178.18.196.86;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8880, 3306, 587, 110, 143, 80, 21, 8085, 25, 8090, 8443, 3389, 53];2020-11-28 14:02:09;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+185.195.51.250;58293;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 3389, 445, 135];2020-11-28 09:38:59;Alfa Iletisim Hizmetleri Pazarlama Ticaret A.s.
+185.93.69.13;212369;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 8080, 8083, 445, 135];2020-11-28 17:43:12;ibrahim tufek
+185.93.69.226;212369;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5985, 135, 137, 139, 3389, 445];2020-11-28 21:13:09;ibrahim tufek
+213.142.148.15;212219;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-11-28 08:45:39;Hosting Dunyam Internet Hizmetleri
+213.155.122.82;8685;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-11-28 10:05:24;Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.
+89.35.52.55;61135;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5985, 5357, 445, 3389];2020-11-28 20:05:33;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+89.35.52.6;212369;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[445, 135];2020-11-28 11:33:58;ibrahim tufek

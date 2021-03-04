@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+186.4.186.10;27947;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[1433, 137];2020-10-14 05:34:26;Netlife

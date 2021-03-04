@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.18.205.222;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 587, 110, 143, 8080, 21, 1433, 25, 1434, 3389, 53];2021-01-27 14:36:25;Vargonen Network
+185.137.213.33;208002;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2021-01-27 11:12:36;Ng Bilgi Teknoloji Sanayi Ve Ticaret Anonim Sirket
+213.155.122.82;8685;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2021-01-27 12:48:11;Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.

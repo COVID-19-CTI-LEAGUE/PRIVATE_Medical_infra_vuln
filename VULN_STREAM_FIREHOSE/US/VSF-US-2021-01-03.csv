@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+108.175.220.18;54706;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 4443, 3389];2021-01-03 03:01:23;Zray Technologies Corporation
+207.144.94.140;7250;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2021-01-03 07:12:06;Surry Communications
+64.18.108.215;19830;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389, 22];2021-01-03 17:34:31;The Ringgold Telephone Company
+68.99.159.47;22773;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-01-03 20:25:20;Cox Business
+70.90.139.133;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8081, 25, 10554, 443, 3389];2021-01-03 00:01:48;Comcast Business

@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+187.104.112.6;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8888, 7547, 3389];2020-12-13 16:15:41;NET Virtua
+187.73.101.198;53048;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[161, 1723, 500, 53];2020-12-13 21:15:52;Celante Servicos De Telecomunicacoes Ltda - Epp
+45.171.117.71;268743;{'MS17-010': 'MS17-010'};[2000, 137, 123, 3389];2020-12-13 01:47:25;Sociedade Campineira De Educacao E Instrucao

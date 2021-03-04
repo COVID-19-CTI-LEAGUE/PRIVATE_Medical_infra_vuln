@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+192.104.147.56;5470;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 3389, 5357];2021-02-11 09:05:33;Aristotle University of Thessaloniki

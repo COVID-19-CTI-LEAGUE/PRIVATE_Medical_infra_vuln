@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+2.136.91.128;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-11-25 20:24:25;Telefonica de Espana Static IP
+81.46.215.31;16371;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 3389, 22222];2020-11-25 14:03:18;acens Technologies, S.L.

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+161.184.238.245;852;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[135, 137, 5357, 445, 1433, 3389];2021-01-28 23:53:50;Telus Communications

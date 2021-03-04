@@ -1,0 +1,10 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+107.151.161.34;21859;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 21, 3389, 445];2021-02-02 07:49:24;Zenlayer
+107.151.161.35;21859;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[999, 445, 80, 21, 8090, 3389];2021-02-02 23:57:15;Zenlayer
+108.175.220.18;54706;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 4443, 3389];2021-02-02 10:39:39;Zray Technologies Corporation
+165.166.79.211;2711;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-02-02 13:08:50;Spirit Communications
+34.69.245.108;15169;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-02-02 12:21:29;Google Cloud
+47.23.144.26;6128;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9000, 8000, 3389, 9001];2021-02-02 06:34:16;Optimum Online
+69.227.212.218;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 3389];2021-02-02 12:57:42;AT&T Internet Services
+72.253.152.32;36149;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2021-02-02 06:25:46;Hawaiian Telcom
+75.118.42.75;12083;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 3389, 110];2021-02-02 01:50:49;WideOpenWest

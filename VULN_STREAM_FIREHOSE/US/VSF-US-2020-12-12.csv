@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+199.116.137.118;36489;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 443, 3389];2020-12-12 20:10:06;Netsolus.com
+24.119.87.198;11492;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9000, 5800, 5900, 80, 8081, 21, 25, 3389];2020-12-12 01:18:39;Sparklight
+50.253.100.2;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-12-12 19:07:17;Comcast Business
+64.57.61.99;29831;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 3389, 110, 143];2020-12-12 02:33:33;Fone Net, LLC
+68.99.159.47;22773;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-12-12 08:29:50;Cox Business
+71.172.95.235;701;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 3389, 22];2020-12-12 15:48:52;Verizon Fios Business

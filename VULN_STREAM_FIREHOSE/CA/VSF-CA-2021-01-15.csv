@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+216.168.114.202;11666;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2021-01-15 06:57:49;Nexicom

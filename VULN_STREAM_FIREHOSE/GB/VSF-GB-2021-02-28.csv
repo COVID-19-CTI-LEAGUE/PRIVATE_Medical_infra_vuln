@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+109.246.137.217;25178;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2021-02-28 18:52:17;Optify Mediaforce Limited
+109.246.145.42;25178;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 5357];2021-02-28 13:59:12;Optify Mediaforce Limited

@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+107.151.161.38;21859;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[999, 445, 80, 21, 6588, 3389];2020-10-25 01:16:25;Zenlayer
+151.181.56.235;16657;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-10-25 03:45:58;Lightower Fiber Networks I, LLC
+199.116.137.118;36489;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 443, 3389];2020-10-25 11:09:16;Netsolus.com
+34.69.245.108;15169;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-10-25 17:52:31;Google Cloud
+4.4.48.5;3356;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-10-25 23:22:04;Level 3 Communications
+66.159.61.130;12028;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-10-25 05:57:39;MM Internet

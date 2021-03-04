@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.93.69.13;212369;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 8080, 8083, 445, 135];2020-11-02 22:42:59;ibrahim tufek
+213.155.122.82;8685;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-11-02 01:47:05;Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.
+37.1.145.250;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 8081, 8083, 84, 21, 1433, 1434, 3389];2020-11-02 04:10:23;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+89.35.52.153;61135;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 3389];2020-11-02 14:11:46;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+93.115.10.223;61135;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[3389, 445];2020-11-02 08:01:18;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.

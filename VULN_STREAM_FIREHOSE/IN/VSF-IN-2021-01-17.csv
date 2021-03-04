@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.109.176.62;133275;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-01-17 09:38:07;Pc Care Airway Infratel Private Limited
+113.30.141.224;17447;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 3389, 21];2021-01-17 09:42:31;Net4India
+122.160.34.89;24560;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8080, 81, 443, 8081];2021-01-17 08:29:15;Airtel Broadband
+164.164.87.51;7633;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-01-17 15:21:51;Software Technology Parks of India - Bangalore

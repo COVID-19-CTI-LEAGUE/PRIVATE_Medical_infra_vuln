@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.18.196.14;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8880, 8443, 3306, 587, 143, 110, 8111, 80, 8085, 25, 8090, 443, 21, 3389, 53];2020-10-17 21:14:48;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+178.18.196.83;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 587, 110, 143, 8880, 21, 25, 8090, 8443, 3389, 53];2020-10-17 04:32:41;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+89.35.52.122;61135;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 3389];2020-10-17 19:03:23;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.

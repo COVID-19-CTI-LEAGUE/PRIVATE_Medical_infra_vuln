@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.208.220.84;205718;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 1723, 135, 8181, 445];2021-02-13 05:14:34;Alcort Ingenieria Y Asesoria S.l.
+213.98.157.1;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2021-02-13 02:03:26;Telefonica de Espana Static IP
+37.222.98.216;12430;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 5357];2021-02-13 01:53:14;Vodafone Spain
+46.27.250.129;12430;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5060, 3389];2021-02-13 10:32:12;Vodafone Spain
+88.18.48.68;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-02-13 18:30:34;Telefonica de Espana Static IP
+88.2.252.76;3352;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[1194, 443];2021-02-13 22:19:41;Telefonica de Espana Static IP

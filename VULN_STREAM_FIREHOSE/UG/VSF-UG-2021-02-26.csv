@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+41.220.9.202;29032;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 3389];2021-02-26 00:24:33;Datanet LLC

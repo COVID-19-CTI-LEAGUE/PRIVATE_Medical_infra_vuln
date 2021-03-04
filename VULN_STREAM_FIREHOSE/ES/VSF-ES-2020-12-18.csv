@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+212.4.126.191;29231;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 1433, 2000];2020-12-18 07:54:45;Grupalia Internet S.A.
+46.27.250.129;12430;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5060, 3389];2020-12-18 16:10:36;Vodafone Spain
+95.63.178.206;12430;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8090, 123, 443];2020-12-18 12:38:12;Vodafone Spain

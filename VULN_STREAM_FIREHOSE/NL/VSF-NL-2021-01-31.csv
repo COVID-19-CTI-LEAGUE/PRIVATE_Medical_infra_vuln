@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+46.243.239.120;46562;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80];2021-01-31 15:50:54;Performive

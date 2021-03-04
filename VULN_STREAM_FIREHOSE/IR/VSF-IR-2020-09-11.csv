@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+194.225.51.24;43965;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8080, 1010, 21, 1433, 3389];2020-09-11 21:02:07;Tehran University of Medical Science

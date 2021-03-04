@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+152.115.52.130;31027;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[37777, 554, 1723, 10443];2021-01-06 00:21:33;GlobalConnect NN A/S
+80.63.85.94;3292;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443];2021-01-06 05:27:37;TDC Danmark

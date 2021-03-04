@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+91.135.22.147;41898;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[993, 443, 587, 110, 80, 995, 53, 25, 1723, 10000];2021-01-05 18:47:43;SIA Datu Tehnologiju Grupa

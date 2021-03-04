@@ -1,0 +1,11 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+100.32.201.58;5650;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723];2020-12-23 04:53:26;Frontier Communications
+108.27.225.146;701;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-12-23 15:28:14;Verizon Fios Business
+12.237.88.3;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 3389];2020-12-23 15:16:50;AT&T Services
+162.210.7.174;15108;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-12-23 20:46:09;Allo Communications LLC
+198.101.238.79;33070;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 5986, 3389];2020-12-23 13:46:53;Rackspace Cloud Servers
+24.111.133.26;11232;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2121, 110, 80, 25, 26, 443, 3389];2020-12-23 12:19:57;Midco
+24.43.41.54;20001;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-12-23 19:16:03;Spectrum Business
+50.242.157.82;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 500, 443];2020-12-23 15:42:09;Comcast Business
+50.79.141.214;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8000, 3389];2020-12-23 17:20:47;Comcast Business
+98.101.161.139;11426;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 5357];2020-12-23 17:44:21;Spectrum Business

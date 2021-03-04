@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+108.175.220.18;54706;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 4443, 3389];2020-11-12 14:55:36;Zray Technologies Corporation
+24.111.133.26;11232;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2121, 110, 80, 25, 26, 443, 3389];2020-11-12 03:28:22;Midco
+66.186.165.124;21547;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-11-12 15:06:15;Oxford Networks
+72.175.221.194;33588;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9595, 3389, 5357];2020-11-12 22:36:55;Spectrum
+72.253.152.32;36149;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-11-12 04:22:00;Hawaiian Telcom

@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+155.139.188.250;25609;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2021-02-27 20:59:04;Detroit Medical Center
+192.31.88.129;302;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 135];2021-02-27 01:07:52;Baylor College of Medicine
+216.177.49.30;15076;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9000, 110, 143, 80, 25, 443, 3389];2021-02-27 17:35:42;Delgado Industries, LLC
+67.128.169.2;209;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 3389];2021-02-27 16:47:29;CenturyLink
+69.43.35.76;6536;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5357, 135, 445, 3389];2021-02-27 17:00:32;CityNet
+75.118.42.75;12083;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 3389, 110];2021-02-27 17:45:20;WideOpenWest
+96.11.186.22;10796;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2021-02-27 02:18:18;Spectrum Business

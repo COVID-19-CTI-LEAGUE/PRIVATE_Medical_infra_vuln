@@ -1,0 +1,10 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+108.175.220.18;54706;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 4443, 3389];2020-09-14 17:27:01;Zray Technologies Corporation
+12.238.243.194;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 2555, 110, 143, 80, 443, 3389];2020-09-14 18:38:35;AT&T Services
+155.139.187.250;25609;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-09-14 00:01:26;Detroit Medical Center
+204.16.247.202;20326;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[445, 135];2020-09-14 17:45:02;TeraSwitch Networks
+216.23.202.20;11766;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-14 20:35:43;Meriplex Communications
+24.44.16.74;6128;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[1194, 1723, 445];2020-09-14 05:02:33;Optimum Online
+71.14.161.82;20115;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 8080, 500, 8088, 443, 3389];2020-09-14 10:37:12;Spectrum
+71.255.153.166;13977;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-14 21:59:49;Consolidated Communications
+75.145.94.209;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389, 22];2020-09-14 02:07:52;Comcast Business

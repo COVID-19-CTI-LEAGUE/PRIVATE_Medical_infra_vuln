@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+139.5.27.201;133720;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 21, 3389];2020-09-30 12:37:53;Soft Call Cust-o-care Private Limited
+180.151.49.130;10029;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 389, 9191, 5353, 445, 2000, 88, 53, 8888, 123, 3389, 21];2020-09-30 20:29:34;Shyam Spectra Pvt

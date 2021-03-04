@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+115.73.130.193;7552;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5357, 445];2021-02-09 18:38:13;Viettel Group

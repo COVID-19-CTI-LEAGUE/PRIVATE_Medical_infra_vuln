@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+216.114.78.101;6428;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 5357, 3389];2020-12-22 05:06:10;River City Internet Group (Primary Networks)
+24.205.248.226;20115;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 443, 5900, 21, 3389];2020-12-22 09:23:05;Spectrum
+24.233.108.132;11776;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80];2020-12-22 07:43:07;Atlantic Broadband
+68.99.159.47;22773;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-12-22 19:06:11;Cox Business
+75.108.61.27;19108;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-12-22 03:37:37;Suddenlink Communications
+99.125.230.145;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 80, 53, 1434, 1723, 3389];2020-12-22 07:36:48;AT&T Internet Services

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+89.116.232.203;15419;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[3389, 445, 5357];2020-11-20 01:35:36;SC Lithuanian Radio and TV Center

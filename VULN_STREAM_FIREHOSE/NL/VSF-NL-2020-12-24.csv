@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.53.160.21;50673;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5060, 135, 5000, 5001, 445, 80, 53, 25, 3389];2020-12-24 02:16:59;Serverius Holding B.V.

@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+195.35.217.166;33915;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723];2021-01-05 16:44:27;Ziggo Business
+217.100.47.138;33915;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[5001, 443, 500];2021-01-05 16:34:46;Ziggo Business
+77.163.126.174;1136;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8080, 8443, 443, 22];2021-01-05 20:29:02;KPN

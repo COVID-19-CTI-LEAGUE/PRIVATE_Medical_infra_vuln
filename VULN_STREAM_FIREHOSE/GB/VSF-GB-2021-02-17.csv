@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.17.180.246;21396;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 21];2021-02-17 23:00:20;Nimbus Hosting Ltd.
+212.42.168.103;12519;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 5357, 445, 135];2021-02-17 23:09:44;FastNet International Ltd
+83.218.138.26;16082;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 1723, 443, 3389];2021-02-17 05:58:08;Spitfire Network Services Limited
+85.13.217.51;31708;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-02-17 17:53:59;Coreix Ltd

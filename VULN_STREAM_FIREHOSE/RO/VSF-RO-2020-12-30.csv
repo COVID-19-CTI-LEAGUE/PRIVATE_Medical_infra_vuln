@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+92.84.32.26;9050;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8080, 5800, 554, 5900, 80];2020-12-30 21:43:54;Telekom Romania

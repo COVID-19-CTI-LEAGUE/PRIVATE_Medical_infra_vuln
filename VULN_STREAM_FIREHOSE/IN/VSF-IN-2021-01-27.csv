@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.137.92.51;136334;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2021-01-27 08:10:03;Vortex Netsol
+103.88.129.133;136335;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[20000, 135, 5357, 3389, 80, 1434, 445];2021-01-27 12:56:00;Mtel Networks Private Limited
+182.71.211.10;9498;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 443, 3389];2021-01-27 01:22:48;Airtel
+43.249.54.42;133275;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[1433, 135];2021-01-27 06:31:30;Gigantic Infotel Pvt
+43.255.221.84;133720;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-01-27 06:31:49;Soft Call Cust-o-care Private Limited

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+79.111.156.4;12714;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 8291, 8001, 443, 2000, 82, 1723, 3389];2020-10-04 06:41:15;Net By Net Holding LLC

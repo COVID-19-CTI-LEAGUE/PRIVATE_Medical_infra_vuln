@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+194.141.68.193;6802;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[32400, 5938, 445, 2022];2020-11-12 03:26:58;Medical University - Pleven
+84.238.209.30;31435;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 88, 3389];2020-11-12 08:02:57;Medicom Bulgaria Ood

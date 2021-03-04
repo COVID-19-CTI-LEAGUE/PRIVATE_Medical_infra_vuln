@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+212.42.37.149;12314;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[3389, 445, 135];2020-11-17 08:46:13;RopNet
+5.32.145.114;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-11-17 18:46:35;Production co-operative Economic-legal laboratory
+95.154.137.242;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-11-17 06:29:21;Production co-operative Economic-legal laboratory
+95.154.139.89;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-11-17 09:44:19;Production co-operative Economic-legal laboratory
+95.154.149.125;43714;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-11-17 15:16:10;Production co-operative Economic-legal laboratory
+95.154.156.73;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-11-17 05:38:54;Production co-operative Economic-legal laboratory
+95.154.165.127;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-11-17 20:12:56;Production co-operative Economic-legal laboratory

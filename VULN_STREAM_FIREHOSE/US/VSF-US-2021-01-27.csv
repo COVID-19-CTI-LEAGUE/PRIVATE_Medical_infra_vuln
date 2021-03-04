@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+107.151.161.37;21859;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389, 445, 8090, 21];2021-01-27 10:05:30;Zenlayer
+136.56.54.238;16591;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 10243, 135, 445, 5357];2021-01-27 18:50:25;Google Fiber
+155.139.188.250;25609;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2021-01-27 04:40:09;Detroit Medical Center
+198.101.238.79;33070;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 5986, 3389];2021-01-27 15:01:33;Rackspace Cloud Servers
+64.147.49.134;55032;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2021-01-27 20:17:18;The Jackson Laboratory
+71.172.95.235;701;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 3389, 22];2021-01-27 15:17:41;Verizon Fios Business
+72.48.89.16;7459;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-01-27 16:11:07;Grande Communications

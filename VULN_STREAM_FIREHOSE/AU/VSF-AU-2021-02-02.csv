@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+101.180.101.100;1221;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 135];2021-02-02 18:21:18;Telstra Internet

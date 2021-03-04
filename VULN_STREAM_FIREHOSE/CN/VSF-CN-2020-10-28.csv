@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+210.14.134.174;56019;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[993, 995, 389, 587, 5357, 110, 143, 80, 6001, 6004, 53, 8086, 1433, 88, 25, 123, 636, 3389];2020-10-28 19:23:49;Beijing ShuJuJia Technology Co.

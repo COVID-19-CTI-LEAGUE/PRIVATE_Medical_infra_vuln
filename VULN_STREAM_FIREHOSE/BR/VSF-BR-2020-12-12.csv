@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+187.95.29.4;53081;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9001, 1883, 3389];2020-12-12 17:15:13;Netjacarei Telecon Ltda
+189.127.15.14;27693;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 8081, 8080, 445];2020-12-12 00:25:20;NipCable do Brasil Telecom LTDA
+189.62.15.105;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 3389];2020-12-12 01:51:52;Claro NET

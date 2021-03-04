@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+217.128.246.127;3215;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[389, 3389, 80, 88, 123, 445];2021-01-31 13:07:44;Orange
+85.25.208.189;8972;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[14147, 3306, 110, 143, 80, 21, 25, 443];2021-01-31 22:37:11;Host Europe GmbH

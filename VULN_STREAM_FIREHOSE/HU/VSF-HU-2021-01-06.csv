@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+193.151.118.250;8462;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443];2021-01-06 06:26:31;Tarr Kft.
+46.139.70.138;5483;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[9000, 554, 443, 1723];2021-01-06 09:54:50;Magyar Telekom

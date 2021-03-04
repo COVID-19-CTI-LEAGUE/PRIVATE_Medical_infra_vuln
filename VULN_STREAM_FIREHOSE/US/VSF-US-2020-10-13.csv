@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+107.151.161.35;21859;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[999, 445, 80, 21, 8090, 3389];2020-10-13 02:57:01;Zenlayer
+199.101.184.190;31863;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 445];2020-10-13 03:45:27;Centrilogic
+47.22.16.106;6128;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-10-13 11:53:47;Optimum Online
+50.79.141.214;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8000, 3389];2020-10-13 10:11:16;Comcast Business
+66.159.61.130;12028;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-10-13 19:49:16;MM Internet

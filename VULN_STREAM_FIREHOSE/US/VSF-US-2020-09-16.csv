@@ -1,0 +1,9 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+12.222.170.237;16571;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-09-16 01:35:28;Kings Daughters Medical Center
+130.185.183.222;33597;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-09-16 01:24:16;Atlantic Metro Communications II
+216.23.202.20;11766;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-16 10:56:59;Meriplex Communications
+38.109.180.207;174;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389, 21];2020-09-16 06:33:02;Cogent Communications
+47.22.16.106;6128;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-16 23:02:42;Optimum Online
+52.251.124.72;8075;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 111];2020-09-16 20:02:19;Microsoft Azure
+63.134.216.90;14992;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8080, 53, 3389, 21];2020-09-16 00:55:55;Newtek Technology Solutions
+69.227.212.218;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 3389];2020-09-16 06:03:20;AT&T Internet Services

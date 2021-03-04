@@ -1,0 +1,12 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+136.56.45.70;16591;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 10243, 445, 7547];2020-09-25 14:48:42;Google Fiber
+148.170.225.3;393731;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-25 19:22:48;Fusion Voice and Data Corp.
+198.101.238.79;33070;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 5986, 3389];2020-09-25 08:14:12;Rackspace Cloud Servers
+198.36.201.146;209;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25];2020-09-25 13:50:28;CenturyLink
+216.180.152.178;23314;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3388, 445, 80, 443, 444, 3389];2020-09-25 23:44:35;Summit Broadband
+24.119.87.198;11492;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9000, 5800, 5900, 80, 8081, 21, 25, 3389];2020-09-25 20:47:15;Sparklight
+38.122.130.181;174;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-09-25 10:58:13;Cogent Communications
+38.76.110.164;26375;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-09-25 14:17:57;Airespring
+52.144.120.133;395861;{'CVE-2020-5902': 'CVE-2020-5902'};[443];2020-09-25 11:34:11;Medical Imaging Associates of Idaho Falls, P.A.
+64.4.231.2;11090;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-25 18:51:44;MTA Solutions
+69.227.212.218;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 3389];2020-09-25 12:48:12;AT&T Internet Services

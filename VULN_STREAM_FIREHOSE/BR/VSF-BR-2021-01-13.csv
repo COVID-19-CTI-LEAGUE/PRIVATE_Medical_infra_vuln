@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+189.127.15.14;27693;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 8081, 8080, 445];2021-01-13 09:21:35;NipCable do Brasil Telecom LTDA

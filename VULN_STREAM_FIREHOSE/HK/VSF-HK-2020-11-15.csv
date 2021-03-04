@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+210.184.46.8;4058;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 3389, 445];2020-11-15 11:37:52;CITIC Telecom International CPC Limited

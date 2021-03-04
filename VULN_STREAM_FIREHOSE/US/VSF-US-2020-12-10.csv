@@ -1,0 +1,11 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+12.109.102.250;40098;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-12-10 21:37:49;Community Antenna Service
+130.185.183.222;33597;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-12-10 08:47:42;Atlantic Metro Communications II
+162.210.7.174;15108;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-12-10 01:54:14;Allo Communications LLC
+165.166.79.211;2711;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-12-10 13:06:43;Spirit Communications
+174.71.229.10;22773;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 22];2020-12-10 05:20:07;Cox Business
+206.71.169.118;21581;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-12-10 20:37:41;M5 Computer Security
+50.242.157.82;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 500, 443];2020-12-10 08:32:35;Comcast Business
+64.147.49.134;55032;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-12-10 14:00:21;The Jackson Laboratory
+64.251.13.33;15083;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 135, 3389, 53];2020-12-10 09:38:48;Infolink Global Corporation
+71.172.95.236;701;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389, 22];2020-12-10 12:01:50;Verizon Fios Business

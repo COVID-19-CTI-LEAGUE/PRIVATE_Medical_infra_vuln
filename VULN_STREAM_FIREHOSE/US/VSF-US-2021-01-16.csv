@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+206.74.122.132;2711;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 137, 1434, 3389, 1311];2021-01-16 01:15:07;Spirit Communications
+207.144.94.140;7250;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2021-01-16 12:31:46;Surry Communications
+216.177.49.30;15076;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9000, 110, 143, 80, 25, 443, 3389];2021-01-16 11:25:32;Delgado Industries, LLC
+64.251.13.33;15083;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 135, 3389, 53];2021-01-16 02:39:03;Infolink Global Corporation
+71.254.208.162;701;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8080, 5357];2021-01-16 21:05:53;Verizon Fios
+74.218.184.134;11426;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5357, 445];2021-01-16 02:09:25;Spectrum Business

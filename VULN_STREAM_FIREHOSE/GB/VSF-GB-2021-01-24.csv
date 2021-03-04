@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+109.246.145.43;25178;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 135, 9013, 5357];2021-01-24 00:02:36;Optify Mediaforce Limited
+185.17.180.246;21396;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 21];2021-01-24 10:39:32;Nimbus Hosting Ltd.

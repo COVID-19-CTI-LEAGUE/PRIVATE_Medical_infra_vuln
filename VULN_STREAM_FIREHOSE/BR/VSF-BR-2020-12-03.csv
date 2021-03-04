@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+167.250.67.94;265204;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9000, 5353, 554, 22, 8090, 3389];2020-12-03 03:16:48;Linkfire Telecom Ltda
+191.255.205.216;27699;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443];2020-12-03 03:44:03;Vivo
+45.171.117.71;268743;{'MS17-010': 'MS17-010'};[2000, 137, 123, 3389];2020-12-03 01:58:09;Sociedade Campineira De Educacao E Instrucao

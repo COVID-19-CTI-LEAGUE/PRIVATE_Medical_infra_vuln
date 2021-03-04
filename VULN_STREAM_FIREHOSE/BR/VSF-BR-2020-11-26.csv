@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+186.210.49.25;53006;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 7547];2020-11-26 05:33:04;Algar Telecom
+189.127.14.174;27693;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-11-26 05:33:42;NipCable do Brasil Telecom LTDA
+191.54.17.185;53006;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 7547];2020-11-26 21:23:54;Algar Telecom
+201.82.4.29;28573;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 8181];2020-11-26 21:43:38;Claro NET

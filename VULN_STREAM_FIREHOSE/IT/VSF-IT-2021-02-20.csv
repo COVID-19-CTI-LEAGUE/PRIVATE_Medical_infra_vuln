@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+2.196.0.242;16232;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 8081, 3389];2021-02-20 16:59:02;Telecom Italia Mobile

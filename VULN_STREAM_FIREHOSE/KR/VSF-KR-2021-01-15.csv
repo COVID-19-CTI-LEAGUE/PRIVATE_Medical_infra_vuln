@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+210.207.87.195;9530;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 9100, 3389];2021-01-15 00:46:54;SHINSEGAE I C Co.
+221.167.6.219;4766;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2021-01-15 10:19:01;Korea Telecom

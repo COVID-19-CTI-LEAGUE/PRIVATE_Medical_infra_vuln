@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.66.178.26;132442;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[135, 5357, 80, 1433, 8090, 445];2021-01-20 15:45:14;Tongi Internet System

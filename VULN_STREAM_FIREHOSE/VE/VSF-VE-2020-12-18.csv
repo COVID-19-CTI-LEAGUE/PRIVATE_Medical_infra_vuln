@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+190.97.226.6;263703;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 554, 80, 5010, 4500, 1194, 443, 3389];2020-12-18 13:43:59;NetLink America C.A.

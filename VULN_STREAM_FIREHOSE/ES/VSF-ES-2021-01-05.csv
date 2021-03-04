@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+217.125.26.171;3352;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443];2021-01-05 22:27:56;Telefonica de Espana Static IP
+5.1.38.73;198731;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 500, 1723];2021-01-05 15:17:01;Prisco Electronica S.L.
+5.56.62.227;57286;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 3389];2021-01-05 22:39:17;Gigas Hosting S.A.
+83.36.153.105;3352;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 500];2021-01-05 18:21:35;Telefonica de Espana

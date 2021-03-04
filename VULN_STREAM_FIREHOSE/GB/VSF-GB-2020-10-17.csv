@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+46.16.214.123;48961;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 3389];2020-10-17 16:17:45;Cablecom Networking
+85.13.217.51;31708;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-10-17 01:41:43;Coreix Ltd
+89.197.9.134;47474;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 1723, 3389];2020-10-17 03:04:17;Virtual1 Limited

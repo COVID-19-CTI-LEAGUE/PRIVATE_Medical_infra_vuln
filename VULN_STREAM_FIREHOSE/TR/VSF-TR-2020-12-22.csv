@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+37.1.145.250;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 8081, 8083, 84, 21, 1433, 1434, 3389];2020-12-22 13:03:12;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni

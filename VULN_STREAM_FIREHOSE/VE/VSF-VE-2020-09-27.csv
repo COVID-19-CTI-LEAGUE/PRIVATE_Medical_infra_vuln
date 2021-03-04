@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+190.216.224.210;3549;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 3389];2020-09-27 18:01:20;Level 3 Venezuela S.A.
+200.82.142.66;21826;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[53];2020-09-27 11:59:38;Corporacion Telemic C.A.

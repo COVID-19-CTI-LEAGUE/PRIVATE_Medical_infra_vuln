@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+186.241.42.235;7738;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-02-08 18:57:02;Oi Velox
+189.127.14.174;27693;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-02-08 13:20:14;NipCable do Brasil Telecom LTDA

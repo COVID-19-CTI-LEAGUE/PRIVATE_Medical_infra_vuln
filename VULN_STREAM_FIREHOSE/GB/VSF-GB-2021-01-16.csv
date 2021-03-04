@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.17.183.156;21396;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 21];2021-01-16 19:07:43;Nimbus Hosting Ltd.
+212.48.76.110;20738;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[110, 143, 80, 53, 25, 3389, 21];2021-01-16 23:13:54;Host Europe GmbH
+92.207.123.53;31655;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1723, 443, 3389];2021-01-16 10:14:20;Gamma Telecom

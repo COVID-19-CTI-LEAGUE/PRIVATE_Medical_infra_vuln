@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+1.4.198.153;23969;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7547];2020-09-19 05:58:59;TOT
+119.110.206.232;24218;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 443, 3389, 21];2020-09-19 03:27:05;Symphony Communication
+119.110.206.234;24218;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 3389, 21];2020-09-19 00:18:13;Symphony Communication
+203.154.217.100;4618;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 83, 84, 3389];2020-09-19 14:45:07;Internet Thailand Company Limited
+58.97.8.13;7470;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 50000, 3389];2020-09-19 18:44:49;True Internet

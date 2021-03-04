@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.28.3.115;199484;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 445];2020-09-30 20:01:15;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+185.93.69.25;42926;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 3389];2020-09-30 15:10:30;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+37.1.145.250;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 8081, 8083, 84, 21, 1433, 1434, 3389];2020-09-30 12:06:06;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+45.12.55.100;208972;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 27015, 5357, 3389];2020-09-30 01:10:09;Gibirnet Iletisim Hizmetleri Sanayi Ve Ticaret Lim
+89.35.52.155;61135;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[3389, 445, 5357];2020-09-30 17:28:45;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.
+93.177.101.98;212369;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[993, 2082, 995, 2087, 80, 587, 143, 111, 8080, 465, 2083, 53, 8443, 443];2020-09-30 16:17:37;ibrahim tufek

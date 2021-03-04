@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+202.86.133.194;4609;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1434, 443, 500, 1723];2021-01-06 09:15:03;Companhia de Telecomunicacoes de Macau SARL

@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.123.37.213;18196;{'MS17-010': 'MS17-010'};[5985, 9443, 9000, 554, 5357, 80, 10001, 1433, 445];2021-01-26 23:14:42;Seven Star Internet Service Provider
+43.255.220.238;133720;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 1433, 445, 135];2021-01-26 03:03:50;Soft Call Cust-o-care Private Limited

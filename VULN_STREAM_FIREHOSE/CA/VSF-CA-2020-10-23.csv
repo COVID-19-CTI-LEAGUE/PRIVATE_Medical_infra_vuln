@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+24.64.76.43;6327;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 5357, 135];2020-10-23 16:21:09;Shaw Communications

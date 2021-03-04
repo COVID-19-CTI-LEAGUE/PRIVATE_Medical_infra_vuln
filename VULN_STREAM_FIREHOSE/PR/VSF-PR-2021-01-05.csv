@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+74.213.91.107;14638;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 4443, 500, 21, 10554, 443];2021-01-05 15:51:20;Liberty Cablevision of Puerto Rico

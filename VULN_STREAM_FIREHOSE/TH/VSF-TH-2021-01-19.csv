@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+14.207.86.3;45629;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 53];2021-01-19 23:09:16;3BB Broadband
+203.150.29.246;4618;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[135, 137, 3306, 445, 80, 3389];2021-01-19 17:13:30;Internet Thailand Company Limited

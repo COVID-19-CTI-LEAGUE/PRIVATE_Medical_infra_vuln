@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+195.200.205.209;41394;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2021-02-14 02:40:59;Ministry of Health

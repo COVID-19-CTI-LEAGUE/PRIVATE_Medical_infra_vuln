@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+122.176.36.112;24560;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5357];2020-10-15 11:09:06;Airtel Broadband

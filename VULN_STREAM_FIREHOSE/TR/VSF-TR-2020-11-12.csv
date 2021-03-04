@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.18.199.122;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9090, 80, 25, 1433, 8090, 443, 3389];2020-11-12 08:30:02;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+185.93.69.230;212369;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[993, 995, 587, 143, 80, 465, 21, 22, 25, 443, 53];2020-11-12 02:15:49;ibrahim tufek

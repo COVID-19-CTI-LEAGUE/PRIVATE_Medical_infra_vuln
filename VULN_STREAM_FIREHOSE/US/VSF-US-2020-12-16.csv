@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+136.56.54.238;16591;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 10243, 135, 445, 5357];2020-12-16 09:04:53;Google Fiber
+23.96.28.35;8075;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-12-16 02:25:49;Microsoft Azure
+50.242.157.82;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 500, 443];2020-12-16 15:34:16;Comcast Business
+52.144.120.133;395861;{'CVE-2020-5902': 'CVE-2020-5902'};[443];2020-12-16 07:17:05;Medical Imaging Associates of Idaho Falls, P.A.
+63.134.215.90;14992;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 110, 143, 80, 53, 25, 443, 3389, 21];2020-12-16 00:23:25;Newtek Technology Solutions
+72.175.221.194;33588;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9595, 3389, 5357];2020-12-16 03:36:47;Spectrum

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+191.102.101.230;262186;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 554, 5357, 3389, 9010, 445, 3306];2020-12-01 11:43:26;Azteca Comunicaciones Colombia

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+154.66.10.186;37637;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5357, 445, 135];2021-02-09 13:21:03;Smile Nigeria

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+82.76.191.58;8708;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5800, 5357, 139, 445, 135];2020-12-29 16:18:08;Digi Romania

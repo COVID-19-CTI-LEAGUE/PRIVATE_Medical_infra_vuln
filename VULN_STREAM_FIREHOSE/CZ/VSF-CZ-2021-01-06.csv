@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+31.47.102.65;8251;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[5000, 5001, 554, 80, 500, 22, 1723];2021-01-06 08:55:09;FreeTel, s.r.o.
+46.167.202.32;6830;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 500, 1723];2021-01-06 00:56:30;Liberty Global
+84.42.182.100;6830;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[5000, 443, 500, 21];2021-01-06 08:39:47;Vodafone Czech Republic
+95.80.198.146;29208;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723];2021-01-06 08:28:25;Dial Telecom, a.s.

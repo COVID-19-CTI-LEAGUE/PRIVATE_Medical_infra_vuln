@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+1.186.57.131;45769;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 23, 3389, 25];2020-11-29 02:54:32;D-Vois Broadband Pvt
+103.99.149.179;136689;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-11-29 08:46:32;Skylink Fibernet Private Limited
+113.30.141.41;17447;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 443, 3389, 21];2020-11-29 11:48:22;Net4India
+45.248.21.48;133720;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[10000, 9999];2020-11-29 19:27:36;Soft Call Cust-o-care Private Limited

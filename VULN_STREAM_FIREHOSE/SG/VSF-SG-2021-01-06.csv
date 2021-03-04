@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+115.42.156.163;3758;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8000, 443, 8008, 500, 53, 8443, 1723];2021-01-06 05:58:35;Singapore Telecommunications

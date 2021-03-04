@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+114.143.103.99;17762;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3299, 3389];2020-10-13 17:30:32;Tata Teleservices Maharashtra

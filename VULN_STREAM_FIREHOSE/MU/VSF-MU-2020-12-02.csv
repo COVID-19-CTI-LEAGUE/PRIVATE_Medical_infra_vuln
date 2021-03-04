@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+102.115.236.74;23889;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3306, 443];2020-12-02 08:28:03;Mauritius Telecom

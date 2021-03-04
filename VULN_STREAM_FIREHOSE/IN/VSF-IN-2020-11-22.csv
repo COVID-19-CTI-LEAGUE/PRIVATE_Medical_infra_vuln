@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.39.245.81;133720;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[444];2020-11-22 18:27:17;Soft Call Cust-o-care Private Limited

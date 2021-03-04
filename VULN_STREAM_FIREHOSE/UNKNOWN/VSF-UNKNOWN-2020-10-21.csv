@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+142.54.176.115;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[];2020-10-21 16:44:44;unknown
+183.82.144.226;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[];2020-10-21 15:01:18;unknown
+187.201.186.97;unknown;{'MS17-010': 'MS17-010'};[];2020-10-21 19:24:16;unknown
+77.92.4.139;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-10-21 19:18:25;unknown

@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+170.239.87.250;52368;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-27 20:32:00;Zam Ltda.
+198.41.35.26;16874;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-09-27 04:12:51;Sonda S.A.

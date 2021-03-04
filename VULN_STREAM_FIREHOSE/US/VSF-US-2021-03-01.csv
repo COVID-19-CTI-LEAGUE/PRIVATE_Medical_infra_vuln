@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+136.56.54.238;16591;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 10243, 135, 445, 5357];2021-03-01 21:57:06;Google Fiber
+155.139.187.250;25609;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2021-03-01 22:05:34;Detroit Medical Center
+155.139.188.250;25609;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2021-03-01 17:43:29;Detroit Medical Center
+18.232.83.217;14618;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-03-01 21:04:57;Amazon.com
+192.31.88.129;302;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 135];2021-03-01 13:29:10;Baylor College of Medicine
+67.1.207.231;209;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 4567];2021-03-01 06:22:37;CenturyLink

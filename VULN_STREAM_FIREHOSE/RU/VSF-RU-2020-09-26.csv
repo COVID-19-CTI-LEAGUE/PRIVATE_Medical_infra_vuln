@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+46.28.227.58;42339;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-09-26 22:16:01;Chaika Telecom Petersburg Limited Company
+77.221.153.49;30968;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-26 17:43:09;OOO National Telecommunications
+95.154.143.107;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[6881, 445];2020-09-26 23:22:42;Production co-operative Economic-legal laboratory
+95.154.170.45;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-09-26 16:18:09;Production co-operative Economic-legal laboratory
+95.154.171.62;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-09-26 11:36:15;Production co-operative Economic-legal laboratory
+95.154.189.187;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-09-26 08:54:16;Production co-operative Economic-legal laboratory

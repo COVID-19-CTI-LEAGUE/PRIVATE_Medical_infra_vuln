@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+186.236.78.92;27693;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[3389, 5357, 135];2020-11-17 22:36:28;NipCable do Brasil Telecom LTDA
+187.180.49.167;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7547];2020-11-17 05:11:20;Claro NET
+187.21.238.39;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-11-17 06:49:11;Claro NET
+201.94.203.119;22689;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8081, 3389];2020-11-17 07:04:41;Sercomtel Participacoes S.A.

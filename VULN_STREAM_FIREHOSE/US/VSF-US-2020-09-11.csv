@@ -1,0 +1,10 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+107.151.161.35;21859;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[999, 445, 80, 21, 8090, 3389];2020-09-11 00:19:23;Zenlayer
+173.248.152.196;30475;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 587, 5357, 110, 143, 8080, 21, 25, 3389, 53];2020-09-11 11:40:55;Handy Networks, LLC
+199.116.137.118;36489;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 443, 3389];2020-09-11 04:33:47;Netsolus.com
+24.196.97.242;20115;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[4443, 3389];2020-09-11 04:38:57;Spectrum
+50.253.100.2;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-11 17:36:32;Comcast Business
+63.134.216.90;14992;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8080, 53, 3389, 21];2020-09-11 00:55:22;Newtek Technology Solutions
+65.182.170.130;22458;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-11 06:42:27;NetSource Communications
+68.178.53.146;7385;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 444, 3389];2020-09-11 19:29:48;Allstream
+68.99.159.47;22773;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-11 21:52:35;Cox Business

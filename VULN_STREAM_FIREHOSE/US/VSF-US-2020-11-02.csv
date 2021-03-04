@@ -1,0 +1,11 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+104.156.224.178;20473;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 3389];2020-11-02 00:27:50;Choopa, LLC
+12.222.170.237;16571;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-11-02 19:21:10;Kings Daughters Medical Center
+192.236.0.28;393238;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 443, 3389];2020-11-02 04:46:24;ImOn Communications, LLC
+208.112.46.98;20021;{'MS17-010': 'MS17-010'};[137, 139, 445, 80, 111, 3260, 3389];2020-11-02 23:08:19;HostMySite
+208.89.56.87;11637;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80];2020-11-02 06:44:03;MetroDataPath
+64.147.49.134;55032;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-11-02 08:17:45;The Jackson Laboratory
+64.251.13.33;15083;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 135, 3389, 53];2020-11-02 09:00:03;Infolink Global Corporation
+66.159.61.130;12028;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-11-02 12:25:07;MM Internet
+67.23.59.137;36086;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 21];2020-11-02 12:43:45;Telx Hosting
+74.130.69.158;10796;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-11-02 18:00:25;Spectrum

@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.18.205.222;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 587, 110, 143, 8080, 21, 1433, 25, 1434, 3389, 53];2020-09-11 12:19:43;Vargonen Network
+185.28.3.115;199484;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 445];2020-09-11 10:59:34;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+194.1.184.70;210107;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-11 10:54:27;Plusweb Sunucu Internet Hizmetleri Ticaret Limited
+46.1.214.144;34296;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7547, 3389];2020-09-11 03:26:00;Millenicom GmbH
+94.102.67.242;8685;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 445];2020-09-11 04:44:08;Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.

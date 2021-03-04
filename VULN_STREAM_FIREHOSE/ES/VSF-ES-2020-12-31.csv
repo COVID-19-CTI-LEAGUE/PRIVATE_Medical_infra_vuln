@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+212.4.126.191;29231;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 1433, 2000];2020-12-31 17:35:20;Grupalia Internet S.A.

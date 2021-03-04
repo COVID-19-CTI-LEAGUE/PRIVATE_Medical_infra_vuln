@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+181.130.157.65;13489;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8080, 137, 445];2021-02-22 14:08:28;Tigo Colombia
+8.242.214.189;3549;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7547, 902, 3389, 80, 21, 443, 445];2021-02-22 09:38:25;Level 3 Communications

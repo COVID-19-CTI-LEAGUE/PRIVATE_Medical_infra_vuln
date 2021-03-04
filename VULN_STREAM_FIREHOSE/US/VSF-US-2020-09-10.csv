@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+192.94.108.177;1252;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-09-10 02:26:20;University of Nebraska Medical Center
+38.122.130.181;174;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-09-10 17:18:36;Cogent Communications
+64.147.49.134;55032;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-09-10 20:11:26;The Jackson Laboratory

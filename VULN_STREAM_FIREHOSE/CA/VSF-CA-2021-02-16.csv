@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+216.168.114.202;11666;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2021-02-16 14:23:13;Nexicom
+24.226.199.243;11290;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 1723, 3389];2021-02-16 06:11:50;Cogeco Cable

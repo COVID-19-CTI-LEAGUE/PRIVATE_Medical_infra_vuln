@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+176.102.243.46;57563;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-02-27 06:50:31;isfahan university of medical sciences & health se
+81.16.121.62;58224;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[135, 5357, 80, 22, 1434, 443, 445];2021-02-27 16:21:01;Iran Telecommunication Company PJS
+89.41.43.56;43754;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2021-02-27 16:22:09;Asiatech Data Transmission company

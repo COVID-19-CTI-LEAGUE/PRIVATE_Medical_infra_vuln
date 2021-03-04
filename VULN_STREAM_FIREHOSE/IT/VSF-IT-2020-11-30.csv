@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+5.249.145.67;31034;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8080, 3389];2020-11-30 09:00:34;Aruba S.p.A.
+95.110.186.149;31034;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-11-30 03:21:12;Aruba S.p.A.

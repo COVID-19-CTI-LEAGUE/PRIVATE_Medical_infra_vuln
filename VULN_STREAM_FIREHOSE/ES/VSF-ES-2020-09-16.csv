@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+5.56.62.227;57286;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 3389];2020-09-16 12:05:30;Gigas Hosting S.A.
+91.126.240.72;35699;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8081, 3389];2020-09-16 15:32:09;Adamo Telecom Iberia
+95.63.84.56;12430;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-16 21:21:45;Vodafone Spain

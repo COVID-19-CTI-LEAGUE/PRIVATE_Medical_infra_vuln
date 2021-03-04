@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+63.245.117.209;8014;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[80, 1723, 443, 53];2021-01-06 00:08:28;Bahamas Telecommunications Corporation

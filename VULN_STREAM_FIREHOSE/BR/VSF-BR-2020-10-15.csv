@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+131.255.237.14;262318;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[10000, 37777, 3388, 9101, 53];2020-10-15 15:04:06;Horizons Telecomunicacoes e Tecnologia Ltda
+45.171.117.71;268743;{'MS17-010': 'MS17-010'};[2000, 137, 123, 3389];2020-10-15 05:02:44;Sociedade Campineira De Educacao E Instrucao

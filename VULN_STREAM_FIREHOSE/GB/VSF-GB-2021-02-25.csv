@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+212.48.76.110;20738;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[110, 143, 80, 53, 25, 3389, 21];2021-02-25 08:19:04;Host Europe GmbH
+217.138.37.242;20952;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-02-25 06:35:50;Venus Business Communications Limited

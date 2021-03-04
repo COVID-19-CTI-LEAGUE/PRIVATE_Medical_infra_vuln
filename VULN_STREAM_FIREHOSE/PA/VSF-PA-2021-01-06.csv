@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+168.205.10.9;264676;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 500, 1723, 53];2021-01-06 02:46:15;Sistemas Inalambricos S.A
+186.74.136.18;11556;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 443];2021-01-06 01:05:46;Cable & Wireless Panama
+186.75.247.70;11556;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 500, 1723];2021-01-06 06:32:42;Cable & Wireless Panama
+200.124.2.26;18809;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 443];2021-01-06 09:14:40;Cable Onda

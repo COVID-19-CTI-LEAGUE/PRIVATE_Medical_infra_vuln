@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+58.65.43.12;23777;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[3389, 135, 445, 5357];2021-02-25 16:50:36;Ntt Business Solutions Corporation

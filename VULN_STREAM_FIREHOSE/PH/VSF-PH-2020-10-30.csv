@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+202.137.120.36;38553;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[13, 445, 135];2020-10-30 07:11:10;DctecH Microservices Incorporated

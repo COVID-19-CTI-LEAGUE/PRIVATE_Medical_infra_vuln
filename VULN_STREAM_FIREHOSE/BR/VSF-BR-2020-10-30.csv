@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+187.106.152.66;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7547];2020-10-30 14:20:46;NET Virtua
+187.16.136.54;28254;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 8291, 1723, 3389];2020-10-30 18:45:43;Arganet Comunicação e Monitoramento Digital Ltda
+189.59.72.74;18881;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8081, 443, 3389];2020-10-30 21:10:07;Vivo
+201.55.125.217;28303;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5222, 37777, 3306, 81, 22, 443, 3389];2020-10-30 17:45:10;Itake Telecom
+201.94.203.119;22689;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8081, 3389];2020-10-30 04:08:14;Sercomtel Participacoes S.A.
+45.170.56.50;268148;{'MS17-010': 'MS17-010'};[8080, 137, 445, 80];2020-10-30 09:30:42;AccessLink Telecom

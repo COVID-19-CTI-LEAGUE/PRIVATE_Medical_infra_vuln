@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+195.142.152.126;199484;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2021-01-14 17:59:14;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare

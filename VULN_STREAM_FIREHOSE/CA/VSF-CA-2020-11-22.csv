@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+216.168.114.202;11666;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-11-22 05:54:22;Nexicom
+45.73.60.102;5769;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-11-22 22:01:00;Videotron Ltee

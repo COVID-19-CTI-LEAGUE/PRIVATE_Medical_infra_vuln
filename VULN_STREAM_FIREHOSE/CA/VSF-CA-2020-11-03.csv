@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+184.67.172.212;6327;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 443, 3389];2020-11-03 12:14:42;Shaw Communications
+67.22.84.19;40473;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-11-03 06:34:40;Xplornet Communications
+70.51.93.192;577;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 22];2020-11-03 03:47:48;Bell DSL Internet

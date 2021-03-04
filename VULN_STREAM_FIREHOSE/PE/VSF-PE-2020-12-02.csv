@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+190.40.229.208;6147;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8080, 8001, 9001];2020-12-02 19:11:51;Telefonica del Peru

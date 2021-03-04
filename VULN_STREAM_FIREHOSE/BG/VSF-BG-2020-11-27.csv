@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+82.146.26.224;31435;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 8086];2020-11-27 11:33:39;Medicom Bulgaria Ood

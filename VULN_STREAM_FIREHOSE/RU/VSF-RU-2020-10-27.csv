@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+212.42.37.149;12314;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[3389, 445, 135];2020-10-27 17:14:18;RopNet
+217.197.240.132;34139;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-10-27 20:03:59;TSI Service JSC
+62.117.81.226;8732;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 500, 3389];2020-10-27 03:51:52;OJSC Comcor
+95.154.146.141;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-10-27 13:53:58;Production co-operative Economic-legal laboratory
+95.154.191.94;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-10-27 08:30:27;Production co-operative Economic-legal laboratory

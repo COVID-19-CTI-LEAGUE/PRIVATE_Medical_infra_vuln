@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+187.188.40.45;22884;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[80, 443, 22];2021-01-06 06:26:24;Totalplay
+187.199.206.74;8151;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[5060];2021-01-06 03:21:13;Telmex
+189.129.17.36;8151;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[554, 82];2021-01-06 02:37:23;Telmex

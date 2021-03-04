@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+188.137.99.76;13000;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[389, 110, 143, 21, 25, 3389];2021-01-24 19:12:59;Leon Sp. z o.o.

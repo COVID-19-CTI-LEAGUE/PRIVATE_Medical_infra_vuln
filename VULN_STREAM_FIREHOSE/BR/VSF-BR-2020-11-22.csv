@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+179.217.45.191;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3128, 22];2020-11-22 13:38:32;Claro NET
+187.21.94.74;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3050, 3389];2020-11-22 08:39:36;NET Virtua
+187.95.29.4;53081;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9001, 1883, 3389];2020-11-22 09:21:22;Netjacarei Telecon Ltda
+45.171.117.71;268743;{'MS17-010': 'MS17-010'};[2000, 137, 123, 3389];2020-11-22 13:27:19;Sociedade Campineira De Educacao E Instrucao

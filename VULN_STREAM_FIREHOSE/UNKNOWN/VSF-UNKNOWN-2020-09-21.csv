@@ -1,0 +1,17 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+118.173.73.199;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-09-21 16:36:43;unknown
+124.123.96.178;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-09-21 04:37:22;unknown
+176.102.245.57;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[];2020-09-21 11:00:15;unknown
+176.102.249.214;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-09-21 05:24:29;unknown
+186.124.248.92;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[];2020-09-21 11:09:03;unknown
+187.22.1.175;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-09-21 15:45:33;unknown
+190.134.142.51;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-09-21 16:57:46;unknown
+191.185.28.195;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-09-21 20:50:48;unknown
+191.7.217.162;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-09-21 01:25:28;unknown
+194.1.192.240;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[];2020-09-21 15:23:18;unknown
+213.96.40.208;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[];2020-09-21 01:08:48;unknown
+49.49.193.184;unknown;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[];2020-09-21 06:08:53;unknown
+5.12.252.11;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-09-21 15:50:56;unknown
+54.158.121.105;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-09-21 08:49:20;unknown
+67.110.218.218;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[];2020-09-21 15:58:02;unknown
+77.92.12.174;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-09-21 16:18:46;unknown

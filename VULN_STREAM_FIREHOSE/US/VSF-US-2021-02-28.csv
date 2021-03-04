@@ -1,0 +1,9 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+192.31.88.129;302;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 135];2021-02-28 20:34:47;Baylor College of Medicine
+23.96.28.35;8075;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-02-28 13:15:38;Microsoft Azure
+24.205.248.226;20115;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 443, 5900, 21, 3389];2021-02-28 03:39:14;Spectrum
+63.134.215.90;14992;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 110, 143, 80, 53, 25, 443, 3389, 21];2021-02-28 16:55:02;Newtek Technology Solutions
+64.18.108.215;19830;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389, 22];2021-02-28 00:08:12;The Ringgold Telephone Company
+67.128.169.2;209;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 3389];2021-02-28 06:23:59;CenturyLink
+69.43.35.76;6536;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5357, 135, 445, 3389];2021-02-28 01:03:18;CityNet
+96.85.127.14;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-02-28 21:54:53;Comcast Business

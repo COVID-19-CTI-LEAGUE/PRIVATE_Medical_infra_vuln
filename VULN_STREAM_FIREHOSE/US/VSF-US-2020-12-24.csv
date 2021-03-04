@@ -1,0 +1,11 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+107.151.161.36;21859;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 445, 3389, 21];2020-12-24 19:25:42;Zenlayer
+107.20.113.57;14618;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5985, 3389, 445, 37777];2020-12-24 12:07:51;Amazon.com
+216.114.78.32;6428;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389, 5357];2020-12-24 13:04:29;River City Internet Group (Primary Networks)
+24.111.133.26;11232;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2121, 110, 80, 25, 26, 443, 3389];2020-12-24 07:43:07;Midco
+38.76.110.164;26375;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-12-24 13:29:35;Airespring
+47.23.144.26;6128;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9000, 8000, 3389, 9001];2020-12-24 07:33:49;Optimum Online
+50.241.233.49;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 500, 443];2020-12-24 10:53:41;Comcast Business
+63.134.215.90;14992;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 110, 143, 80, 53, 25, 443, 3389, 21];2020-12-24 12:57:29;Newtek Technology Solutions
+63.134.216.90;14992;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8080, 53, 3389, 21];2020-12-24 06:21:43;Newtek Technology Solutions
+72.253.152.32;36149;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-12-24 04:52:24;Hawaiian Telcom

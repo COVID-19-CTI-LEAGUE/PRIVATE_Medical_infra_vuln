@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+217.128.246.127;3215;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[389, 3389, 80, 88, 123, 445];2020-09-19 16:17:29;Orange
+80.14.113.8;3215;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 500, 443];2020-09-19 17:21:04;Orange

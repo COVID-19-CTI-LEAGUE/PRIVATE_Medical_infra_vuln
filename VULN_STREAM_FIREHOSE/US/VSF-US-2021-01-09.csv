@@ -1,0 +1,10 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+104.209.232.249;8075;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-01-09 15:52:38;Microsoft Azure
+63.134.216.90;14992;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8080, 53, 3389, 21];2021-01-09 01:32:18;Newtek Technology Solutions
+64.147.49.134;55032;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2021-01-09 12:10:13;The Jackson Laboratory
+64.60.63.235;14265;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[500, 3389];2021-01-09 13:23:05;TPx Communications
+68.178.53.146;7385;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 444, 3389];2021-01-09 18:50:03;Allstream
+69.227.212.218;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 3389];2021-01-09 02:49:15;AT&T Internet Services
+74.202.206.232;3549;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1723, 3389];2021-01-09 07:59:21;Level 3 Communications
+96.56.5.2;6128;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 4567];2021-01-09 21:01:56;Optimum Online
+96.85.127.14;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-01-09 07:57:12;Comcast Business

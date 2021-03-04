@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.113.33.82;135755;{'MS17-010': 'MS17-010'};[10001, 5357, 80, 1521, 1434, 443];2020-11-10 09:56:26;Fiberlink Communication Pvt.
+103.240.8.230;133720;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 1433, 445];2020-11-10 21:27:12;Soft Call Cust-o-care Private Limited
+103.65.24.121;135218;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 1434, 445, 1433];2020-11-10 15:17:41;Gtel Communications Private Limited
+45.113.76.20;136374;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[84];2020-11-10 07:06:05;Microtalk Communications Pvt

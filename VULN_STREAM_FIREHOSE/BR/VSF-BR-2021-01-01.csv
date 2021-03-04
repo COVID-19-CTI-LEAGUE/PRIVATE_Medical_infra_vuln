@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+189.127.15.14;27693;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 8081, 8080, 445];2021-01-01 03:55:36;NipCable do Brasil Telecom LTDA
+189.62.15.105;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 3389];2021-01-01 00:32:19;Claro NET
+201.55.125.217;28303;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5222, 37777, 3306, 81, 22, 443, 3389];2021-01-01 16:36:57;Itake Telecom
+201.82.4.29;28573;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 8181];2021-01-01 18:41:55;Claro NET
+45.171.117.71;268743;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 137, 123, 3389];2021-01-01 01:07:08;Sociedade Campineira De Educacao E Instrucao

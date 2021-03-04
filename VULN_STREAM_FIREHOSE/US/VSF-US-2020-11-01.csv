@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+107.20.113.57;14618;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5985, 3389, 445, 37777];2020-11-01 17:52:33;Amazon.com
+12.238.243.194;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 2555, 110, 143, 80, 443, 3389];2020-11-01 20:58:55;AT&T Services
+192.236.0.28;393238;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 443, 3389];2020-11-01 18:07:37;ImOn Communications, LLC
+209.23.254.67;7922;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443, 21, 22];2020-11-01 21:45:28;Comcast Business
+50.241.233.49;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 500, 443];2020-11-01 14:50:16;Comcast Business
+66.159.61.130;12028;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-11-01 20:57:14;MM Internet
+71.255.153.166;13977;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-11-01 14:42:20;Consolidated Communications

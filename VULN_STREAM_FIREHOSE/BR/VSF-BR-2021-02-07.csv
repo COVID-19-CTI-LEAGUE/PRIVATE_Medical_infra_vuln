@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.104.244.210;52657;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 22, 135];2021-02-07 08:45:37;Norte Telecomunicacoes Servicos De Internet Ltda
+189.15.203.99;53006;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9000, 7547, 3389];2021-02-07 17:30:49;Algar Telecom
+189.62.220.50;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 554, 3306, 443, 3389];2021-02-07 03:49:02;Claro NET
+191.178.109.224;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 8081, 8291, 53, 3389];2021-02-07 09:26:20;Claro NET
+201.182.223.43;267541;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 8080, 3333, 3389, 1433];2021-02-07 00:05:33;Brasilnet Internet Banda Larga Ltda-me
+45.171.117.71;268743;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 137, 123, 3389];2021-02-07 21:18:18;Sociedade Campineira De Educacao E Instrucao

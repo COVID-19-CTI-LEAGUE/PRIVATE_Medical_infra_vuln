@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+12.222.170.237;16571;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-10-02 03:47:35;Kings Daughters Medical Center
+128.177.55.235;6461;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-10-02 07:55:51;Zayo Bandwidth
+38.76.110.164;26375;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-10-02 09:52:05;Airespring
+71.172.95.234;701;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 3389, 22, 4567];2020-10-02 15:32:50;Verizon Fios Business
+74.208.68.43;8560;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-10-02 15:18:15;1&1 Internet AG

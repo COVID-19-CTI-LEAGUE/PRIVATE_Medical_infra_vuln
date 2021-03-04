@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+156.54.27.15;20746;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 21];2021-03-02 17:01:20;Telecom Italia
+94.177.207.50;31034;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-03-02 03:02:29;Aruba S.p.A.

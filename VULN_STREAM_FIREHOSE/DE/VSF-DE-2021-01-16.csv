@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+80.147.201.206;3320;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 443];2021-01-16 22:16:07;Deutsche Telekom AG
+87.106.242.79;8560;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 8443, 80, 81, 21, 443, 3389];2021-01-16 02:27:46;1&1 Internet AG

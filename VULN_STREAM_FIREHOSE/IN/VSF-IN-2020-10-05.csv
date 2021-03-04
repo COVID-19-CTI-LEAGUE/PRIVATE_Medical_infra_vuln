@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.249.248.194;133720;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 5985, 139, 2222];2020-10-05 08:17:58;Soft Call Cust-o-care Private Limited

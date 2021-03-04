@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.137.213.33;208002;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2021-01-26 10:47:59;Ng Bilgi Teknoloji Sanayi Ve Ticaret Anonim Sirket
+194.1.192.109;210107;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-01-26 03:50:04;Plusweb Sunucu Internet Hizmetleri Ticaret Limited
+37.1.145.250;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 8081, 8083, 84, 21, 1433, 1434, 3389];2021-01-26 05:57:24;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+77.92.4.128;43356;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7547];2021-01-26 10:38:42;Comtech Ticaret LTD.
+77.92.4.210;43356;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443];2021-01-26 12:38:56;Comtech Ticaret LTD.

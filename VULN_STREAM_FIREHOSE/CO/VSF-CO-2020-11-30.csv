@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+190.14.239.88;27951;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5900, 445, 80, 8888, 8443, 3389];2020-11-30 08:14:38;Media Commerce Partners S.A
+190.143.79.25;14080;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8081, 3389, 25];2020-11-30 15:11:22;Telmex Colombia S.A.
+191.102.101.230;262186;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 554, 5357, 3389, 9010, 445, 3306];2020-11-30 16:30:58;Azteca Comunicaciones Colombia

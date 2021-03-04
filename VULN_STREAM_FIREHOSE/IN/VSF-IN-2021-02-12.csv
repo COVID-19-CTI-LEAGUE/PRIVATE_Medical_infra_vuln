@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+111.92.108.201;17465;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[135, 9999, 80, 1434, 7547, 445];2021-02-12 06:13:42;Asianet
+164.164.87.51;7633;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-02-12 01:05:59;Software Technology Parks of India - Bangalore
+27.0.61.147;132573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-02-12 11:18:26;SAI NGN Network Services

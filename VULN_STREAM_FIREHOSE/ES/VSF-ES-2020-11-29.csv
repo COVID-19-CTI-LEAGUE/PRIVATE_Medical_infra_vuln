@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+88.2.252.76;3352;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[1194, 443];2020-11-29 16:21:06;Telefonica de Espana Static IP

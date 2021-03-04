@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+107.151.161.35;21859;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[999, 445, 80, 21, 8090, 3389];2020-12-27 19:19:14;Zenlayer
+108.175.220.18;54706;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 4443, 3389];2020-12-27 20:01:58;Zray Technologies Corporation
+18.232.83.217;14618;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-12-27 02:04:54;Amazon.com
+50.253.100.2;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-12-27 14:03:14;Comcast Business
+64.85.235.245;11404;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[444, 3389];2020-12-27 21:26:59;Wave Broadband
+71.172.95.234;701;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 3389, 22, 4567];2020-12-27 16:49:12;Verizon Fios Business
+72.253.152.32;36149;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-12-27 19:41:01;Hawaiian Telcom

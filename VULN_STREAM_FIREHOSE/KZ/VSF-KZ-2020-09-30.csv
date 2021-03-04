@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+95.58.164.162;9198;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[10243, 5357, 3389];2020-09-30 03:55:14;JSC Kazakhtelecom

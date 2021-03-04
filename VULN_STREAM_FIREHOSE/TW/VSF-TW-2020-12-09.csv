@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+114.32.245.179;3462;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443];2020-12-09 16:27:53;Chunghwa Telecom
+125.227.97.107;3462;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-12-09 01:32:51;HiNet

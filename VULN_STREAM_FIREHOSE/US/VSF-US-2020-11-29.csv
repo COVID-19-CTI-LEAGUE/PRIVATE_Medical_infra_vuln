@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+108.27.225.146;701;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-11-29 22:03:07;Verizon Fios Business
+151.181.56.235;16657;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-11-29 13:43:20;Lightower Fiber Networks I, LLC
+198.101.238.79;33070;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 5986, 3389];2020-11-29 07:31:12;Rackspace Cloud Servers
+199.101.184.190;31863;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 445];2020-11-29 09:54:47;Centrilogic
+206.71.169.118;21581;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-11-29 22:27:15;M5 Computer Security
+45.22.214.211;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-11-29 08:23:07;AT&T U-verse
+52.90.199.177;14618;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5985, 135, 5800, 5900, 3389, 445];2020-11-29 09:42:44;Amazon.com

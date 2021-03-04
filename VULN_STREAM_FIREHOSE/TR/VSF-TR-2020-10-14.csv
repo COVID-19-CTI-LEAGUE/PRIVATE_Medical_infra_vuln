@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.134.185.106;205725;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[139, 3389, 445];2020-10-14 08:15:36;Selcuk Ecza Deposu Ticaret ve Sanayi Anonim Sirket
+37.75.10.171;199484;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[139, 3389, 445];2020-10-14 09:37:48;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+94.102.66.202;8685;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 3389, 1433];2020-10-14 22:38:08;Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.

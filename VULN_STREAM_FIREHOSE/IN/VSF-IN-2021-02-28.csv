@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.157.163.181;138737;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[135, 137, 5357, 80, 1433, 1434, 7547, 445];2021-02-28 21:31:46;Antarjal It Communication Pvt.
+103.48.180.246;132774;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[135, 5357, 80, 82, 1433, 445];2021-02-28 06:00:38;Niss Internet services private limited
+103.88.129.133;136335;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[20000, 135, 5357, 3389, 80, 1434, 445];2021-02-28 06:29:08;Mtel Networks Private Limited

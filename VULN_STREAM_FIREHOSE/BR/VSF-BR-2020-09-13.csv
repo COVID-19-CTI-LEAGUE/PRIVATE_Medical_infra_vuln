@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.74.255.25;263653;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 1433, 8291, 3389];2020-09-13 06:13:23;Costa Esmeralda Net Ltda Me
+189.127.15.14;27693;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 8081, 8080, 445];2020-09-13 10:10:09;NipCable do Brasil Telecom LTDA

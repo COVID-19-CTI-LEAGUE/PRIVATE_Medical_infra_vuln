@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+124.19.62.62;7474;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8000, 8443, 1723, 8008, 80, 9000, 53, 443, 85];2021-01-05 20:58:17;Optus

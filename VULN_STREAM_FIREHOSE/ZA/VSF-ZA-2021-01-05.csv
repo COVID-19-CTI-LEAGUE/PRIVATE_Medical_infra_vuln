@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+41.162.52.170;36937;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-01-05 12:29:22;Neotel Pty Ltd
+41.170.14.90;36937;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[80, 443, 21, 2222];2021-01-05 20:40:56;Neotel

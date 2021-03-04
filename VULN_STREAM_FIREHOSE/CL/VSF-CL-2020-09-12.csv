@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+190.217.216.15;14117;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 37777, 554];2020-09-12 12:23:18;Telefonica del Sur S.A.

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+46.185.129.216;8376;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-11-10 10:23:02;Jordan Data Communications Company LLC

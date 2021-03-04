@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.118.164.188;134326;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 445];2021-02-19 09:31:47;Airdesign Broadcast Media Pvt
+180.151.232.203;10029;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2021-02-19 05:29:26;Shyam Spectra Pvt
+203.192.211.111;17665;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[104, 81, 83, 80, 135];2021-02-19 14:57:47;Indusind Media and communication
+43.255.220.238;133720;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 1433, 445, 135];2021-02-19 16:08:26;Soft Call Cust-o-care Private Limited

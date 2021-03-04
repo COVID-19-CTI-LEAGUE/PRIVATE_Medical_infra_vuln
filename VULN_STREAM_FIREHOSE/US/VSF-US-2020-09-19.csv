@@ -1,0 +1,10 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+100.2.203.124;701;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-19 22:05:45;Verizon Fios
+12.237.88.3;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 3389];2020-09-19 02:10:38;AT&T Services
+12.238.243.194;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 2555, 110, 143, 80, 443, 3389];2020-09-19 17:02:55;AT&T Services
+192.94.108.178;1252;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-09-19 12:22:42;University of Nebraska Medical Center
+216.240.173.146;6130;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 53, 22, 21];2020-09-19 23:32:30;American Internet Services, LLC.
+24.157.49.182;6128;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-09-19 08:49:02;Optimum Online
+47.22.16.106;6128;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-09-19 19:07:48;Optimum Online
+66.159.61.130;12028;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-09-19 02:30:22;MM Internet
+69.227.212.218;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 3389];2020-09-19 02:07:27;AT&T Internet Services

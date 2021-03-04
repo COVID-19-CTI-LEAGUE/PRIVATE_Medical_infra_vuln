@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.103.109.92;205090;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8291, 1723];2020-10-01 07:37:10;NTX Technologies s.r.o.

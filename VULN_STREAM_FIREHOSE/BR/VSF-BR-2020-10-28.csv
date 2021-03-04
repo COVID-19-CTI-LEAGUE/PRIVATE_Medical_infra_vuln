@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.135.72.115;18881;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-10-28 14:15:45;Vivo
+189.62.15.105;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 3389];2020-10-28 22:18:38;Claro NET
+191.255.205.174;27699;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 11112, 7547, 3389];2020-10-28 15:17:01;Vivo
+191.54.175.163;53006;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7547];2020-10-28 13:52:02;Algar Telecom
+45.171.117.71;268743;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 137, 123, 3389];2020-10-28 04:07:44;Sociedade Campineira De Educacao E Instrucao

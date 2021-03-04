@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+88.119.189.118;8764;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-12-21 09:07:45;Telia Lietuva

@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+115.166.141.74;132445;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80];2020-12-28 11:51:53;Khetan Cable Network Pvt. Limited
+122.160.80.91;24560;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 22];2020-12-28 06:23:39;Airtel Broadband
+182.76.39.154;9498;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5357, 135];2020-12-28 07:33:31;Airtel
+45.249.40.103;unknown;{'MS17-010': 'MS17-010'};[5985, 9000, 137, 3389, 80, 443, 445];2020-12-28 10:19:30;Soft Call Cust-o-care Private Limited

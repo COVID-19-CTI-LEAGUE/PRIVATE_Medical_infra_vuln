@@ -1,0 +1,10 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+12.222.170.237;16571;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-11-23 00:50:23;Kings Daughters Medical Center
+151.181.56.235;16657;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-11-23 01:31:08;Lightower Fiber Networks I, LLC
+192.236.0.27;393238;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 443, 3389];2020-11-23 12:01:22;ImOn Communications, LLC
+198.101.238.79;33070;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 5986, 3389];2020-11-23 16:32:09;Rackspace Cloud Servers
+199.101.184.190;31863;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 445];2020-11-23 04:06:30;Centrilogic
+68.99.159.47;22773;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-11-23 05:03:03;Cox Business
+75.118.42.75;12083;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 3389, 110];2020-11-23 07:07:12;WideOpenWest
+75.149.82.213;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 443, 1723, 3389];2020-11-23 23:40:30;Comcast Business
+96.31.215.209;12231;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[32400];2020-11-23 02:07:41;Conway Corporation

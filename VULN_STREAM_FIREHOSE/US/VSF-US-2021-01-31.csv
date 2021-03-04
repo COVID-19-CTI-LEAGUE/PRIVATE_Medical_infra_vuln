@@ -1,0 +1,10 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+192.31.88.129;302;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 135];2021-01-31 12:24:34;Baylor College of Medicine
+207.144.94.140;7250;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2021-01-31 22:39:17;Surry Communications
+24.154.64.153;27364;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2021-01-31 02:04:59;Armstrong Cable
+35.224.89.33;15169;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2021-01-31 01:33:45;Google Cloud
+64.146.233.7;16713;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-01-31 00:55:14;Northwest Open Access Network
+64.147.49.134;55032;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2021-01-31 00:41:29;The Jackson Laboratory
+69.227.212.218;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 3389];2021-01-31 22:29:24;AT&T Internet Services
+72.42.246.158;62642;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137];2021-01-31 17:56:34;Bigleaf Networks
+75.149.82.213;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 443, 1723, 3389];2021-01-31 16:45:03;Comcast Business

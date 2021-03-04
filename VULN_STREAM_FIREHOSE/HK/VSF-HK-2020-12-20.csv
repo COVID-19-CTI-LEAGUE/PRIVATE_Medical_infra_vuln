@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+203.160.75.161;10099;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-12-20 19:46:23;China Unicom Global
+42.200.107.60;4760;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80];2020-12-20 12:50:21;Netvigator

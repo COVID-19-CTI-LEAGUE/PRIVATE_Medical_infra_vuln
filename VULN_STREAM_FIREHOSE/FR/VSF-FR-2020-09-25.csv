@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+193.252.49.64;3215;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8083, 3389];2020-09-25 11:23:06;Orange
+193.38.32.98;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1723, 389, 8080, 443, 25, 4443, 3389];2020-09-25 16:42:45;Totalcloud SAS
+217.117.146.39;15830;{'CVE-2020-5902': 'CVE-2020-5902'};[443];2020-09-25 14:24:34;Telecitygroup International Limited

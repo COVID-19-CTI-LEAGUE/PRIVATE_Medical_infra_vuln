@@ -1,0 +1,9 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+107.151.161.34;21859;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 21, 3389, 445];2020-10-09 19:40:08;Zenlayer
+160.36.197.100;3450;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[2701];2020-10-09 19:30:46;University of Tennessee
+216.177.49.30;15076;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9000, 110, 143, 80, 25, 443, 3389];2020-10-09 01:32:09;Delgado Industries, LLC
+24.111.133.26;11232;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2121, 110, 80, 25, 26, 443, 3389];2020-10-09 12:50:22;Midco
+38.81.157.45;394717;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-10-09 03:19:25;S-Go Video and Internet
+63.134.216.90;14992;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8080, 53, 3389, 21];2020-10-09 19:07:28;Newtek Technology Solutions
+64.147.49.134;55032;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-10-09 19:52:12;The Jackson Laboratory
+71.172.95.235;701;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 3389, 22];2020-10-09 03:29:20;Verizon Fios Business

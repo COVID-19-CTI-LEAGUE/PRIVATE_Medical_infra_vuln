@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+187.95.27.190;53081;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8291];2020-09-26 12:54:58;Netjacarei Telecon Ltda
+191.7.217.150;263327;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 8291, 21];2020-09-26 12:37:18;Online Servicos De Telecomunicacoes Ltda
+201.182.223.43;267541;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 8080, 3333, 3389, 1433];2020-09-26 20:07:53;Brasilnet Internet Banda Larga Ltda-me

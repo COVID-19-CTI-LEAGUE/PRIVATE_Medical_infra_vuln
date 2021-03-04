@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+131.255.237.14;262318;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[10000, 37777, 3388, 9101, 53];2020-12-14 15:01:25;Horizons Telecomunicacoes e Tecnologia Ltda
+177.100.206.60;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3306, 3389];2020-12-14 06:27:50;Claro NET
+189.41.234.118;53006;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7547];2020-12-14 04:55:28;Algar Telecom
+191.187.36.218;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080];2020-12-14 15:46:13;Claro NET
+45.170.56.50;268148;{'MS17-010': 'MS17-010'};[8080, 137, 445, 80];2020-12-14 17:29:44;AccessLink Telecom

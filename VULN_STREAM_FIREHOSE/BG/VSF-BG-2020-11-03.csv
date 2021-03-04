@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+82.146.21.220;31435;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[64738, 445];2020-11-03 11:28:18;Medicom Bulgaria Ood

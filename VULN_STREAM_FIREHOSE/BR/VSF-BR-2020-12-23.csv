@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+187.73.101.198;53048;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[161, 1723, 500, 53];2020-12-23 08:18:23;Celante Servicos De Telecomunicacoes Ltda - Epp
+189.62.220.50;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 554, 3306, 443, 3389];2020-12-23 14:17:48;Claro NET

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+92.177.239.153;12479;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-12-25 23:52:12;Orange Espana

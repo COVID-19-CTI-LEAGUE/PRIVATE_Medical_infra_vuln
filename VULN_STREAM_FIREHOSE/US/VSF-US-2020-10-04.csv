@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+12.109.102.250;40098;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-10-04 02:46:23;Community Antenna Service
+173.164.253.49;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-10-04 05:18:04;Comcast Business
+64.57.61.99;29831;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 3389, 110, 143];2020-10-04 12:06:34;Fone Net, LLC

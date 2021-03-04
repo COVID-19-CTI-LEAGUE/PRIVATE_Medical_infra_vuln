@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+180.151.232.203;10029;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-11-13 14:02:30;Shyam Spectra Pvt
+43.231.240.2;45775;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 139, 445];2020-11-13 03:54:51;Wish Net Private Limited

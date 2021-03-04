@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+194.141.24.3;6802;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[88, 80, 3306, 3389];2020-09-28 02:01:51;Bulgarian Research and Education Network Associati
+82.146.21.220;31435;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[64738, 445];2020-09-28 09:01:36;Medicom Bulgaria Ood

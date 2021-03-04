@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.5.225.1;8167;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[161, 3389];2021-01-30 00:14:04;Oi Internet
+192.207.206.175;264507;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80];2021-01-30 09:32:50;Empresa Municipal De Informatica
+201.182.223.43;267541;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 8080, 3333, 3389, 1433];2021-01-30 06:06:34;Brasilnet Internet Banda Larga Ltda-me

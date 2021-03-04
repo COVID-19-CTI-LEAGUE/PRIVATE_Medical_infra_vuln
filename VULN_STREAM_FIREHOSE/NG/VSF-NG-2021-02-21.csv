@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+217.117.4.218;16284;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9443, 1723, 110, 500, 22, 631, 25, 8443, 3389];2021-02-21 05:36:02;Vodacom Business Nigeria

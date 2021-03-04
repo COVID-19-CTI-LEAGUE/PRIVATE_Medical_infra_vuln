@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.100.206.60;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3306, 3389];2020-11-28 01:34:51;Claro NET
+177.104.244.210;52657;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 22, 135];2020-11-28 20:57:04;Norte Telecomunicacoes Servicos De Internet Ltda
+177.106.28.164;53006;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[123, 7547];2020-11-28 14:57:44;Algar Telecom
+187.95.25.105;53081;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 8081];2020-11-28 23:58:31;Netjacarei Telecon Ltda
+191.54.181.70;53006;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7547];2020-11-28 22:38:10;Algar Telecom

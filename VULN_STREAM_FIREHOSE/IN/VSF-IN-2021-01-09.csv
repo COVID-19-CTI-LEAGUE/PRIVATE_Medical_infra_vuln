@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.223.12.203;133661;{'MS17-010': 'MS17-010'};[137, 139, 135];2021-01-09 13:22:49;Netplus Broadband Services Private Limited
+103.249.248.209;133720;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2021-01-09 02:57:28;Soft Call Cust-o-care Private Limited
+43.241.124.226;133720;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3306, 443, 53, 3389];2021-01-09 09:43:44;Soft Call Cust-o-care Private Limited

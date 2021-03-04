@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.28.3.121;199484;{'MS17-010': 'MS17-010'};[445];2021-02-24 15:23:54;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+77.92.12.31;43356;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-02-24 20:20:13;Comtech Ticaret LTD.

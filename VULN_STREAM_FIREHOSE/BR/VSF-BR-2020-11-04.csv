@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.155.214.224;52771;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-11-04 18:02:52;Giga Byte Prod. e Serv. Inform. Ltda
+189.127.14.174;27693;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-11-04 21:32:19;NipCable do Brasil Telecom LTDA
+189.127.15.14;27693;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 8081, 8080, 445];2020-11-04 19:59:11;NipCable do Brasil Telecom LTDA
+189.55.62.218;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[49152, 9090, 123, 9191, 554, 8686, 10000, 81, 3702, 1433, 443, 3389];2020-11-04 23:21:49;Claro NET

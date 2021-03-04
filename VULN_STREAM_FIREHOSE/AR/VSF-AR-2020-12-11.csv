@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+181.44.46.124;27747;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 500, 1723, 3389];2020-12-11 08:55:10;TeleCentro
+190.15.200.194;27879;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 8880, 53, 1494, 2266, 1723, 3389];2020-12-11 03:39:04;Informática y Telecomunicaciones S.A.
+200.5.83.206;10834;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[9600, 5000, 554, 80, 5010, 83, 445];2020-12-11 03:09:03;Telefonica de Argentina

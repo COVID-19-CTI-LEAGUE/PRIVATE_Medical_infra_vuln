@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+198.101.238.79;33070;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 5986, 3389];2021-01-02 12:48:02;Rackspace Cloud Servers
+207.152.134.9;11951;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 3389, 110];2021-01-02 15:42:21;Medical Computer Systems
+63.134.216.90;14992;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8080, 53, 3389, 21];2021-01-02 08:46:30;Newtek Technology Solutions
+64.57.61.99;29831;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 3389, 110, 143];2021-01-02 08:55:08;Fone Net, LLC

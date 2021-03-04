@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.141.231.11;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-12-10 21:10:40;Claro NET
+191.54.26.18;53006;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[554];2020-12-10 00:07:35;Algar Telecom
+201.182.223.43;267541;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 8080, 3333, 3389, 1433];2020-12-10 23:12:48;Brasilnet Internet Banda Larga Ltda-me

@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+187.95.29.4;53081;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9001, 1883, 3389];2020-09-28 08:18:27;Netjacarei Telecon Ltda
+189.101.116.148;28573;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 22, 631];2020-09-28 03:09:17;Claro NET
+191.7.217.149;263327;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000];2020-09-28 06:46:37;Online Servicos De Telecomunicacoes Ltda
+201.68.188.27;27699;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 8081, 5443, 443, 53];2020-09-28 21:09:00;Vivo

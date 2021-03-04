@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.48.180.245;132774;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[33060, 135, 137, 3306, 5357, 80, 82, 84, 21, 5432, 1433, 1434, 443, 445];2021-02-21 10:50:31;Niss Internet services private limited

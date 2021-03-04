@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+85.112.90.107;39010;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5900, 3389];2020-11-16 20:40:29;TerraNet sal

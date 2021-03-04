@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.245.71.72;131442;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 1433, 445];2020-11-30 09:19:12;Digital Network Associates Pvt
+103.249.249.9;133720;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8080, 1433, 10443, 3389, 135];2020-11-30 22:31:43;Soft Call Cust-o-care Private Limited
+103.251.49.70;137166;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 49152, 554, 3389];2020-11-30 22:21:24;Digital Satellite Connect Pvt
+210.18.139.138;17488;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1024, 443, 88, 8081];2020-11-30 06:12:10;Hathway

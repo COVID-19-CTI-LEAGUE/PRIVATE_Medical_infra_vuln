@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+14.207.121.148;45629;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[81, 7547];2020-11-05 23:36:31;3BB Broadband
+182.52.113.177;23969;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-11-05 14:09:56;TOT
+202.29.24.238;136624;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 21, 3389];2020-11-05 15:18:53;Sakon Nakhon Rajabhat University

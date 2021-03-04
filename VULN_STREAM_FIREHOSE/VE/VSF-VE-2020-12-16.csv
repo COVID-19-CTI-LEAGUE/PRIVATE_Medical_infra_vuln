@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+186.24.9.186;6306;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[161, 8081];2020-12-16 20:21:19;Telefonica Venezolana

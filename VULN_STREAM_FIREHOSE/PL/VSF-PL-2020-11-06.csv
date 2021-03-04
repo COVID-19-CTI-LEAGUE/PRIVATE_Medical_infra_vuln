@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+176.221.107.206;21021;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-11-06 07:12:02;Multi Media
+194.124.223.49;50411;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 1723, 3389, 6789];2020-11-06 04:51:02;ITV MEDIA Sp. z o.o.

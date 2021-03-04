@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.17.180.161;21396;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 21];2021-01-20 01:08:43;NetConnex Broadband Ltd.
+185.17.183.156;21396;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 21];2021-01-20 04:02:25;Nimbus Hosting Ltd.
+62.232.110.178;5413;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[4443, 5357];2021-01-20 11:51:49;Daisy Communications Ltd

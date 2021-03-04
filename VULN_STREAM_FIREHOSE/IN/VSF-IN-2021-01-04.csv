@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+122.180.253.157;24560;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[81, 9443, 135];2021-01-04 00:25:05;Airtel Broadband
+45.112.248.82;133720;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 554];2021-01-04 09:41:24;Soft Call Cust-o-care Private Limited
+49.206.136.225;131269;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2021-01-04 09:41:34;ACT Fibernet

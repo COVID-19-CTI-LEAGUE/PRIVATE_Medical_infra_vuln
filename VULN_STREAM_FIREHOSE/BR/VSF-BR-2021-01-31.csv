@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+189.39.123.254;28310;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 9443, 5800, 8009, 5900, 8080, 443, 2012, 3389];2021-01-31 23:20:42;Smart Telecomunicações E Serviços Eirelli Epp
+191.55.131.66;53006;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7547];2021-01-31 13:41:06;Algar Telecom

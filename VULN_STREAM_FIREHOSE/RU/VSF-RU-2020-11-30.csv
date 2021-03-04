@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+89.251.147.224;29194;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[37777, 3389];2020-11-30 08:57:30;MTS PJSC
+95.154.138.237;43714;{'MS17-010': 'MS17-010'};[445];2020-11-30 19:45:22;Production co-operative Economic-legal laboratory
+95.154.182.33;43714;{'MS17-010': 'MS17-010'};[445];2020-11-30 09:04:38;Production co-operative Economic-legal laboratory

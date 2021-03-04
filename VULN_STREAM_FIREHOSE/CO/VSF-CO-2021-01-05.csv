@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+181.143.131.210;13489;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8080, 1723, 8100, 443, 3389];2021-01-05 22:14:56;Tigo Colombia
+181.49.12.142;14080;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8080, 8081, 1723, 443, 10443];2021-01-05 20:37:18;Telmex Colombia S.A.
+190.1.200.187;10299;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[37777, 1723, 443];2021-01-05 16:47:35;Empresas Municipales De Cali E.i.c.e. E.s.p.
+190.147.175.38;10620;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 500, 1723];2021-01-05 21:22:10;Telmex Colombia S.A.
+191.102.101.230;262186;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 554, 5357, 3389, 9010, 445, 3306];2021-01-05 09:21:28;Azteca Comunicaciones Colombia
+201.244.32.194;19429;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 443];2021-01-05 17:44:46;ETB

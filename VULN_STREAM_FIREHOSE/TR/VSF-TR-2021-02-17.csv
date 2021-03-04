@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.195.51.250;58293;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 3389, 445, 135];2021-02-17 06:26:37;Alfa Iletisim Hizmetleri Pazarlama Ticaret A.s.
+185.28.2.212;199484;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 1433, 445, 3389];2021-02-17 14:44:59;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+213.155.122.82;8685;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2021-02-17 20:23:07;Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.
+37.75.13.139;199484;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[37, 21, 3389];2021-02-17 13:22:47;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+94.102.77.34;8685;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2021-02-17 08:09:21;Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.

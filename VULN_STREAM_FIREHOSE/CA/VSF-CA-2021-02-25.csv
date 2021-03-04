@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+142.112.73.65;577;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 5060, 5001, 80, 443, 3389];2021-02-25 21:11:46;Bell Canada
+173.195.57.189;812;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 3389];2021-02-25 07:58:11;Rogers Cable
+216.168.114.202;11666;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2021-02-25 10:34:57;Nexicom
+70.51.93.192;577;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 22];2021-02-25 14:03:14;Bell DSL Internet

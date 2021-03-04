@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+84.205.101.242;31619;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[1434];2020-11-06 14:13:04;City Stars

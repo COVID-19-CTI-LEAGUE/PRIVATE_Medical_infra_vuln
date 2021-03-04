@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.123.149.211;131111;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 1433, 135];2021-01-30 05:32:08;PT Mora Telematika Indonesia

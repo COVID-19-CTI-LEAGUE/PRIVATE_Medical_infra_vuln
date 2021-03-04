@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+24.64.68.134;6327;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2021-02-13 06:42:50;Shaw Communications
+24.64.73.241;6327;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 445, 135];2021-02-13 13:28:53;Shaw Communications
+70.51.93.192;577;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 22];2021-02-13 12:35:22;Bell DSL Internet
+70.65.216.71;6327;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5060, 5000, 5001, 5357, 80, 137, 445];2021-02-13 07:53:14;Shaw Communications

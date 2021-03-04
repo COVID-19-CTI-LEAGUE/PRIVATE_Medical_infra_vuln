@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+128.201.160.34;265762;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 5357, 80, 22, 23, 1433, 445];2020-11-16 00:32:59;Castro Tello Marco Iván (conexión Global)

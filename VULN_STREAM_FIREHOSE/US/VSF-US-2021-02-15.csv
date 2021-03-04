@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+199.116.137.118;36489;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 443, 3389];2021-02-15 02:44:51;Netsolus.com
+24.227.178.125;11427;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 443, 3389, 4117];2021-02-15 01:08:35;Spectrum Business
+50.252.99.22;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 5000, 5001, 1194, 25, 1723, 3389];2021-02-15 03:08:43;Comcast Business
+67.128.169.2;209;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 3389];2021-02-15 02:12:08;CenturyLink

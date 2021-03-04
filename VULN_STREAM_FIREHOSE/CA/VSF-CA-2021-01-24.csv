@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+161.184.238.211;852;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[22];2021-01-24 12:48:26;Telus Communications
+173.195.57.189;812;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 3389];2021-01-24 09:46:05;Rogers Cable

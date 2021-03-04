@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+176.102.247.154;unknown;{'MS17-010': 'MS17-010'};[];2020-09-29 05:43:01;unknown
+223.204.89.66;unknown;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[];2020-09-29 20:30:42;unknown
+45.249.41.116;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[];2020-09-29 06:04:30;unknown

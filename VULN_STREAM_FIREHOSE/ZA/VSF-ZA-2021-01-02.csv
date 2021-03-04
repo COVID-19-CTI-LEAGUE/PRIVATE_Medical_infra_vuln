@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+169.0.223.54;37611;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8080];2021-01-02 17:52:32;Afrihost

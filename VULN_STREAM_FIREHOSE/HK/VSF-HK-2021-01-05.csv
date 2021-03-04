@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+203.186.48.138;9269;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1433, 443, 1723];2021-01-05 22:40:35;Hong Kong Broadband Network
+203.80.252.98;9269;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723, 10443];2021-01-05 20:57:11;Hong Kong Broadband Network
+42.200.90.13;4760;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 500, 1723];2021-01-05 22:00:57;Netvigator
+61.93.16.55;9269;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[80, 443, 8443];2021-01-05 20:56:42;Hong Kong Broadband Network

@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+176.107.177.55;42331;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 139, 3389];2020-09-14 12:40:04;PE Freehost
+91.209.235.2;48665;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[53, 3389];2020-09-14 22:20:18;Bukovinian State Medical University

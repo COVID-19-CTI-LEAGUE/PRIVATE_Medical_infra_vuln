@@ -1,0 +1,10 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+173.9.57.53;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2021-02-16 07:55:43;Comcast Business
+198.57.53.75;46957;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 23];2021-02-16 12:04:04;Medicine Park Telephone Company
+24.205.248.226;20115;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 443, 5900, 21, 3389];2021-02-16 11:55:47;Spectrum
+38.68.24.205;46957;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[135, 9001, 80, 81, 21, 445];2021-02-16 08:18:02;Medicine Park Telephone Company
+50.248.164.177;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2021-02-16 21:53:23;Comcast Business
+74.208.71.214;8560;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 995, 3389, 21];2021-02-16 21:39:22;1&1 Internet AG
+75.108.61.27;19108;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2021-02-16 23:38:14;Suddenlink Communications
+75.118.42.75;12083;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 3389, 110];2021-02-16 19:01:34;WideOpenWest
+96.11.186.22;10796;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2021-02-16 16:05:05;Spectrum Business

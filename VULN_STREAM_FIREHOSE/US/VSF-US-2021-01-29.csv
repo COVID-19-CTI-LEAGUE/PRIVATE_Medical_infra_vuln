@@ -1,0 +1,15 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+100.12.216.70;701;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[135, 137, 9001, 5357, 5001, 445];2021-01-29 02:30:45;Verizon Fios
+207.243.147.56;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2021-01-29 19:36:24;AT&T Internet Services
+208.38.91.20;7029;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 3389];2021-01-29 02:40:44;Windstream Communications
+24.196.97.242;20115;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[4443, 3389];2021-01-29 11:28:32;Spectrum
+24.205.248.226;20115;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 443, 5900, 21, 3389];2021-01-29 08:48:28;Spectrum
+35.224.89.33;15169;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2021-01-29 15:31:28;Google Cloud
+63.134.215.90;14992;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 110, 143, 80, 53, 25, 443, 3389, 21];2021-01-29 19:08:13;Newtek Technology Solutions
+63.134.216.90;14992;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8080, 53, 3389, 21];2021-01-29 04:06:58;Newtek Technology Solutions
+64.146.233.7;16713;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-01-29 14:38:01;Northwest Open Access Network
+64.146.233.83;16713;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-01-29 14:00:55;Northwest Open Access Network
+64.237.32.138;20473;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 137, 3389, 445];2021-01-29 15:39:17;Choopa, LLC
+69.227.212.218;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 3389];2021-01-29 05:48:45;AT&T Internet Services
+71.172.95.235;701;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 3389, 22];2021-01-29 00:37:21;Verizon Fios Business
+75.112.58.109;33363;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 445];2021-01-29 00:53:40;Spectrum Business

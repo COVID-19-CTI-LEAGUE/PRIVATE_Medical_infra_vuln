@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+107.151.161.38;21859;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[999, 445, 80, 21, 6588, 3389];2021-02-08 05:08:56;Zenlayer
+162.247.42.66;36012;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-02-08 15:53:43;Hunter Communications
+63.134.216.90;14992;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8080, 53, 3389, 21];2021-02-08 12:33:50;Newtek Technology Solutions
+64.146.233.83;16713;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-02-08 17:25:31;Northwest Open Access Network
+64.147.49.134;55032;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2021-02-08 08:22:25;The Jackson Laboratory
+69.227.212.218;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 3389];2021-02-08 06:29:53;AT&T Internet Services
+69.43.35.76;6536;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5357, 135, 445, 3389];2021-02-08 06:22:05;CityNet

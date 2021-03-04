@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+196.189.58.49;24757;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[80, 1723, 443, 53, 22];2021-01-06 03:07:40;Ethiopian Telecommunication Corporation

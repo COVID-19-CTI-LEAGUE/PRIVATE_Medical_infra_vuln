@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.132.148.92;138798;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 8081, 21];2020-10-23 04:14:48;Mutiny Systems Private Limited
+103.98.62.26;136336;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[500];2020-10-23 09:49:10;Thamizhaga Internet Communications Private Limited
+118.91.181.10;18002;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 135];2020-10-23 12:22:25;Interdomain Routing
+182.19.46.186;55410;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 22, 10443];2020-10-23 06:10:10;Vodafone India
+183.82.37.226;24309;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[9000, 9999, 445, 5357];2020-10-23 07:08:08;ACT Fibernet
+59.177.176.96;17813;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 5357];2020-10-23 04:38:27;Mahanagar Telephone Nigam

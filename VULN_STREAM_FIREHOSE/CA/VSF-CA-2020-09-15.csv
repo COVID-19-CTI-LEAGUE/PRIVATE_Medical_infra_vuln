@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+207.253.131.100;12132;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[9090, 1194];2020-09-15 16:51:36;Quebec Internet
+216.168.114.202;11666;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-09-15 19:15:43;Nexicom
+70.65.217.122;6327;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[32400, 3389, 22];2020-09-15 14:30:59;Shaw Communications

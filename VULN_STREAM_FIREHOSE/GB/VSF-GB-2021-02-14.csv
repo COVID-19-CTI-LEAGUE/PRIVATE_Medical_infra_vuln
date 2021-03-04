@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.17.180.142;21396;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 21];2021-02-14 20:31:33;NetConnex Broadband Ltd.
+185.17.180.161;21396;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 21];2021-02-14 23:35:03;NetConnex Broadband Ltd.
+217.138.37.242;20952;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-02-14 21:31:38;Venus Business Communications Limited
+85.13.217.51;31708;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-02-14 21:37:54;Coreix Ltd

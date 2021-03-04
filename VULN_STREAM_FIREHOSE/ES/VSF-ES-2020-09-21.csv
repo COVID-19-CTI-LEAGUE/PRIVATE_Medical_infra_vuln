@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+213.195.119.58;15704;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8081, 443, 6881];2020-09-21 04:18:24;Yoigo

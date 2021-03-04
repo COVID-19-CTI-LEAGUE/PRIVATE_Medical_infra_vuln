@@ -1,0 +1,11 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+12.222.170.235;unknown;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[];2020-10-30 05:56:47;unknown
+122.170.3.28;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[];2020-10-30 06:28:22;unknown
+125.25.197.183;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-10-30 17:23:15;unknown
+14.100.2.126;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[];2020-10-30 05:46:25;unknown
+177.138.84.169;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-10-30 00:30:44;unknown
+183.82.144.226;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[];2020-10-30 06:33:28;unknown
+190.252.87.82;unknown;{'MS17-010': 'MS17-010'};[];2020-10-30 14:12:56;unknown
+45.74.24.9;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[];2020-10-30 03:24:30;unknown
+79.114.210.177;unknown;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[];2020-10-30 03:22:55;unknown
+89.35.52.225;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[];2020-10-30 07:07:15;unknown

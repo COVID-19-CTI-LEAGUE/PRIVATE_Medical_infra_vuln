@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+81.184.7.73;6739;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5000, 80, 21, 25, 443, 3389];2020-11-08 13:40:41;Vodafone Ono

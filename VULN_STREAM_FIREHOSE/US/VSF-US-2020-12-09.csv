@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+108.175.220.18;54706;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 4443, 3389];2020-12-09 05:07:25;Zray Technologies Corporation
+12.109.102.250;40098;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-12-09 22:04:18;Community Antenna Service
+155.139.188.250;25609;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-12-09 20:57:46;Detroit Medical Center
+4.4.48.5;3356;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-12-09 09:09:56;Level 3 Communications
+64.251.13.33;15083;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 135, 3389, 53];2020-12-09 18:18:32;Infolink Global Corporation
+66.159.61.130;12028;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-12-09 03:48:31;MM Internet

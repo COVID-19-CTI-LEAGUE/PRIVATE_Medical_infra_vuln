@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+18.232.83.217;14618;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-12-21 17:58:08;Amazon.com
+198.101.238.79;33070;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 5986, 3389];2020-12-21 07:26:36;Rackspace Cloud Servers
+50.241.233.49;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 500, 443];2020-12-21 02:13:38;Comcast Business
+64.85.235.245;11404;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[444, 3389];2020-12-21 06:13:39;Wave Broadband
+68.178.53.146;7385;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 444, 3389];2020-12-21 15:28:54;Allstream

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+189.41.228.3;53006;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[7547];2021-01-07 20:06:00;Algar Telecom

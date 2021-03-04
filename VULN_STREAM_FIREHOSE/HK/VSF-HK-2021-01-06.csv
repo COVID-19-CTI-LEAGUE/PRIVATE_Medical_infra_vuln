@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+101.78.137.229;9381;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 443, 3389, 143];2021-01-06 16:31:21;Hong Kong Broadband Network
+116.48.141.119;4760;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[80, 5001, 5000, 443, 1723];2021-01-06 08:06:44;Netvigator
+210.3.142.138;9304;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8000, 1723, 8008, 3306, 53, 8443, 443, 3389];2021-01-06 00:09:01;HGC Broadband
+218.253.255.30;9381;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 500, 1723];2021-01-06 06:20:37;Hong Kong Broadband Network
+223.197.251.186;4760;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1024, 443, 500, 1723];2021-01-06 08:09:28;Netvigator
+58.177.235.54;9269;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-01-06 11:42:28;Hong Kong Broadband Network
+59.148.56.239;9269;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 443];2021-01-06 03:51:58;Hong Kong Broadband Network

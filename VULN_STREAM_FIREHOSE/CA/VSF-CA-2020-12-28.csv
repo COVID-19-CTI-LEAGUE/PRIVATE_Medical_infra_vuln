@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+161.184.238.211;852;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[22];2020-12-28 11:10:56;Telus Communications
+24.64.76.43;6327;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 5357, 135];2020-12-28 16:09:56;Shaw Communications
+45.73.60.102;5769;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-12-28 12:09:59;Videotron Ltee
+70.51.93.192;577;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389, 22];2020-12-28 09:00:07;Bell DSL Internet
+96.55.124.122;6327;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5353, 135];2020-12-28 12:07:40;Shaw Communications

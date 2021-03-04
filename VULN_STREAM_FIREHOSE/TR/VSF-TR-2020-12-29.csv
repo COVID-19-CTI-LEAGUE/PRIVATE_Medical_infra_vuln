@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+195.142.109.180;199484;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8083, 445];2020-12-29 22:14:01;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+213.155.122.82;8685;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2020-12-29 03:12:02;Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.

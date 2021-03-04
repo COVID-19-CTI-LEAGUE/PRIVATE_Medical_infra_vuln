@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.240.10.226;133720;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 3306, 445, 135];2021-02-27 07:45:27;Soft Call Cust-o-care Private Limited
+115.112.146.132;4755;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 3389, 2222, 137];2021-02-27 08:28:18;Tata Communications
+122.176.36.112;24560;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5357];2021-02-27 06:55:22;Airtel Broadband
+124.155.243.191;55879;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-02-27 13:48:13;SmartLink Broadband Services Pvt
+180.151.49.130;10029;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 389, 9191, 5353, 445, 2000, 88, 53, 8888, 123, 3389, 21];2021-02-27 05:10:18;Shyam Spectra Pvt

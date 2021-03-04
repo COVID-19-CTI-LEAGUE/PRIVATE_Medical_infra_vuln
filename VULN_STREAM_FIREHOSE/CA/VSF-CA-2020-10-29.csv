@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+207.245.204.130;15290;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5009, 8443, 3389];2020-10-29 00:52:21;Allstream Corp.
+216.168.114.202;11666;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-10-29 14:37:43;Nexicom

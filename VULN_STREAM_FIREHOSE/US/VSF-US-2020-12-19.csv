@@ -1,0 +1,10 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+104.171.225.50;135356;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[32400, 9090, 8291, 53, 3389];2020-12-19 17:53:32;Cn Care Network
+107.151.161.34;21859;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 21, 3389, 445];2020-12-19 02:02:01;Zenlayer
+12.237.88.3;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 3389];2020-12-19 07:22:18;AT&T Services
+165.166.79.211;2711;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-12-19 09:26:19;Spirit Communications
+207.144.94.140;7250;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-12-19 00:26:27;Surry Communications
+216.177.49.30;15076;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[9000, 110, 143, 80, 25, 443, 3389];2020-12-19 04:35:57;Delgado Industries, LLC
+50.242.157.82;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 500, 443];2020-12-19 02:09:08;Comcast Business
+68.99.159.47;22773;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-12-19 05:00:26;Cox Business
+71.14.161.82;20115;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 8080, 500, 8088, 443, 3389];2020-12-19 17:20:53;Spectrum

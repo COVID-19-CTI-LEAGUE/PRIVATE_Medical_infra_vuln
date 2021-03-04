@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+162.247.42.66;36012;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-12-13 18:57:51;Hunter Communications
+45.22.214.211;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-12-13 23:04:21;AT&T U-verse
+71.254.208.162;701;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8080, 5357];2020-12-13 16:53:01;Verizon Fios
+72.253.152.32;36149;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-12-13 20:25:53;Hawaiian Telcom
+74.202.206.232;3549;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1723, 3389];2020-12-13 08:23:20;Level 3 Communications
+75.118.42.75;12083;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 3389, 110];2020-12-13 17:01:21;WideOpenWest

@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.240.10.226;133720;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 3306, 445, 135];2020-12-18 16:27:10;Soft Call Cust-o-care Private Limited
+113.30.141.102;17447;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 443, 3389, 21];2020-12-18 05:47:40;Net4India
+43.249.54.42;133275;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[1433, 135];2020-12-18 15:40:49;Gigantic Infotel Pvt

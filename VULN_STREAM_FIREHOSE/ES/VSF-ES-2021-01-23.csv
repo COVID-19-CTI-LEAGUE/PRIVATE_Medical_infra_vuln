@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.208.220.84;205718;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 1723, 135, 8181, 445];2021-01-23 15:12:49;Alcort Ingenieria Y Asesoria S.l.

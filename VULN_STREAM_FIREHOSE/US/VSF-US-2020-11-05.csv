@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+12.222.170.237;16571;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-11-05 16:04:36;Kings Daughters Medical Center
+207.191.231.12;22458;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-11-05 21:39:36;NetSource Communications
+63.134.216.90;14992;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8080, 53, 3389, 21];2020-11-05 11:08:27;Newtek Technology Solutions
+65.182.170.130;22458;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-11-05 18:28:22;NetSource Communications

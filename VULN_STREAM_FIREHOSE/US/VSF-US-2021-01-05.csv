@@ -1,0 +1,126 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+100.32.201.58;5650;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723];2021-01-05 06:49:33;Frontier Communications
+104.171.225.50;135356;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[32400, 9090, 8291, 53, 3389];2021-01-05 07:10:56;Cn Care Network
+104.182.105.218;7018;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 22];2021-01-05 23:25:24;AT&T U-verse
+104.201.91.182;30036;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8008, 443, 1723];2021-01-05 20:30:16;Mediacom Cable
+104.3.2.193;7018;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 500];2021-01-05 19:01:52;AT&T U-verse
+107.204.191.228;7018;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[554, 1723, 443];2021-01-05 18:21:47;AT&T U-verse
+108.28.90.230;701;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 500, 443, 8443];2021-01-05 20:52:17;Verizon Fios
+108.30.51.160;701;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 500];2021-01-05 22:36:34;Verizon Fios
+108.39.140.92;701;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 500, 1723, 22];2021-01-05 21:26:59;Verizon Fios Business
+108.58.5.210;6128;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 53];2021-01-05 21:25:59;Optimum Online
+12.176.239.178;7018;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 443, 500, 53, 3389];2021-01-05 22:24:50;AT&T Services
+137.27.210.202;20115;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443];2021-01-05 18:56:49;Spectrum Business
+151.204.225.92;701;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8888, 443, 500];2021-01-05 21:54:18;Verizon Internet Services
+162.17.236.221;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 500, 443];2021-01-05 23:32:55;Comcast Business
+162.211.168.146;46792;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8080, 1723];2021-01-05 18:41:44;The Light Plant Commission of the City of Paragoul
+162.247.85.179;26744;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8081, 5443, 443, 53];2021-01-05 20:35:37;Planters Rural Telephone Cooperative
+167.142.84.74;5056;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 22];2021-01-05 22:40:33;Aureon Network Services
+170.249.164.110;13760;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723];2021-01-05 22:02:40;Southern Light, LLC
+173.10.231.137;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 500, 443];2021-01-05 15:35:34;Comcast Business
+173.163.92.165;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8000, 1723, 500, 53, 8443, 443];2021-01-05 19:01:22;Comcast Business
+173.219.184.41;19108;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723];2021-01-05 18:09:43;Suddenlink Communications
+173.219.68.36;19108;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 500, 8443];2021-01-05 17:11:20;Suddenlink Communications
+173.219.78.159;19108;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 3389];2021-01-05 16:34:08;Suddenlink Communications
+173.247.175.50;14265;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723];2021-01-05 21:57:38;TPx Communications
+173.3.145.197;6128;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723, 10443];2021-01-05 21:59:43;Optimum Online
+173.52.38.109;701;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 443, 500, 3389, 53];2021-01-05 17:15:07;Verizon Fios Business
+184.74.37.34;11351;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 443];2021-01-05 22:47:01;Spectrum Business
+192.129.127.175;53832;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8000, 443, 3389];2021-01-05 21:22:17;Boycom Cablevision
+198.211.223.59;11915;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723];2021-01-05 23:43:58;TPx Communications
+198.40.238.246;30036;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443];2021-01-05 19:51:22;Mediacom Cable
+199.102.57.42;31849;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723];2021-01-05 22:16:39;TGM Pinnacle Network Solutions llc
+199.167.83.146;36327;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[3306, 443, 500, 1723];2021-01-05 16:11:24;Vinakom Communications
+204.93.113.65;26827;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8008, 1723, 500, 443];2021-01-05 18:07:51;EPB Fiber Optics
+205.209.235.27;13693;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 10443, 500, 1723];2021-01-05 19:08:41;Vexus
+206.127.75.107;4043;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[49152, 1723, 5900, 8080, 500, 53, 443];2021-01-05 15:48:37;Montana Internet Corporation
+207.172.192.186;6079;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723];2021-01-05 20:42:01;RCN
+207.225.36.24;209;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 500, 443];2021-01-05 22:09:09;CenturyLink
+207.89.32.207;19009;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[80, 1723, 443, 53];2021-01-05 16:53:38;OneCleveland
+208.59.113.178;6079;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 500];2021-01-05 22:48:42;RCN
+208.65.66.135;36394;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 443, 53];2021-01-05 22:00:28;Grid4-gateways
+209.112.166.123;7782;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 500, 1723];2021-01-05 22:21:04;Alaska Communications
+209.143.3.109;7106;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8000, 49152, 8443, 1723, 49153, 8008, 80, 53, 22, 443];2021-01-05 15:14:34;Com Net
+209.217.212.74;7828;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[4443, 443, 500, 1723];2021-01-05 16:34:39;Northland Communications
+216.195.128.226;5760;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[80, 1723, 443, 53];2021-01-05 20:23:59;Biddeford Internet Corp
+216.23.202.20;11766;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-01-05 20:12:49;Meriplex Communications
+216.235.235.130;26202;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443];2021-01-05 15:29:26;Kinex Networking Solutions
+23.228.171.2;16591;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 500, 10443];2021-01-05 17:28:33;Google Fiber
+23.30.216.129;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 500, 443];2021-01-05 21:03:52;Comcast Business
+24.116.254.174;11492;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8008, 1723, 443, 8007];2021-01-05 23:13:44;Sparklight
+24.121.212.129;19108;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 443, 10443];2021-01-05 21:06:38;Suddenlink Communications
+24.136.105.86;12271;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8000, 8443, 1723, 8008, 80, 500, 53, 443];2021-01-05 16:13:00;Spectrum Business
+24.173.128.126;33363;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 443];2021-01-05 17:55:09;Spectrum Business
+24.213.19.11;20115;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[80, 443, 500, 21];2021-01-05 19:52:26;Spectrum Business
+24.229.64.58;3737;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 443];2021-01-05 21:15:10;PenTeleData
+24.39.117.22;12271;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723, 500, 53];2021-01-05 23:40:44;Spectrum Business
+24.8.4.119;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 500];2021-01-05 19:25:46;Comcast Cable
+38.105.129.94;174;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[80, 1723, 443, 53];2021-01-05 17:53:38;Cogent Communications
+47.19.245.100;6128;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[80, 500, 1194, 443, 5060];2021-01-05 22:14:31;Optimum Business
+50.202.43.6;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8200, 1723, 443];2021-01-05 18:53:04;Comcast Business
+50.209.132.57;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723];2021-01-05 16:15:11;Comcast Business
+50.211.99.177;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1050, 4443, 500];2021-01-05 17:41:08;Comcast Business
+50.226.90.226;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443];2021-01-05 22:29:11;Comcast Business
+50.246.186.189;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 500, 443];2021-01-05 14:53:49;Comcast Business
+50.254.206.53;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8888, 1723, 500, 443];2021-01-05 21:07:53;Comcast Business
+50.79.13.201;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723];2021-01-05 15:24:17;Comcast Business
+50.79.220.161;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 443];2021-01-05 15:55:28;Comcast Business
+54.211.24.50;14618;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389, 22];2021-01-05 20:28:14;Amazon.com
+63.134.215.90;14992;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 110, 143, 80, 53, 25, 443, 3389, 21];2021-01-05 03:46:27;Newtek Technology Solutions
+63.224.64.52;209;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 80, 443, 500, 53];2021-01-05 22:19:17;CenturyLink
+63.225.155.193;209;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 53];2021-01-05 19:40:44;CenturyLink
+63.230.221.170;209;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443];2021-01-05 21:41:08;CenturyLink
+64.122.241.122;7385;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8001, 443, 1723];2021-01-05 14:57:01;Allstream
+64.187.87.141;17046;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723];2021-01-05 21:04:52;Action Communications
+64.234.82.178;40285;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723];2021-01-05 20:37:24;Northland Communications
+64.60.63.235;14265;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[500, 3389];2021-01-05 01:11:30;TPx Communications
+65.127.76.171;209;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723];2021-01-05 16:41:02;CenturyLink
+66.129.161.182;23550;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 443];2021-01-05 16:28:00;PREPA Networks
+66.193.111.214;3549;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8008, 443, 1723];2021-01-05 15:15:40;Level 3 Communications
+66.214.150.254;20115;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 500];2021-01-05 16:05:39;Spectrum Business
+66.44.193.83;25853;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723];2021-01-05 22:39:11;Ellijay Telephone Company
+67.209.247.109;17143;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723];2021-01-05 19:15:51;Winn Telecom
+67.211.132.45;7795;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 500, 10443];2021-01-05 21:34:59;LUMOS Networks
+67.63.151.10;22561;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723];2021-01-05 22:02:52;CenturyLink
+68.116.15.213;20115;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723, 500, 21];2021-01-05 23:06:29;Spectrum Business
+68.5.201.38;22773;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 5900];2021-01-05 18:39:05;Cox Communications
+69.114.128.104;6128;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 10443];2021-01-05 16:16:22;Optimum Online
+69.115.245.28;6128;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 443];2021-01-05 16:14:09;Optimum Online
+69.126.221.19;6128;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723];2021-01-05 22:08:15;Optimum Online
+69.194.21.143;25853;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[80, 443];2021-01-05 22:37:29;Ellijay Telephone Company
+69.34.94.159;209;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723, 53];2021-01-05 23:32:09;CenturyLink
+70.90.193.235;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8443, 500];2021-01-05 17:51:05;Comcast Business
+71.174.87.122;701;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1194, 1723, 443];2021-01-05 21:31:23;Verizon Fios Business
+71.31.30.44;395464;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8000, 135, 137, 3306, 5357, 445];2021-01-05 22:15:52;Berea College
+71.39.82.153;209;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 500];2021-01-05 16:32:46;CenturyLink
+71.88.21.117;20115;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[10443, 500, 1723];2021-01-05 20:29:42;Spectrum
+71.95.177.138;20115;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[37777, 443, 500, 1723];2021-01-05 19:28:51;Spectrum Business
+71.97.145.20;701;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 500, 443];2021-01-05 20:57:53;Verizon Fios Business
+72.10.207.212;22302;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 443, 500, 53];2021-01-05 18:00:16;Inoc, LLC
+72.12.221.194;11114;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[80, 1723, 443, 53];2021-01-05 17:13:34;Wintek Corporation
+72.197.244.123;22773;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8008, 1723, 443];2021-01-05 20:14:17;Cox Communications
+72.222.105.121;22773;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 500, 443, 10443];2021-01-05 22:32:03;Cox Communications
+72.94.51.221;701;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 500, 1723];2021-01-05 19:14:30;Verizon Fios Business
+73.21.74.4;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 500, 1723, 53];2021-01-05 19:19:56;Comcast Cable
+73.74.108.57;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443];2021-01-05 19:56:22;Comcast Cable
+75.135.112.128;20115;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 500, 443];2021-01-05 16:06:00;Spectrum
+75.66.125.95;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8200, 873, 5353, 32400, 9000, 500, 22, 631, 443];2021-01-05 18:41:09;Comcast Cable
+75.76.105.121;12083;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[80, 443, 1723, 53];2021-01-05 20:07:52;WideOpenWest
+75.99.214.146;6128;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443];2021-01-05 18:08:14;Optimum Online
+75.99.249.180;6128;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[53];2021-01-05 17:14:59;Optimum Online
+76.189.222.94;10796;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[554, 4443, 500, 443];2021-01-05 17:41:04;Spectrum
+96.244.62.30;701;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443];2021-01-05 17:48:07;Verizon Fios Business
+96.46.17.81;13370;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8008, 8001, 443, 8005];2021-01-05 19:44:12;LocalTel Communications
+96.56.160.211;6128;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 443];2021-01-05 23:53:33;Optimum Online
+96.57.158.118;6128;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 9000, 80, 500, 1723, 3389];2021-01-05 20:05:13;Optimum Online
+96.57.35.170;6128;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 8443, 53];2021-01-05 20:53:32;Optimum Online
+96.73.123.205;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 500, 1723];2021-01-05 16:06:45;Comcast Business
+96.78.138.162;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[10443, 1723];2021-01-05 17:04:15;Comcast Business
+96.88.252.137;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 500, 443];2021-01-05 23:53:05;Comcast Business
+96.89.124.225;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 80, 443, 500, 53];2021-01-05 20:21:47;Comcast Business
+96.89.188.234;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443];2021-01-05 20:09:25;Comcast Business
+96.91.222.226;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443];2021-01-05 17:38:44;Comcast Business
+98.172.20.37;22773;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723];2021-01-05 22:32:06;Cox Business
+98.189.141.146;22773;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 500];2021-01-05 16:07:04;Cox Business
+98.235.140.224;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 443];2021-01-05 17:06:24;Comcast Cable
+98.42.53.97;7922;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 5900, 1723];2021-01-05 22:45:23;Comcast Cable

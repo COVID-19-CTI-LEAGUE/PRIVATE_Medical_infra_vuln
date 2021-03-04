@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+212.170.48.229;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1723, 443, 3389];2021-02-22 12:38:54;Telefonica de Espana Static IP
+37.222.98.216;12430;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 5357];2021-02-22 03:02:52;Vodafone Spain
+81.33.29.213;3352;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 1723];2021-02-22 12:15:32;Telefonica de Espana Static IP
+92.177.239.153;12479;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-02-22 02:34:32;Orange Espana

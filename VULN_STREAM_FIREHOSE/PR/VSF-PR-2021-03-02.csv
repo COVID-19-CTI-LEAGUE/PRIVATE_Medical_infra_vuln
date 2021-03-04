@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+24.48.201.120;14638;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[10243, 135, 137, 554, 5357, 110, 80, 443, 444, 3306];2021-03-02 00:14:49;Liberty Cablevision of Puerto Rico

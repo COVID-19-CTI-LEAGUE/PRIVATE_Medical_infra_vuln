@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+194.0.219.172;199148;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 443, 3389];2021-01-08 13:44:04;Ministry of Health of Russian Federation
+95.154.135.25;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2021-01-08 05:27:33;Production co-operative Economic-legal laboratory
+95.154.158.3;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[6881, 445];2021-01-08 19:30:43;Production co-operative Economic-legal laboratory

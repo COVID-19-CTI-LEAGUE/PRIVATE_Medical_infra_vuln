@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+122.168.126.240;24560;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[137, 10443, 445, 2222];2020-11-18 05:07:32;Airtel Broadband

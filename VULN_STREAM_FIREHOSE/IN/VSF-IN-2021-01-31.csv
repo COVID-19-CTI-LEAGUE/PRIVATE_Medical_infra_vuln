@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.217.152.194;135259;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[81];2021-01-31 01:30:42;Skyline Infonet Private Limited
+122.252.227.50;24186;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8080, 445];2021-01-31 16:11:03;RailTel Corporation Of India Ltd.
+180.151.232.203;10029;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2021-01-31 08:45:02;Shyam Spectra Pvt

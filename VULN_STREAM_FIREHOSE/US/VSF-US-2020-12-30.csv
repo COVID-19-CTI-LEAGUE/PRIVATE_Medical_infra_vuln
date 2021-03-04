@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+52.90.199.177;14618;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5985, 135, 5800, 5900, 3389, 445];2020-12-30 09:21:15;Amazon.com
+64.147.49.134;55032;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-12-30 05:20:40;The Jackson Laboratory
+64.60.63.235;14265;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[500, 3389];2020-12-30 07:32:30;TPx Communications
+64.85.235.245;11404;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[444, 3389];2020-12-30 05:39:36;Wave Broadband
+72.253.152.32;36149;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-12-30 11:45:43;Hawaiian Telcom

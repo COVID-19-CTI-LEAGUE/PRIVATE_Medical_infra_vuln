@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+41.210.130.55;20294;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 8080, 445, 4848, 8181, 3389, 21];2021-02-27 19:46:35;MTN Uganda

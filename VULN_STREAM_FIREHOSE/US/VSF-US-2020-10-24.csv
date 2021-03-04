@@ -1,0 +1,15 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+104.209.232.249;8075;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-10-24 19:01:00;Microsoft Azure
+12.222.170.237;16571;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-10-24 17:57:12;Kings Daughters Medical Center
+12.238.243.194;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 2555, 110, 143, 80, 443, 3389];2020-10-24 23:18:05;AT&T Services
+136.56.45.70;16591;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 10243, 445, 7547];2020-10-24 20:35:02;Google Fiber
+173.164.253.49;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-10-24 10:58:58;Comcast Business
+199.116.137.118;36489;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 443, 3389];2020-10-24 03:25:23;Netsolus.com
+207.152.134.9;11951;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 3389, 110];2020-10-24 16:35:21;Medical Computer Systems
+207.191.231.12;22458;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-10-24 05:36:34;NetSource Communications
+24.111.133.26;11232;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2121, 110, 80, 25, 26, 443, 3389];2020-10-24 12:35:00;Midco
+35.224.89.33;15169;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-10-24 10:13:46;Google Cloud
+47.21.218.93;6128;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 444, 3389];2020-10-24 18:11:42;Optimum Online
+52.90.199.177;14618;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5985, 135, 5800, 5900, 3389, 445];2020-10-24 12:40:35;Amazon.com
+64.85.235.245;11404;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[444, 3389];2020-10-24 12:30:02;Wave Broadband
+71.163.239.202;701;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-10-24 17:48:06;Verizon Fios Business

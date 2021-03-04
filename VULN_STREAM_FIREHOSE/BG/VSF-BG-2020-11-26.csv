@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+84.54.183.64;29084;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8080, 1723, 2222, 3389, 2000, 8291, 21, 8443, 445];2020-11-26 08:12:24;Comnet Bulgaria Holding Ltd.

@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.17.180.184;21396;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 21];2020-12-26 17:20:05;Nimbus Hosting Ltd.
+185.17.183.156;21396;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389, 21];2020-12-26 00:14:04;Nimbus Hosting Ltd.
+81.142.81.41;2856;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 1723, 993, 143, 80, 8443, 25, 443, 3388, 3389];2020-12-26 17:48:06;BT

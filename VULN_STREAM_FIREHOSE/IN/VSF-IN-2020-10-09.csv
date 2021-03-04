@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.99.149.179;136689;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-10-09 23:24:28;Skylink Fibernet Private Limited
+117.239.147.91;9829;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 3389];2020-10-09 00:49:27;BSNL
+164.164.87.51;7633;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-10-09 19:18:58;Software Technology Parks of India - Bangalore
+43.241.134.13;58678;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[1433, 5357, 135];2020-10-09 06:06:30;Intech Online Private Limited

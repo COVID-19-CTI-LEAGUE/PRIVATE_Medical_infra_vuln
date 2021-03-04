@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+181.28.66.252;10318;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1723, 443, 500, 3389];2021-02-16 06:43:42;Cablevision Argentina
+181.44.46.124;27747;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 500, 1723, 3389];2021-02-16 01:54:14;TeleCentro
+186.158.24.111;11664;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 137, 443, 445];2021-02-16 13:11:24;Claro Argentina

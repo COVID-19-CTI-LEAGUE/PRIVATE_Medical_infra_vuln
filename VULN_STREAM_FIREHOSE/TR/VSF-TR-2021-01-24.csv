@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+178.18.196.142;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 1434, 3389];2021-01-24 12:39:08;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+178.18.205.118;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 21, 1433, 443, 3389, 53];2021-01-24 20:04:07;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni
+213.155.122.82;8685;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2021-01-24 11:15:38;Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.
+31.186.8.173;199484;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 443, 3389, 137];2021-01-24 07:40:47;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+37.1.145.250;50941;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 80, 8081, 8083, 84, 21, 1433, 1434, 3389];2021-01-24 14:04:40;Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni

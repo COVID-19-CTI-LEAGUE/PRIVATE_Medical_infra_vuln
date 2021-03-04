@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+190.46.133.6;22047;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[53];2020-09-18 16:37:04;VTR Banda Ancha
+45.236.129.26;64111;{'MS17-010': 'MS17-010'};[80, 137, 3389, 445, 53];2020-09-18 13:53:50;Informatica Bluehosting Limitada

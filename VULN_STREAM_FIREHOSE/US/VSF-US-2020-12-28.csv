@@ -1,0 +1,14 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+100.32.201.58;5650;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723];2020-12-28 05:50:58;Frontier Communications
+108.175.220.18;54706;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 4443, 3389];2020-12-28 15:50:01;Zray Technologies Corporation
+12.237.88.3;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 3389];2020-12-28 10:11:15;AT&T Services
+136.56.54.238;16591;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 10243, 135, 445, 5357];2020-12-28 07:28:35;Google Fiber
+155.139.187.250;25609;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[443];2020-12-28 15:06:33;Detroit Medical Center
+173.248.152.196;30475;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 587, 5357, 110, 143, 8080, 21, 25, 3389, 53];2020-12-28 17:01:45;Handy Networks, LLC
+63.134.215.90;14992;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 110, 143, 80, 53, 25, 443, 3389, 21];2020-12-28 12:06:43;Newtek Technology Solutions
+64.147.49.134;55032;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443];2020-12-28 01:19:14;The Jackson Laboratory
+66.159.61.130;12028;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[80, 443];2020-12-28 20:40:30;MM Internet
+70.90.139.133;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8081, 25, 10554, 443, 3389];2020-12-28 17:26:22;Comcast Business
+71.172.95.235;701;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 3389, 22];2020-12-28 03:03:30;Verizon Fios Business
+71.48.206.183;209;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[4567];2020-12-28 04:00:43;CenturyLink
+72.48.89.16;7459;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-12-28 09:23:49;Grande Communications

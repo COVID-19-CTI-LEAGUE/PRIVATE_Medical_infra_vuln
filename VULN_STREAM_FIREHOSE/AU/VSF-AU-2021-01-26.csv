@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+180.150.101.183;4764;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8443];2021-01-26 11:46:17;Aussie Broadband

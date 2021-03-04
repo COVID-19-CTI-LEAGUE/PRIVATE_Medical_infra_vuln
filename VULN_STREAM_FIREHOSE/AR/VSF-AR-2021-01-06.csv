@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+152.168.173.213;7303;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 443];2021-01-06 01:01:06;Telecom Argentina S.A.
+181.30.120.69;10481;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[161, 8291, 993, 80, 53, 25, 443, 3389];2021-01-06 00:16:42;Cablevision Argentina
+190.193.169.242;10481;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8080, 1723, 443, 500, 3389];2021-01-06 06:52:19;Cablevision Argentina
+190.210.239.49;16814;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 500, 443];2021-01-06 09:41:02;NSS S.A.
+200.105.110.162;262150;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723];2021-01-06 01:41:22;Empresa Provincial de Energia de Cordoba
+200.24.255.54;52381;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 135, 3389, 500, 1433, 1723, 445];2021-01-06 08:00:33;Sociedad Cooperativa Popular Limitada de Comodoro
+200.42.119.90;7303;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[80, 443, 500, 1723];2021-01-06 02:13:27;Cablevision Argentina

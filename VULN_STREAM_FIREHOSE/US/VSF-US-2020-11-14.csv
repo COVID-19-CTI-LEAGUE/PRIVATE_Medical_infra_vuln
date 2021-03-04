@@ -1,0 +1,13 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+108.175.220.18;54706;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 4443, 3389];2020-11-14 02:01:30;Zray Technologies Corporation
+216.23.202.20;11766;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-11-14 14:56:37;Meriplex Communications
+24.196.97.242;20115;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[4443, 3389];2020-11-14 03:51:14;Spectrum
+38.109.180.207;174;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389, 21];2020-11-14 06:28:13;Cogent Communications
+50.253.156.130;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-11-14 15:08:59;Comcast Business
+63.134.216.90;14992;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8080, 53, 3389, 21];2020-11-14 17:09:36;Newtek Technology Solutions
+64.85.235.245;11404;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[444, 3389];2020-11-14 06:53:28;Wave Broadband
+69.227.212.218;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 3389];2020-11-14 19:49:43;AT&T Internet Services
+71.172.95.236;701;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389, 22];2020-11-14 07:26:59;Verizon Fios Business
+75.108.61.27;19108;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-11-14 05:20:20;Suddenlink Communications
+75.118.42.75;12083;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 3389, 110];2020-11-14 12:20:02;WideOpenWest
+75.149.82.213;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 25, 443, 1723, 3389];2020-11-14 13:26:38;Comcast Business

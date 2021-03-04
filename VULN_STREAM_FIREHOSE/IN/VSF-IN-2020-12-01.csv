@@ -1,0 +1,6 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+14.98.208.248;45820;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 3389];2020-12-01 11:38:00;Tata Teleservices ISP
+202.149.215.108;17762;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-12-01 15:31:54;Tata Teleservices (Maharashtra)
+45.248.21.44;133720;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 82, 445];2020-12-01 14:50:49;Soft Call Cust-o-care Private Limited
+45.248.21.48;133720;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[10000, 9999];2020-12-01 11:50:48;Soft Call Cust-o-care Private Limited
+59.97.20.117;9829;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 1433, 5357, 445];2020-12-01 05:49:53;BSNL

@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+207.245.204.130;15290;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[5009, 8443, 3389];2020-09-10 17:28:29;Allstream Corp.

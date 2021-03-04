@@ -1,0 +1,8 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+166.62.43.110;26496;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3306, 110, 143, 80, 23, 25, 1434, 3389];2020-09-17 16:48:39;GoDaddy.com, LLC
+192.236.0.28;393238;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 443, 3389];2020-09-17 23:57:26;ImOn Communications, LLC
+45.22.214.211;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-09-17 18:26:58;AT&T U-verse
+69.92.72.250;11492;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-09-17 20:27:13;Sparklight
+71.9.32.232;20115;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2020-09-17 17:55:44;Spectrum
+96.80.243.213;7922;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-09-17 11:14:05;Comcast Business
+99.114.247.211;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[104, 443, 500, 3389];2020-09-17 22:17:36;AT&T Internet Services

@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+171.6.158.206;45629;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[7547, 445];2021-02-12 07:42:11;3BB Broadband
+171.6.214.150;45629;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-02-12 12:25:14;3BB Broadband
+202.29.24.238;136624;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3306, 21, 3389];2021-02-12 01:16:37;Sakon Nakhon Rajabhat University
+203.150.29.246;4618;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[135, 137, 3306, 445, 80, 3389];2021-02-12 10:12:31;Internet Thailand Company Limited

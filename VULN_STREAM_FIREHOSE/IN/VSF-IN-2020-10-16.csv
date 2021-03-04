@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.47.65.197;133652;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 10000, 3389];2020-10-16 14:20:11;Zapbytes Technologies Pvt.
+103.49.241.74;133720;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389, 8443];2020-10-16 21:25:20;Soft Call Cust-o-care Private Limited
+113.30.141.117;17447;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 1433, 21, 3389];2020-10-16 20:27:49;Net4India

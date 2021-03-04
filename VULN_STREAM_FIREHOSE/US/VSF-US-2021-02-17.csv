@@ -1,0 +1,9 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+108.175.220.18;54706;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 4443, 3389];2021-02-17 03:54:54;Zray Technologies Corporation
+165.166.79.211;2711;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-02-17 14:59:05;Spirit Communications
+192.31.88.129;302;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445, 135];2021-02-17 07:28:56;Baylor College of Medicine
+23.96.28.35;8075;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-02-17 09:11:31;Microsoft Azure
+24.227.178.125;11427;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[25, 443, 3389, 4117];2021-02-17 08:44:32;Spectrum Business
+63.134.216.90;14992;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 8080, 53, 3389, 21];2021-02-17 13:38:44;Newtek Technology Solutions
+69.227.212.218;7018;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[1433, 3389];2021-02-17 14:52:33;AT&T Internet Services
+96.11.186.22;10796;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389];2021-02-17 02:28:31;Spectrum Business

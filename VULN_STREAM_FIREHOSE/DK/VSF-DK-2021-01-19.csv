@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+5.103.83.209;44869;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[137, 3102, 135];2021-01-19 05:42:11;Fibia

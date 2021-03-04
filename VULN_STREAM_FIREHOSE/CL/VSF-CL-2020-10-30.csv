@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+198.41.35.26;16874;{'CVE-2019-11510': 'PulseSecure VPN RCE'};[443];2020-10-30 09:25:34;Sonda S.A.

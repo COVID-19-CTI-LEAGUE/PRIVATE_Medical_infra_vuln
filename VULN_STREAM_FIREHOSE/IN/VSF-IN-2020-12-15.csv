@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.48.180.246;132774;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[135, 5357, 80, 82, 1433, 445];2020-12-15 16:55:25;Niss Internet services private limited
+113.30.141.73;17447;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 21, 1433, 443, 3389, 7070];2020-12-15 06:23:00;Net4India
+122.176.36.112;24560;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5357];2020-12-15 09:36:12;Airtel Broadband

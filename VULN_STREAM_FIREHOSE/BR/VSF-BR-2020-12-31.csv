@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.74.255.25;263653;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 1433, 8291, 3389];2020-12-31 09:23:44;Costa Esmeralda Net Ltda Me
+201.82.4.29;28573;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 8181];2020-12-31 07:04:19;Claro NET
+45.171.117.71;268743;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 137, 123, 3389];2020-12-31 18:15:04;Sociedade Campineira De Educacao E Instrucao

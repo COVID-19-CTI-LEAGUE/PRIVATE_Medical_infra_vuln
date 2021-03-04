@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+41.139.176.82;37061;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8889, 500, 22];2021-01-31 22:32:13;Safaricom Business

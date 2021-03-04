@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.134.185.109;205725;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[2000, 139, 445];2020-09-23 21:48:45;Selcuk Ecza Deposu Ticaret ve Sanayi Anonim Sirket
+185.28.2.212;199484;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 1433, 445, 3389];2020-09-23 08:24:28;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+195.142.109.180;199484;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[8083, 445];2020-09-23 20:36:16;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+89.35.52.204;61135;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5357, 139, 445, 3389];2020-09-23 04:52:57;Comnet Bilgi Iletisim Teknolojileri Ticaret A.s.

@@ -1,0 +1,7 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+131.255.237.14;262318;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[10000, 37777, 3388, 9101, 53];2020-12-09 04:58:21;Horizons Telecomunicacoes e Tecnologia Ltda
+189.127.15.14;27693;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 8081, 8080, 445];2020-12-09 22:38:47;NipCable do Brasil Telecom LTDA
+201.182.223.43;267541;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 8080, 3333, 3389, 1433];2020-12-09 03:29:22;Brasilnet Internet Banda Larga Ltda-me
+201.82.4.29;28573;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 8181];2020-12-09 14:32:02;Claro NET
+45.170.56.50;268148;{'MS17-010': 'MS17-010'};[8080, 137, 445, 80];2020-12-09 06:31:56;AccessLink Telecom
+45.171.117.71;268743;{'MS17-010': 'MS17-010'};[2000, 137, 123, 3389];2020-12-09 04:14:12;Sociedade Campineira De Educacao E Instrucao

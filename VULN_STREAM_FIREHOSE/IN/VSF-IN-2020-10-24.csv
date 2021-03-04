@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.250.160.122;45916;{'MS17-010': 'MS17-010'};[137, 445];2020-10-24 05:34:46;GTPL Broadband
+103.49.241.74;133720;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[443, 3389, 8443];2020-10-24 06:51:15;Soft Call Cust-o-care Private Limited
+122.176.31.199;24560;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[1434, 3389, 5357, 135];2020-10-24 15:58:56;Airtel Broadband
+164.164.87.51;7633;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2020-10-24 18:35:47;Software Technology Parks of India - Bangalore

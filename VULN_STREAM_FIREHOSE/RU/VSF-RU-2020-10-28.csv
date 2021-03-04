@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+79.111.156.4;12714;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[8080, 8291, 8001, 443, 2000, 82, 1723, 3389];2020-10-28 04:47:43;Net By Net Holding LLC
+83.171.114.105;8997;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[2000, 53, 3389];2020-10-28 19:36:16;Rostelecom
+95.154.177.44;43714;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[445];2020-10-28 02:21:03;Production co-operative Economic-legal laboratory

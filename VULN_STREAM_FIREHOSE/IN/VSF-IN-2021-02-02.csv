@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+202.164.153.74;17465;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5357];2021-02-02 07:34:22;Asianet
+43.231.240.2;45775;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 139, 445];2021-02-02 03:32:21;Wish Net Private Limited
+45.248.21.44;133720;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 82, 445];2021-02-02 07:52:39;Soft Call Cust-o-care Private Limited

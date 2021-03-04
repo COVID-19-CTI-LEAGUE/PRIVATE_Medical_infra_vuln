@@ -1,0 +1,5 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+12.109.102.250;40098;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-11-26 16:28:46;Community Antenna Service
+162.210.7.174;15108;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 443, 3389];2020-11-26 18:16:12;Allo Communications LLC
+208.112.46.98;20021;{'MS17-010': 'MS17-010'};[137, 139, 445, 80, 111, 3260, 3389];2020-11-26 15:50:13;HostMySite
+75.108.61.27;19108;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 3389];2020-11-26 09:16:31;Suddenlink Communications

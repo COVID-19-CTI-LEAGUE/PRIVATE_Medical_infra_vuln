@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+37.75.13.139;199484;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[37, 21, 3389];2020-10-20 06:19:12;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare

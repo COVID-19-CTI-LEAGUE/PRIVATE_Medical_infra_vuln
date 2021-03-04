@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+103.105.253.180;136885;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[135, 3306, 5357, 80, 443, 445];2021-03-02 16:37:17;PT Bintang Mataram Teknologi

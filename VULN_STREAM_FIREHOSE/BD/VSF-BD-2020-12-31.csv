@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+203.83.171.154;17471;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 135, 8080, 1433, 1434, 445];2020-12-31 01:31:33;Grameen Cybernet Ltd. Bangladesh.

@@ -1,0 +1,12 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+12.161.185.13;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-12-18 09:07:51;unknown
+177.103.235.204;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-12-18 07:37:36;unknown
+186.14.94.24;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-12-18 10:06:15;unknown
+186.93.109.234;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-12-18 14:51:13;unknown
+187.201.38.142;unknown;{'MS17-010': 'MS17-010'};[];2020-12-18 05:31:42;unknown
+201.108.229.81;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[];2020-12-18 23:07:11;unknown
+201.111.40.98;unknown;{'MS17-010': 'MS17-010'};[];2020-12-18 02:18:14;unknown
+45.251.109.187;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[];2020-12-18 23:14:54;unknown
+81.42.214.230;unknown;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[];2020-12-18 15:10:22;unknown
+95.154.132.194;unknown;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[];2020-12-18 17:20:08;unknown
+95.154.136.231;unknown;{'MS17-010': 'MS17-010'};[];2020-12-18 09:38:38;unknown

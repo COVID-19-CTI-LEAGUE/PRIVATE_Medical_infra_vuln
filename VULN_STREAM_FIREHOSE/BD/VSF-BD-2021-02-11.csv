@@ -1,0 +1,3 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+182.160.119.110;24323;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[902, 135, 137, 3306, 139, 80, 37777, 443, 445];2021-02-11 04:32:27;aamra networks limited
+203.83.171.154;17471;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[80, 135, 8080, 1433, 1434, 445];2021-02-11 14:15:51;Grameen Cybernet Ltd. Bangladesh.

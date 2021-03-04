@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+177.104.244.132;52657;{'CVE-2020-0796': 'MS SMBv3 RCE (SMBGhost)'};[5985, 123, 1723, 80, 10443, 3389, 8080, 593, 53, 22, 88, 1433, 443, 445];2021-02-22 12:59:01;Norte Telecomunicacoes Servicos De Internet Ltda

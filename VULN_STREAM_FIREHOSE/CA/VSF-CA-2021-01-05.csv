@@ -1,0 +1,22 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+142.112.112.83;577;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[80, 554, 1723, 443];2021-01-05 22:44:48;Bell Canada
+142.166.30.162;855;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[9100, 443, 500, 1723];2021-01-05 19:42:38;Bell Canada
+142.59.196.8;852;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8080, 10443, 500, 1723];2021-01-05 18:32:27;Telus Communications
+173.209.159.202;812;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 443, 22];2021-01-05 21:06:34;Rogers Cable
+184.163.32.88;5769;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8000, 1723, 8008, 80, 53, 8443, 443];2021-01-05 22:08:29;Videotron Ltee
+184.69.144.54;6327;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 443];2021-01-05 16:56:43;Shaw Communications
+184.70.147.174;6327;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8000, 8443, 8008, 8081, 53, 22, 443];2021-01-05 23:36:35;Shaw Communications
+192.214.247.215;22423;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443];2021-01-05 20:22:17;Altima Telecom
+192.64.10.82;395043;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723, 8443];2021-01-05 23:56:41;Ascent Energy Services
+205.200.241.95;7122;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 53];2021-01-05 15:49:38;Bell MTS
+206.248.171.220;5645;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1234, 1723, 500, 443];2021-01-05 23:01:30;TekSavvy Solutions
+216.145.104.50;25946;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[1723, 500, 443];2021-01-05 22:06:21;NetAccess Systems
+24.207.101.102;22799;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8080, 443];2021-01-05 18:43:27;EastLink
+24.226.192.97;11290;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[8008, 443];2021-01-05 22:14:10;Cogeco Cable
+45.78.167.18;7992;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 53];2021-01-05 21:33:09;Cogeco Cable
+50.72.214.0;6327;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[80, 443, 500, 53, 10443];2021-01-05 20:10:54;Shaw Communications
+69.70.135.66;5769;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[3306, 443, 500];2021-01-05 18:41:43;Videotron Ltee
+69.70.96.54;5769;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 500];2021-01-05 17:09:06;Videotron Ltee
+72.137.136.246;812;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 500, 1723];2021-01-05 21:30:39;Rogers Cable
+72.139.20.102;812;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443];2021-01-05 16:01:57;Rogers Cable
+72.139.26.226;812;{'CVE-2019-1653': 'Cisco WAN VPN Router unauth access', 'CVE-2019-1652': 'CVE-2019-1652'};[443, 1723];2021-01-05 15:48:18;Rogers Cable

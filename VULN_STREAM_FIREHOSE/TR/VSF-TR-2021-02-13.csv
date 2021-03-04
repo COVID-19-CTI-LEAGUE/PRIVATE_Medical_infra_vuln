@@ -1,0 +1,4 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+185.137.213.33;208002;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2021-02-13 15:31:32;Ng Bilgi Teknoloji Sanayi Ve Ticaret Anonim Sirket
+185.40.73.110;199484;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[80, 5000, 8090, 443, 3389];2021-02-13 04:37:06;SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare
+213.155.122.82;8685;{'CVE-2019-19781': 'Citrix RCE (Shitrix)'};[80, 443, 22];2021-02-13 12:27:51;Doruk Iletisim ve Otomasyon Sanayi ve Ticaret A.S.

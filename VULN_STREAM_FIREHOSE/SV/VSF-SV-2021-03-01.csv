@@ -1,0 +1,2 @@
+IP;ASN;{CVEs};[Ports];Time;AS_Desc
+190.86.199.172;14754;{'CVE-2019-0708': 'Windows RDP RCE (BlueKeep)'};[3389];2021-03-01 11:42:45;Claro El Salvador
